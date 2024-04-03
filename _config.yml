@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Budidaya Tani"
+title: "Budidaya Tani"
+description: "Portal Informasi Pertanian, Peternakan"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /budidaya
@@ -13,13 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Yudi Anto:
+    name: Yudianto
+    display_name: Yudianto
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
+    orcid: https://orcid.org/0000-0001-9836-4408
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
