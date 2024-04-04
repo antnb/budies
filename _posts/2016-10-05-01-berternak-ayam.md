@@ -3,6 +3,7 @@ layout: post
 title: Berternak Ayam Kampung bisnis sampingan yang menjanjikan
 date: '2016-10-05T13:21:00.000+07:00'
 author: Yudi Anto
+categories: pertanian
 tags:
 - ayam kampung
 - Peternakan
