@@ -100,12 +100,15 @@ ga('send', 'pageview');
 
             <!-- Site Title
             ================================================== -->
-            <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
-                <p class="lead">
-                    {{ site.description }}
-                </p>
-            </div>
+		{% if paginator.page == 1 %}
+		<div class="mainheading">
+			<h1 class="sitetitle">{{ site.name }}</h1>
+			<p class="lead">
+				{{ site.description }}
+			</p>
+		</div>
+		{% endif %}
+
             <!-- Content
             ================================================== -->
             <div class="main-content">
