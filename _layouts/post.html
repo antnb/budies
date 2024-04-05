@@ -31,7 +31,7 @@ post_class: post-template
 				{% assign reading_time = words | plus: 150 | divided_by: 150 %}
 
 				<div class="article-info">
-					<p class="author-info">Written by {{ author.display_name }} on {{ page.date | date_to_long_string }} | Reading time: {{ reading_time }} minutes | Last modified: {% last_modified {{ page.path }} %}</p>
+					<p class="author-info">Written by {{ author.display_name }} on {{ page.date | date_to_long_string }} | Reading time: {{ reading_time }} minutes</p>
 				</div>
 
 
