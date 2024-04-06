@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/216-sentra-produksi
 layout: post
 title: 'Camilan Durian: Kisah Sukses Wanee Boonsawad dalam Industri Olahan Durian'
 date: '2020-04-20T15:51:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Berita
 - durian
 modified_time: '2023-08-19T13:13:57.660+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5e9C_HjCMyVGCRq5enyT3HbteVauIFjJawUmDkp1bXXar3he3btfwxac_W8U3I00BnPcUj_i8q7pSPuiDu0nFc44DHbIbL6tD1iP7dyfytJY5kKKWi4t9J0mZeCmU1VHklnecWYINW5VxearGuNAX9SwpIRLmTxaMcpfGmP1jzKkvnwSUWRObSB_Zyt0J/s72-w640-c-h442/durian_1154x800-768x532.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5568520414046471707
 blogger_orig_url: https://www.budidayatani.com/2020/04/sentra-produksi-camilan-olahan-durian.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/46-cara-mengawinkan
 layout: post
 title: Cara Mengawinkan Dua Varietas Adenium
 date: '2019-06-09T16:47:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2022-12-14T12:29:37.655+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1162899308003951594
 blogger_orig_url: https://www.budidayatani.com/2019/06/cara-mengawinkan-dua-varietas-adenium.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/486-kunci-keberhasilan
 layout: post
 title: 'PT Indo Nature: Memproduksi Buah Kering Berkualitas dengan Metode Pengeringan
   yang Inovatif'
@@ -13,7 +14,6 @@ tags:
 - Berita
 - indo nature
 modified_time: '2023-06-26T12:53:12.070+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8760759283539422765
 blogger_orig_url: https://www.budidayatani.com/2021/04/kunci-keberhasilan-mengawetkan-buah.html
 ---
 

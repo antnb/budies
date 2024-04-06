@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/70-guppy-terbaik
 layout: post
 title: 'Guppy Terbaik Dari Negeri Thailand: Mengungkap Pesona Guppy Langka'
 date: '2019-06-14T13:12:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - guppy
 modified_time: '2023-05-25T08:16:37.040+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjChz8-BMRFbpLWl6h6m-9h6i57pz1EcwvDvZqnc5xbBx37D1YA5r13enBZNcBuh2NIi047ojOZoag5-TZi--w3NIpxhA30y9fBdxZ5afngmIZwe1a0q9zu5sS81R3yD2wfYffofdMlYneEmb2kNvreIR1RyvA8UBdXHyqj_W5bh4QzMFCN1LV5zProJw/s72-w640-c-h374/guppy.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8988435824452760338
 blogger_orig_url: https://www.budidayatani.com/2019/06/guppy-terbaik-dari-negeri-thailand.html
 ---
 

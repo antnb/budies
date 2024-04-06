@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/244-halfmoon-gold
 layout: post
 title: 'Terinspirasi dari Thailand: Inovasi Terbaru dalam Dunia Cupang Halfmoon!'
 date: '2020-09-15T19:59:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-05-20T18:41:48.158+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisXBDWwIezmfvY7PXE5N4Oi2qZTarNtcIVf06v0qdVBSDWBbb99NyP36qYrw3mnhSdb2Wbb-7yLeJ6TQFhR-sR4b3Vu-OdBDo37S2fAMa5J3yezyaglx6hjtSVP3cr3jD3wDA6yUnomB_-2XuTWjWM4wRciFJH0K2RiW3Md1PoOH_ECRMtRwq669Dz-Q/s72-w640-c-h480/Halfmoon%20Gold1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2398149391378303501
 blogger_orig_url: https://www.budidayatani.com/2020/09/halfmoon-gold-sensasional-berbandrol.html
 ---
 

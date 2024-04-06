@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/542-mesin-penyuling
 layout: post
 title: Mesin Penyuling Molase Bioetanol Meningkatkan Produktivitas dengan Harga yang
   Terjangkau
@@ -14,8 +15,6 @@ tags:
 - proses destilasi
 - pembuat bioetanol
 modified_time: '2023-05-28T19:38:15.262+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgmwiXu9ewc2Uf7VJbzfI7liWmdKDU5j1EOUM7lKx-l-2CtSeWAjXKr3t25ASkyPVD1L8kRN1DacH-nIJX6N0WhzTPV_cxzLLok6hB9CBwr7bt2P5hgn8ybn-NBWHYwG43M76Ax86QZq0iO6wjEciBmO38GHPfrizqTsDDVt92gOKc4vzkzwjNqZMUtQ/s72-w640-c-h360/mesin1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1835574777729615523
 blogger_orig_url: https://www.budidayatani.com/2021/04/mesin-penyuling-molase-bioetanol.html
 ---
 

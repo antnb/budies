@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/48-peluang-bisnis
 layout: post
 title: 'Peluang Bisnis Euphorbia Mini: Keindahan dan Potensi Tanaman Hias'
 date: '2019-06-09T15:57:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Euphorbia
 - Tanaman Hias
 modified_time: '2023-08-12T18:09:27.669+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyjl3l2FmYEqvGPhk1cpNRFGgB64H7Fxu9PgpQaA_fyrCqXs7pPRCsMPFVEpKR1iigw2sZZlSXaC-sZJxEhgV2PjLClTfNlsnI_Za4b9RYMATK3fq4TtT412KRovuLLOXSs1SElXkfC4nbNeH4S0SAR_IaDGhUFVvfRT33E7LBaKF3KxW_TcPn3Xsz7gTU/s72-w640-c-h452/euphorbia_800x565.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5778375502784878591
 blogger_orig_url: https://www.budidayatani.com/2019/06/peluang-bisnis-euphorbia-mini.html
 ---
 

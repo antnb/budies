@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/98-prospek-bisnis
 layout: post
 title: Prospek Bisnis Budidaya Manggis Mini
 date: '2019-06-19T19:41:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - buah
 - manggis
 modified_time: '2022-12-14T12:29:58.760+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6051703146818304065
 blogger_orig_url: https://www.budidayatani.com/2019/06/prospek-bisnis-budidaya-manggis-mini.html
 ---
 

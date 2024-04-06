@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/302-teknik-pembesaran
 layout: post
 title: Pembesaran Kerang di Nusa Tenggara Barat Menggunakan Kotak Kerang Fiberglass
 date: '2021-01-29T21:04:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - kerang
 - Perikanan
 modified_time: '2023-06-29T17:55:45.786+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5370530803932934726
 blogger_orig_url: https://www.budidayatani.com/2021/01/teknik-pembesaran-kerang-dalam-kotak.html
 ---
 

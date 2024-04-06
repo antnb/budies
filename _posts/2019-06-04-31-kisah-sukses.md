@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/31-kisah-sukses
 layout: post
 title: 'Kisah Inspiratif RR Organic Farm: Mengubah Pertanian Indonesia Menuju Kesehatan
   dan Keberlanjutan'
@@ -8,8 +9,6 @@ tags:
 - organik
 - pertanian dan perkebunan
 modified_time: '2023-05-21T07:40:35.610+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeAuVjNWkpKKHQtdQ_nKsKE6WOmTaPa5Ypkmj29Ee2Z2-5dD29BBj9AalTwRr324e93NwAOixj-P9bL7EOfOkJ5FPYl8sgTLdkbniMzGnsBVoJZtaszQnFVkDZK_i4WtyVPmBydmGkgcctz5Ixhvsz5UcmDsMPXfSSYuIgKtd93IkSwYRTRT6SsXELog/s72-w640-c-h272/organik2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-313994604561429905
 blogger_orig_url: https://www.budidayatani.com/2019/06/kisah-sukses-budidaya-pertanian-sayuran.html
 ---
 

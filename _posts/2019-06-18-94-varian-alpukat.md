@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/94-varian-alpukat
 layout: post
 title: 'Varietas Alpukat Terbaik di Indonesia: Potensi Ekspor dan Keunggulannya'
 date: '2019-06-18T16:53:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - alpukat
 - pertanian dan perkebunan
 modified_time: '2023-05-23T11:55:35.004+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir33DvPFyJ2KSQczWHrgSGTCgQdC7JrszFZzOnhCe1T2aBRkqVZh-ThoQO76Cx9MTe7ZpWqhmHlEOrv4pCPiT8wIqZSIXlfA9XMF9ojCtmvILktONjmBAc-OR5hWofjOWNSavErwRlnmfZlIaqHvbx7WLJdN3V-sHRjdkppCr4r8lWcTVFIKpqSvxa8g/s72-w640-c-h352/pohon(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8943909299287012036
 blogger_orig_url: https://www.budidayatani.com/2019/06/varian-alpukat-terbaik-di-tanah-air.html
 ---
 

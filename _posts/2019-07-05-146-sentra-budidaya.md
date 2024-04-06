@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/146-sentra-budidaya
 layout: post
 title: Sentra Budidaya Kangkung Jenis Aini dan Gomong Di Ampenan
 date: '2019-07-05T21:22:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kangkung
 - pertanian dan perkebunan
 modified_time: '2023-07-10T06:55:36.844+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6963ldhCvXrxDgs9OXhBo_LTRpjAR42P22F3mdw8089h-ElSA0nJnLiTcWz1Mg7v8IfjtPlrT2k_r364Lf2Zgnac3gDf2ORmdsAQKjUA2CJEMh4KYLnozVWCQe4u7RDCtp_mg7LLseBqcwBE0Xa3JRqU4rfWbNLHW-ATDYlrNof8_PzPzZ9OxJcbY6CWc/s72-w640-c-h344/kangkung_800x429.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8606520073173362605
 blogger_orig_url: https://www.budidayatani.com/2019/07/sentra-budidaya-kangkung-jenis-aini-dan.html
 ---
 

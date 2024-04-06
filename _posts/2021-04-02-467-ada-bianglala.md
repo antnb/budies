@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/467-ada-bianglala
 layout: post
 title: Ada Bianglala Warna Warni di Kamboja Cina
 date: '2021-04-02T17:20:00.000+07:00'
@@ -16,7 +17,6 @@ tags:
 - kamboja jepang
 - taman adenium
 modified_time: '2022-12-14T12:32:05.244+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6541961698095955425
 blogger_orig_url: https://www.budidayatani.com/2021/04/ada-bianglala-warna-warni-di-kamboja.html
 ---
 

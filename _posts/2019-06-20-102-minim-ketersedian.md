@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/102-minim-ketersedian
 layout: post
 title: Manfaat Luar Biasa Kunyit dalam Industri Jamu, Kosmetik, dan Kuliner
 date: '2019-06-20T16:23:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Kunyit
 - pertanian dan perkebunan
 modified_time: '2023-08-29T19:05:59.983+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvWAot89EZZFWUQLPIE_ge8O9_3nzEHHuaX6fPEL3_FgZ2UEE-g3k8uf1iF8-1ePOipoAM9tOdUTx5cNWgFQCXBIeMdnvAbZ_rcwOSWHqXMcK_LC3riXmEkcs53CLFBLEhZbbmhlfLLx9pSMEPeE5NJDhHvygKLe21dqToXm17rZW66NdWsTw1UpzhyDHW/s72-w604-c-h640/Curcuma%20domestica_566x600.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3764454324757432959
 blogger_orig_url: https://www.budidayatani.com/2019/06/minim-ketersedian-pasar-potensi-bisnis.html
 ---
 

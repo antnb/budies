@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/172-varian-terbaru
 layout: post
 title: 'Keajaiban Ranchu Side View: Varietas Ikan Maskoki Asal China yang Menakjubkan'
 date: '2019-07-15T20:59:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-07-29T20:09:27.735+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FK0fTYZ9dAlH9KbP0_smm-SzsWBLZcXiQAZ6U-jsKRScf8v0qO_U_ewsKmjcFkD21pzIgZt2r-uV1kJDZ84EQrtrY0pXCCAIf5-veHcRVrYiZvMn0ZRRNsRLBbLLfXLv6z4y9G2v3y7ac75BObSecqzN35wmHM9pPWwRBfoiUAPOQEuB5Br8jx9cHSso/s72-w640-c-h480/Ranchu%20Side%20View(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-362925799318183610
 blogger_orig_url: https://www.budidayatani.com/2019/07/varian-terbaru-ranchu-side-view-asal.html
 ---
 

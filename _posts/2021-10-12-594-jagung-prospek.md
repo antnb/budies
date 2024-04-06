@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/594-jagung-prospek
 layout: post
 title: Pengembangan Komoditas Jagung di Indonesia dan Permasalahan Distribusi
 date: '2021-10-12T14:02:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - jagung
 - pertanian dan perkebunan
 modified_time: '2023-07-10T12:23:58.451+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3078414769837025674
 blogger_orig_url: https://www.budidayatani.com/2021/10/jagung-prospek-bisnis-luar-biasa.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/83-meningkatkan-kualitas
 layout: post
 title: Meningkatkan Kualitas dan Produksi Padi dengan Sistem of Rice Intensification
   (SRI)
@@ -8,8 +9,6 @@ tags:
 - padi
 - pertanian dan perkebunan
 modified_time: '2023-07-29T20:36:53.897+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkU0F5fC5ZxGXcFPCPRpm_uuS2tTfvgWj4hhynIu8jpcOzExL5ajuQVRDqDqAE5twjiRryzplRze1Py_S-NkISsi1rL6UE8vCMNPaaNvWXr3afQR_LhIOCrZUx6l9ZXZ3LsBRhhNEA8C_GvG30P-7c2cAFRLXZ93Yn-Mobn1KJy9_hiyC3zEpn0PTyp2bB/s72-w640-c-h350/sri.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4141372355139116704
 blogger_orig_url: https://www.budidayatani.com/2019/06/meningkatkan-kualitas-dan-produksi-padi.html
 ---
 

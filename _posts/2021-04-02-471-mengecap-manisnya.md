@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/471-mengecap-manisnya
 layout: post
 title: 'Budidaya Kapri Manis: Keuntungan Bersih Rp8,8 Juta dalam Waktu 110 Hari'
 date: '2021-04-02T13:43:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kapri
 - pertanian dan perkebunan
 modified_time: '2023-06-08T22:20:17.993+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmzkYP6_NvQsFoQonCp8NDTka2pyg3sacexrkP4OtVp38x5pQiUnJy2PQs1EBgUUPJfBRE_XuUR0gdJ8WAeYRYf3ZGBRRMQVZRKVG6K0AN9IPc9VtBkh6t2kF-I6sGxbFLF_HzL3SDkDR8Vw3vBGxJjBuy4MJUCAR6F7MsshfGUPcIkfejvBpiy_w2Fw/s72-w640-c-h360/kapri.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8625695629229974968
 blogger_orig_url: https://www.budidayatani.com/2021/04/mengecap-manisnya-bisnis-kapri-manis.html
 ---
 

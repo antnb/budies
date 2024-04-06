@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/636-bisnis-krisan
 layout: post
 title: Jadi Pekebun Krisan Sukses dengan Strategi Pemasaran ke Pasar Ekspor yang Terbuka!
 date: '2021-10-26T22:42:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Krisan
 - Tanaman Hias
 modified_time: '2023-05-20T06:43:26.412+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtQ8daDTu_RrG3R0IpVyB6gwp-6CqHYsjnONThjgKjjhrEoaohEZoPBGpkza35JzAdCVi_AogwATBMDe1Y31PAOGo8_ufxX-q7OUwKU5-n8QvzleApTonEZtC3rgBRXXdcgauNGkgs2U65prE1F7zGt8GlBkgjNQAS5yzLCPpyIYbrRQJfc9fLNHkraA/s72-w640-c-h348/krisan%20(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5891918331850996163
 blogger_orig_url: https://www.budidayatani.com/2021/10/bisnis-krisan-kembali-bersinar.html
 ---
 

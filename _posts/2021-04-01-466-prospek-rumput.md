@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/466-prospek-rumput
 layout: post
 title: 'Kelangkaan Pasokan Rumput Laut di Indonesia: Tantangan dan Prospek'
 date: '2021-04-01T16:53:00.000+07:00'
@@ -10,8 +11,6 @@ tags:
 - rumput laut
 - umur panen
 modified_time: '2023-06-14T16:20:24.845+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7L73ez0a_wqUL5D6DlcFr2exCaScVhznJlBesjsi9_P-se8zm4WLZCXj7-r9bDCkc5iwilLUbDqUcPfPPdugcK2IjzlsxLKcnjxqkzfjkWoJoiSEEDv5bZPVT-qSVsR_pvYbcS34TprUyKpjivjeqTi8Sw1W4610crPWEwY_blKna_23MZFeNW_mtcg/s72-w640-c-h360/rumput.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5375737702484327033
 blogger_orig_url: https://www.budidayatani.com/2021/04/prospek-rumput-laut-seluas-laut.html
 ---
 

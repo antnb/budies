@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/440-tabulampot-mangga
 layout: post
 title: 'Tabulampot Mangga Apel: Nikmati Buah Segar di Halaman Rumah dengan Perawatan
   Minim'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-19T16:54:01.663+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2770967664438899263
 blogger_orig_url: https://www.budidayatani.com/2021/03/tabulampot-mangga-apel-untuk-yang-sibuk.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/133-budidaya-ikan
 layout: post
 title: Ikan Mola dan Pengembangannya di Waduk Cirata
 date: '2019-07-03T17:18:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - ikan mola
 - Perikanan
 modified_time: '2023-07-10T10:54:36.288+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1274884294202687431
 blogger_orig_url: https://www.budidayatani.com/2019/07/budidaya-ikan-mola-air-tawar-di-waduk.html
 ---
 

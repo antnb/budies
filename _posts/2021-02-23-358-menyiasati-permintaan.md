@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/358-menyiasati-permintaan
 layout: post
 title: 'Potensi dan Tantangan dalam Industri Bibit Lobster Air Tawar: Mengatasi Permintaan
   Tinggi dan Menjaga Keberlanjutan'
@@ -8,8 +9,6 @@ tags:
 - lobster
 - Perikanan
 modified_time: '2023-05-23T18:52:29.956+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEjvxc3Loxfx0Oy7cEXfM7t7FpHkCCFXJsS3-IR_LrhTeIWACRp-HYg6OKOqySQJiXf6sJMzPD9CB7r9QcaAnsxhF-yMYAg3IoBfoTiXuY-VvWdZ880iznj-9hKiYEotuJholQiNb5XTrEWoHGFd6cplcVGAIyKHcGSDrEEIjrn81Z-amRTTR2LhGJUg/s72-w640-c-h360/kolam(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3563306365032309064
 blogger_orig_url: https://www.budidayatani.com/2021/02/menyiasati-permintaan-bibit-lobster-air.html
 ---
 

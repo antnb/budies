@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/414-nikmatnya-petik
 layout: post
 title: 'Petik Kenikmatan Buah Anggur Belgia dari Pergola Sendiri: Panduan Lengkap
   untuk Penanaman dan Perawatan'
@@ -8,8 +9,6 @@ tags:
 - anggur
 - pertanian dan perkebunan
 modified_time: '2023-05-29T11:00:05.138+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHyrJXjPzVEJKYPXh7Nb0NS5WCYEml9MjZ_dPx8IxVdkGLJ9PX-QFgOCTqaR5HpNXDbHpiMrga7n_LY4wqSaNln0fI1x02nAnRti7mkBOrlTZSJFf7yMMlDlBZFNJwrIuR_8KP66SNgoycgRGRDL2nhgWqlaFdHjm4n_OrlDrq8bG8l0PxNQW9I9HbQ/s72-w640-c-h420/anggur2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6935242972676913299
 blogger_orig_url: https://www.budidayatani.com/2021/03/nikmatnya-petik-anggur-belgia-dari.html
 ---
 

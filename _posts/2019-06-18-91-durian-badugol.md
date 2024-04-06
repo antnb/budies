@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/91-durian-badugol
 layout: post
 title: 'Durian Badugol dari Blitar: Juara Kontes Durian dengan Tekstur Kering yang
   Langka!'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-20T15:24:31.984+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp29o-wUTnySIexqO280oYq5vG-c3U6ug88ZoTnIR_CRV7f0XphrmGVPcNAp_Klyhzqm8tI7YoVu0hD7vauFGvviUqhm7ZS6WTnD5hwLcYl7d0KMhVEO7_JjTqkI8F7X69gRC8HjnyoL5mUoCiTy9meeNzt7SsbZfiBTvvLFbDcXLRASNe8jSqY5K1g/s72-w640-c-h378/Durian%20Badugol1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6084242046155499294
 blogger_orig_url: https://www.budidayatani.com/2019/06/durian-badugol-varietas-durian-unggulan.html
 ---
 

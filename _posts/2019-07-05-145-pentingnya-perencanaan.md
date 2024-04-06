@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/145-pentingnya-perencanaan
 layout: post
 title: |-
   Pentingnya Perencanaan Sistim Irigasi Dan Penampungan Air Pada
@@ -10,7 +11,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:30:08.972+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8965602876470767613
 blogger_orig_url: https://www.budidayatani.com/2019/07/pentingnya-perencanaan-sistim-irigasi.html
 ---
 

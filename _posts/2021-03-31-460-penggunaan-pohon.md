@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/460-penggunaan-pohon
 layout: post
 title: 'Bungkil Jarak: Pestisida Nabati yang Menyimpan Bahaya Tersembunyi'
 date: '2021-03-31T11:59:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-17T08:16:55.643+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEERnzjJlX0_MftQbD-H0UAG7iYPV4W9bJYl4KmEJDo86sakzoW4sdIekwp2ZiJiYJWNwEgAPK4k87BKzfo1_NlQMqm54DTx5X_cpCF8ECGnrsqUY1GmT6yn6sJau1efZjcoSTL0Hlt17X7FXj_hsgqvFhSFuO6_iKEcDKykmg5r2H28TSNYzxdlc9jA/s72-w640-c-h360/Ricinus%20communis.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3387083854479823711
 blogger_orig_url: https://www.budidayatani.com/2021/03/penggunaan-pohon-jarak-ricinus-communis.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/47-jangan-sembarang
 layout: post
 title: Jangan Sembarang Pilih Sikas Antik
 date: '2019-06-09T17:32:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Sikas
 - Tanaman Hias
 modified_time: '2022-12-14T12:29:37.350+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5898865845967976405
 blogger_orig_url: https://www.budidayatani.com/2019/06/jangan-sembarang-pilih-sikas-antik.html
 ---
 

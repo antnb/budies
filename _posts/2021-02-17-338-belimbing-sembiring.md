@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/338-belimbing-sembiring
 layout: post
 title: Belimbing Dewa dan Potensi Wisata Kuliner di Pasar Jakarta
 date: '2021-02-17T19:37:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Belimbing
 - pertanian dan perkebunan
 modified_time: '2023-07-08T10:00:58.683+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4314885118290548309
 blogger_orig_url: https://www.budidayatani.com/2021/02/belimbing-sembiring-andalan-dari-pancur.html
 ---
 

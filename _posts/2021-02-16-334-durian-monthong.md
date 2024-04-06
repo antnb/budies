@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/334-durian-monthong
 layout: post
 title: 'Magro Farm: Rahasia di Balik Durian Monthong Lampung Berkualitas Tinggi yang
   Menggugah Selera'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-21T15:22:18.413+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ4CAnoO9RYrPb9YNyDVRutXo1NegmpXiM0hO0tluXW2A6KkuitU8JOnE64fBjbloFfZlPmFZQJ3wSebaXQDrx2w7eYyOeKCYYEgjZEjD_WUEPdwywBCQtibzcrgIMDx4PuYLcgYgBdpZ9txSGRX6w9rPgkXNWlAmVS1ytWOJYxwH5lG1mJTlSGETKKw/s72-w640-c-h360/Durian%20Monthong%20Lampung%20Banjiri%20Jakarta(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3157616774327410394
 blogger_orig_url: https://www.budidayatani.com/2021/02/durian-monthong-lampung-banjiri-jakarta.html
 ---
 

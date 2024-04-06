@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/354-keistimewaan-design
 layout: post
 title: 'Keistimewaan Design Rumah Walet Model Piggy Back: Meningkatkan Kondisi Hidup
   Burung Walet'
@@ -8,8 +9,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-06-09T11:01:24.573+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijUzG4GBg8FBPAdpjvuulJYa3OaUYfa6pKBngPWPKUpwtI8j-7zx-b6Wg4R0zx6nAgVkf-MCGncSIk_t_obz_cRbUeUHWNSJj3hAGzqdlamUfjMcH5J8r3-9AaS7PcB6Wrscb-uX6ODSFhuUo0T9y-r1_Cka_Il5FtVhuREXd_mZ8ON9-58oMcyVwlwg/s72-w640-c-h364/httpswww.budidayatani.com202102keistimewaan-design-rumah-walet-model.html.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-196785434791953655
 blogger_orig_url: https://www.budidayatani.com/2021/02/keistimewaan-design-rumah-walet-model.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/218-surga-tanaman
 layout: post
 title: Surga Tanaman Hias Di Negri Siam
 date: '2020-04-22T12:32:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Berita
 modified_time: '2022-12-14T12:30:40.767+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3SULwMpN5pb8kDPV8QN_iixKQa1q6eiMu-hYubit7qArhOLJ_vkTGg4D_93y8C55QCnrz5yiLhYo59txdwklZS9sufZBFTPn0AigBAQ_oBXq-rceyZ5QDxYVkUNjuwvEFUS_nFOHDqYQc/s72-c/tanaman_1280x771.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-549007775817091977
 blogger_orig_url: https://www.budidayatani.com/2020/04/surga-tanaman-hias-di-negri-siam.html
 ---
 

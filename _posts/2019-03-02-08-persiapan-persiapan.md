@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/08-persiapan-persiapan
 layout: post
 title: Memulai Usaha Ternak Ayam Petelur? Berikut Persiapan Penting dan Langkah-Langkahnya
 date: '2019-03-02T18:54:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - ayam petelur
 - Peternakan
 modified_time: '2022-12-24T13:34:20.461+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMBH98cxA4gyLH3ObVJr3fVZo11AWkxCyu-04JHnrclrlJtNNIZfCoQWUuauA8SFh3Ls_nUp9FVbLod_lUql-myUpn7mFQsUaFytufrR0pZHLuTMzKXnPM4cvhyJzcbXmtinFdafsJsexUrIt4l39MeBGpED9kWcjVxY2JNQ63iRZQmQ_u4Kf5oarP8g/s72-c/ternakayam-1-1-1536x792.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4199589900407767716
 blogger_orig_url: https://www.budidayatani.com/2019/03/persiapan-persiapan-penting-sebelum.html
 ---
 

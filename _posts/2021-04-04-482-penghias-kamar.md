@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/482-penghias-kamar
 layout: post
 title: 'Penghias Kamar Tamu Terbaru: Tanaman Hias Indoor yang Menawan'
 date: '2021-04-04T13:21:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-14T16:47:37.982+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkII6CwQ7mJU5QtTDLAEV0emPWGd8h1gFqXCHXYqTdalckAAQQV0PgPAuKV9ebYBQCXPNCKyxN3IpxjhXWHiI0xayFfhkfijzofd0Hwa49M5kRTKyaUGj7nbzz8CqlkSniHwiEfKDA3PJw0z72K-96uu6PIgrjiiHeRdP8NEK-DMob-RKGjBah_Lpqwg/s72-w640-c-h360/Aphelandra%20squarrosa.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7560753531623018408
 blogger_orig_url: https://www.budidayatani.com/2021/04/penghias-kamar-tamu-teranyar.html
 ---
 

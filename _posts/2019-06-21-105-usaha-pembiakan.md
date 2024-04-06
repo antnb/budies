@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/105-usaha-pembiakan
 layout: post
 title: Usaha Pembiakan Merpati Balap Modal Kecil
 date: '2019-06-21T20:53:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - merpati
 - Peternakan
 modified_time: '2022-12-14T12:29:56.634+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3472947888752874888
 blogger_orig_url: https://www.budidayatani.com/2019/06/usaha-pembiakan-merpati-balap-modal.html
 ---
 

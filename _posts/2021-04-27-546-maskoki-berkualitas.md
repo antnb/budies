@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/546-maskoki-berkualitas
 layout: post
 title: Mengenal Lebih Dekat Maskoki Berkualitas dari Tanah Bukit
 date: '2021-04-27T19:27:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-07-24T18:15:53.510+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3952584025066117746
 blogger_orig_url: https://www.budidayatani.com/2021/04/maskoki-berkualitas-dari-tanah-bukit.html
 ---
 

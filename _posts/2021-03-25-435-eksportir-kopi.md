@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/435-eksportir-kopi
 layout: post
 title: Eksportir Kopi Kini Berharap Pada Buah Surga
 date: '2021-03-25T19:20:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - kopi
 - pertanian dan perkebunan
 modified_time: '2023-06-11T16:22:57.470+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1945862151060634538
 blogger_orig_url: https://www.budidayatani.com/2021/03/eksportir-kopi-kini-berharap-pada-buah.html
 ---
 

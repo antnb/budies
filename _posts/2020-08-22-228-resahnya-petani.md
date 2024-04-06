@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/228-resahnya-petani
 layout: post
 title: Resahnya Petani Tembakau Dan Pabrik Rokok
 date: '2020-08-22T20:25:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Pertanian
 - Berita
 modified_time: '2022-12-14T12:30:39.546+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIU0oAOmeRAu6xZ1GHhkSK5SU_dX5x64sxXK3WYpF8Zs9apqlqVfwLjTpKUmq1KsBoql-NjzOm37FKCW71yE7y9mwYNWfBkkWq4cayNmedqHOq6OzG5x_QU0gQExZx1U79UeRjgEUqZEBZ/s72-c/tembakau_1196x800-768x514.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6899878809974215385
 blogger_orig_url: https://www.budidayatani.com/2020/08/resahnya-petani-tembakau-dan-pabrik.html
 ---
 

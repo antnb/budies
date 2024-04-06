@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/230-fungsi-pepohonan
 layout: post
 title: Fungsi Pepohonan Teduh Sebagai Penyerap Polusi
 date: '2020-08-25T16:05:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Berita
 modified_time: '2022-12-14T12:30:37.092+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7HQhyuPzW0wKRs79Ebfl_uZQPM533IjotXcryzUZheA2aZm16RJiW_LQNFMVA_FG5l5HQ5wtIR4DXZg3LS6m_fqrhwhPavTLUbC9HyWqDnfdXJm46Q5YXL5RJ2VotyzSwFkOKbN8lZ43z/s72-c/jenis-pohon-peneduh-rumah-7_1194x800-768x515.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5685807509339919844
 blogger_orig_url: https://www.budidayatani.com/2020/08/fungsi-pepohonan-teduh-sebagai-penyerap.html
 ---
 

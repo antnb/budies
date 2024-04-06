@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/16-budidaya-lidah
 layout: post
 title: Budidaya Lidah Buaya Di Agropolitan Pontianak
 date: '2019-05-24T20:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - lidah buaya
 modified_time: '2022-12-19T16:59:05.066+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi64kMippX7cnob3H9kO4d42rddy13h8PY5QgOzRbR8fPk-ab7hmLALjig7VZ2Gjk5sQ2p-7iPdQkHM_pLBpemU0XcuKLSpmCS36ALIrLlpUfVc30r-2GNAurmSo7_FkVB6mwR9JTRDYTrHryL8bFMU4yOuHGO29tiMyXFpDgdtM-fYL6gBwalaamydoA/s72-c/aloe-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4423166944681113755
 blogger_orig_url: https://www.budidayatani.com/2019/05/budidaya-lidah-buaya-di-agropolitan.html
 ---
 

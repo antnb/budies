@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/54-budidaya-anthurium
 layout: post
 title: Budidaya Anthurium jenmanii Dengan Metode Sistem pengabutan
 date: '2019-06-11T16:46:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - anthurium
 - greenhouse
 modified_time: '2022-12-14T12:29:35.183+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8041724501508957305
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-anthurium-jenmanii-dengan.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/306-bisnis-limbah
 layout: post
 title: 'Daur Ulang Sampah dan Produksi Pupuk Organik: Melindungi Lingkungan dan Mendorong
   Pertumbuhan Ekonomi'
@@ -8,8 +9,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-06-01T19:53:51.210+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0Fo5wcxaR47MK4MG451kUGB6rdT6PmeRsYdDH5nkKVx2l86xsM8kw8ADy1BxmgrAvxiP9NhrmZLvpYkExjdTiErbYlSyyTCwQeKzoIMopliIVNWjOAmsuDuw8I-UUns6AWk0pzINM5__KEqD04fTgKqvtTiQgkZACSLmkBEQsOkipHNfxrsCPj29lg/s72-w640-c-h410/sampah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2918279382980650103
 blogger_orig_url: https://www.budidayatani.com/2021/01/bisnis-limbah-berlimpah-laba.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/272-bisnis-kencur
 layout: post
 title: 'Kencur di Industri Kosmetik: Optimalisasi Pasokan dan Standar Mutu'
 date: '2020-10-23T12:54:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kencur
 - pertanian dan perkebunan
 modified_time: '2023-05-28T09:59:10.825+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40fa0wnlrnNRm1Y_OPDQrmLwtjEAkGC_dvkOjj9JqtE2avDFyQOE7Ct8Fm7NGEaawg0qwHFHjEcLbJHKEo49mFDOkJzHJvNSGK4YKdfCYu2wyN0LJCEfcHA4GNHDhdI7Ctv0f4eknDpmnEHfI464iFzmih9YA6B25broXwgiB6vH5JWfFTBh1uRbXgg/s72-w640-c-h372/kencur1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6335033267322823181
 blogger_orig_url: https://www.budidayatani.com/2020/10/bisnis-kencur-ukuran-rimpang-mini-harga.html
 ---
 

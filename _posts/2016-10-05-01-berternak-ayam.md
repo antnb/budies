@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/01-berternak-ayam
 layout: post
 title: Berternak Ayam Kampung bisnis sampingan yang menjanjikan
 date: '2016-10-05T13:21:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - ayam kampung
 - Peternakan
 modified_time: '2023-06-30T08:36:00.354+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4165721453336191580
 blogger_orig_url: https://www.budidayatani.com/2016/10/berternak-ayam-kampung-bisnis-sampingan.html
 ---
 

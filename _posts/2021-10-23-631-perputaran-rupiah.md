@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/631-perputaran-rupiah
 layout: post
 title: Potensi Pasar Jengkol dan Strategi Bisnis Sayuran
 date: '2021-10-23T19:54:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - jengkol
 - pertanian dan perkebunan
 modified_time: '2023-07-08T13:36:17.242+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-342905927233985062
 blogger_orig_url: https://www.budidayatani.com/2021/10/perputaran-rupiah-di-balik-perdagangan.html
 ---
 

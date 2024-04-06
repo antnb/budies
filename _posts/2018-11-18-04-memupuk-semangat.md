@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/04-memupuk-semangat
 layout: post
 title: 'Mengoptimalkan Keberhasilan Beternak Ayam: Strategi Terbaik dan Solusi Inovatif!'
 date: '2018-11-18T05:58:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ayam
 - Peternakan
 modified_time: '2023-05-22T09:03:26.180+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7klzGb-1NwkqDItzd_Ts_XCMzAKHoXErAcGiV69gBskI6CYZ8aeb3d1p5LuSinQ5uFUpS3cXvU1S5T54nzs1n7iv51IuMWju80-h25VQBkMjfheGNekEg_bzFNBmQQj1FjC-KIhIQwYVJjfWh7Fv5tRUbYya23mQL9SDe08DvnTMcTwCBPx981KAPHA/s72-w640-c-h406/ayam2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1381025834349206443
 blogger_orig_url: https://www.budidayatani.com/2018/11/memupuk-semangat-beternak-dikalangan.html
 ---
 

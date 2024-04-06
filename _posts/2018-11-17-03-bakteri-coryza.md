@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/03-bakteri-coryza
 layout: post
 title: Bakteri Coryza, Penyakit Unggas Yang Sering Menyerang Para Peternak
 date: '2018-11-17T16:30:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ayam
 - Peternakan
 modified_time: '2023-05-25T10:14:03.578+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpza6ln85nr9UKxtFwaJ9xPSmg2xhnqFmbzXZwR4FP7ZJoKZlvZxBescxATwPpi_0Kppyxeln-Igve0cMZ62TaDffDxBXZZRNN61RzfZNICGnwnyN84MkRKsTSwKVPtqcUKprQ4H3MOP16HhNk9YdSBkWdbCvwK7xkw4pHWtG0dF6Ag78jQT1kDFiGOA/s72-w640-c-h366/Coryza.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7097769926341896776
 blogger_orig_url: https://www.budidayatani.com/2018/11/bakteri-coryza-penyakit-unggas-yang.html
 ---
 

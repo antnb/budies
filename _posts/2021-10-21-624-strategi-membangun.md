@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/624-strategi-membangun
 layout: post
 title: Strategi Membangun Bisnis Skala Kecil Menengah
 date: '2021-10-21T17:23:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Berita
 modified_time: '2022-12-14T12:32:52.040+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3107902160227904509
 blogger_orig_url: https://www.budidayatani.com/2021/10/strategi-membangun-bisnis-skala-kecil.html
 ---
 

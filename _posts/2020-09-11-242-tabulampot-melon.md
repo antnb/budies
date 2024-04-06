@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/242-tabulampot-melon
 layout: post
 title: 'Tabulampot Melon: Kunci Sukses dan Manfaatnya dalam Pertanian Rumahan'
 date: '2020-09-11T18:00:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - tabulampot
 modified_time: '2023-08-17T11:53:31.016+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SNAVbeXc4dU4b6avrtAF_13SoB_WU3VMoQoOh7nflmW_lQlMBaSiBGfZTgZebY3j2T09Xx5uxPI2fX252dTETuw7wuJE1YUKjnWcIY7au2TCnDRzhOA7uSs62diTTMiNSgXn1uD_sxTDvVAfKzgRm9c-vO41qiO0uBpvnbW3HHa9oSKRGt4t_u6gHo_H/s72-w640-c-h360/melon(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8602558801634864065
 blogger_orig_url: https://www.budidayatani.com/2020/09/tabulampot-melon-berbuah-lebat-berkat.html
 ---
 

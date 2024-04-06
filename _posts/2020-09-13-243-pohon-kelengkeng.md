@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/243-pohon-kelengkeng
 layout: post
 title: 'Budidaya Kelengkeng Pingpong dan Teknik Pemangkasan yang Efektif: Panduan
   Lengkap'
@@ -8,8 +9,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-08-17T17:28:42.513+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFt_gxFuWx_Z5Wp_2zKJ2nZNhCtQE7JGKnA6U66Yvr2m9dSEYAP1_i93pJReEk4bdgL07CJ9QQMuF8gvne49wBRhDiYkV3nisICU4Crq7igKhJ7PH_N8wG8QRnDLoOeabmm-40dUWcoVFhllEuKj82v5F83h8_KFaAGgioWFEq9qMKSvxX2Hjs3l_kbZyL/s72-w640-c-h360/maxresdefault.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8502455875809999140
 blogger_orig_url: https://www.budidayatani.com/2020/09/pohon-kelengkeng-bertajuk-rimbung.html
 ---
 

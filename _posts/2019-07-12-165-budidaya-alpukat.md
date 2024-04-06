@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/165-budidaya-alpukat
 layout: post
 title: Budidaya Alpukat Tongar Varietas Unggulan Asal Suriname
 date: '2019-07-12T17:43:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - alpukat
 - Perkebunan
 modified_time: '2022-12-14T12:30:21.461+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8531036205853952823
 blogger_orig_url: https://www.budidayatani.com/2019/07/budidaya-alpukat-tongar-varietas.html
 ---
 

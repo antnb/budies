@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/104-analisis-untung
 layout: post
 title: 'Sarang Walet di Jambi: Peluang Bisnis dan Keajaiban Migrasi'
 date: '2019-06-21T15:44:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-08-29T12:25:53.720+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilAVroNpSVzGYPj0hY600laF4B93v6p1UOw-56nHBoUfx68Dm7BkfBON3si1HHgTTrWZTPF_Cx2QODcNqEOnDwyyftqDTgHTqthUymwLu6LX38v7chxAOaw6q29Q82BMUHEdGx8PMdt4pAbjVLFfHzV_tuua---E-n8tMo74oZbdI-IpxgMYo26LbKksdY/s72-w640-c-h454/sarang%20walet.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8888823267241219567
 blogger_orig_url: https://www.budidayatani.com/2019/06/analisis-untung-rugi-alih-fungsi-ruko.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/213-anggrek-oncidium
 layout: post
 title: Anggrek oncidium Lidah Tiga Koleksi Hobiis Anggrek Dari Salatiga
 date: '2019-07-31T11:48:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:30:31.269+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzU9VtwgJn5SCvV-mBdlM5f23GjEu-cI0cXSn1zL-NjrQ-vQfRJjc4e8k12jUZ73JQyVl-JvySS2REaV13Bd3cj2MuUprJMkaeoMrOyglmRQW7HaCUk0Gx2-IYqo7RaXnToJKS6ES4iEtA/s72-c/oncidium_747x600-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3139254771643670903
 blogger_orig_url: https://www.budidayatani.com/2019/07/anggrek-oncidium-lidah-tiga-koleksi.html
 ---
 

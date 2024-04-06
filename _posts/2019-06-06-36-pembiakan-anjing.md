@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/36-pembiakan-anjing
 layout: post
 title: Pembiakan Anjing Ras Di Indonesia
 date: '2019-06-06T19:49:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Hobi
 - anjing ras
 modified_time: '2022-12-14T12:29:28.743+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-325324068873333232
 blogger_orig_url: https://www.budidayatani.com/2019/06/pembiakan-anjing-ras-di-indonesia.html
 ---
 

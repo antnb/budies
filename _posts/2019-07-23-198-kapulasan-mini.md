@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/198-kapulasan-mini
 layout: post
 title: Kapulasan Mini Bibit Asal Cangkokan
 date: '2019-07-23T17:09:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-05-28T19:04:24.621+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnVBg9fGHFhgGr454RLgegrOTIZ2GHSxPJ7bzVIkT5rj0h4Oq0bGj6cBmMEnnOH79Uu4ynkTdjT0bcelJPDblYJiYJpzEmXvGbnbzVb3Eu607We3KLU5hIlnUJkGKCzcjAgrXOeuVN954_zlzf7XCdMlUOQPggseK22MoJS5KN5p9cnbMvjAdUAmlWw/s72-w640-c-h356/kapulasan.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-194231963974945452
 blogger_orig_url: https://www.budidayatani.com/2019/07/kapulasan-mini-bibit-asal-cangkokan.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/163-serangan-lalat
 layout: post
 title: 'Serangan Hama Pada Tanaman Buah: Lalat Buah dan Metode Pengendaliannya'
 date: '2019-07-10T17:07:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - hama
 - pertanian dan perkebunan
 modified_time: '2023-07-30T12:51:11.445+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfU3vzt59L4P1wEUv_LxlUnZUzTiZKp4OZEjdqRBQeyiEYG5Zym1XiC1k-Ix14f5k-VvPy1IWb7nonOjsVUfzwf93JvsldiStqaQzoneUCZCdjbwQSutwptck8GSG4-FcycAOQ3ehrvY7VvruqIoXh5kyKgcBdrUjqpx7XbTo6mlgSQZAD7GqEkQuDOtk/s72-w640-c-h606/lalat%20buah_634x600.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3225796766374304205
 blogger_orig_url: https://www.budidayatani.com/2019/07/serangan-lalat-pada-tanaman-buah.html
 ---
 

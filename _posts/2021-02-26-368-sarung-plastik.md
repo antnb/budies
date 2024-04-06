@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/368-sarung-plastik
 layout: post
 title: 'Sarungisasi: Teknik Terobosan untuk Mengendalikan Hama Pengerek Buah Kakao'
 date: '2021-02-26T15:26:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pertanian dan perkebunan
 - kakao
 modified_time: '2023-06-21T18:41:08.156+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-188330891963791241
 blogger_orig_url: https://www.budidayatani.com/2021/02/sarung-plastik-redam-serangan-penggerek.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/18-pelestarian-hutan
 layout: post
 title: Pelestarian Hutan Untuk Anak Cucu
 date: '2019-05-24T13:17:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - artikel
 modified_time: '2022-12-17T19:32:52.116+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaX48LwUuyoAxq11ypNvxklR_4sywOihKdJWXppVKUgo8VT6vNp37dUJWUyF4ah4wxiVz_zYq9GuGJQBoKlOk0Y83Ajpv-iTc4P4iv6FMplBVtcktnSArHVQuFbrgaQ8NAN_4o4f8Xi4oiK05igwAzY2DonQuXb6vbZ0MJ6jsMCQxvHCSWFBeuXhIggA/s72-c/hutan-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6042529898073394039
 blogger_orig_url: https://www.budidayatani.com/2019/05/pelestarian-hutan-untuk-anak-cucu.html
 ---
 

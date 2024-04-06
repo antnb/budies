@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/25-manfaat-lobak
 layout: post
 title: Manfaat Lobak Sebagai Penghangat Tubuh Alami
 date: '2019-05-31T19:50:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Pertanian
 - lobak
 modified_time: '2022-12-19T17:32:59.570+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKBMaCYeJQcKVxJ_xXajaAbmJ7yWISAoWGiz5zZNythP9oeJc_ldVCtVfeBlo1WLm_e0v-VO6tZeFrla0_YyGz27zLWJEB_ktW91DeWqconDHK-v4bDE4fR6fduTF-3o7CMXycce_RMsu3AqWXzb3Ec3WN08mbUrVJwFfFWnb0yq5KORUSy6agtS8djg/s72-c/lobak-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3565039369278881638
 blogger_orig_url: https://www.budidayatani.com/2019/05/manfaat-lobak-sebagai-penghangat-tubuh.html
 ---
 

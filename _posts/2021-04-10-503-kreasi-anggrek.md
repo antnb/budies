@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/503-kreasi-anggrek
 layout: post
 title: 'Pot Anggrek Kreatif dari Tempurung Kelapa: Inovasi Menanam dan Membuat Pot
   Unik'
@@ -8,8 +9,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2023-08-30T12:06:14.482+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS1LWsy1owFOcVhoHveRvw3Xz_MVEEhuAqRLitodiYpBmVr2G28-WwnMQHOvQ68AO4F28R6ykAzH0pcRmCbI_cMuntsTqQFn4TbBsvLb-oPSyLNFl9D8Vp6mrUdYvSPs-K40FKrDdtoV8-uV22VW3rWC-w0UcO-piWcxibB82Z6apIQT_0rwDNXLR90QSn/s72-w640-c-h360/anggrek.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8587045126120251622
 blogger_orig_url: https://www.budidayatani.com/2021/04/kreasi-anggrek-dalam-tempurung-terbukti.html
 ---
 

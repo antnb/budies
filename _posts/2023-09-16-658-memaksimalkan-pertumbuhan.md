@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/658-memaksimalkan-pertumbuhan
 layout: post
 title: 'Memaksimalkan Pertumbuhan dan Hasil Buah Naga Merah: Panduan Lengkap Perawatan
   Bibit, Pupuk, dan Pemangkasan'
@@ -8,8 +9,6 @@ tags:
 - Perkebunan
 - buah naga
 modified_time: '2023-09-16T19:22:30.875+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEJ4fEKzP4dypIv7LB0rn6hhg59wHhOzEka5dNVuilqXK1GOJmc77pPyFlsWE_IVP33Z5zRK7m9BOPLhxA3VWEzFGxwB6zBZtxyUvfKd8s5Gdxo_BZiwSjVOzekuZk2LMVecfGBx7eA6WZcVp3va9DKZ5XYpTiV02GZF3NrH5Sh8opH4O9QXvjC2Cf_FkV/s72-w640-c-h534/Gambar_naga_921x768.jpg.webp
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5826048687766382317
 blogger_orig_url: https://www.budidayatani.com/2023/09/memaksimalkan-pertumbuhan-dan-hasil.html
 ---
 

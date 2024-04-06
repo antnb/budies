@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/186-perawatan-sarracenia
 layout: post
 title: Perawatan Sarracenia Agar Selalu Tampil Prima
 date: '2019-07-18T13:29:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Hobi
 - Tanaman Hias
 modified_time: '2023-08-06T19:17:33.785+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwaAXDT3cIw6kNCPFU4Oym1qtXk2eK-6yJUz2JCkVOT_tC2yK5XP9ubM5XTXdPhCEB5APPU1_PM76zO4Eab8MSqWhqqBj1JRg0HMpufVRwWezsVFqz4xRnmnzlgYe32Mr-NZ8n5YGDd_QcWEUmNLvkVeqfX-_YWcwTtXiSiaRmHn1A8gf9uWo04GnuMSpG/s72-w640-c-h360/tanam.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5193753874565384181
 blogger_orig_url: https://www.budidayatani.com/2019/07/perawatan-sarracenia-agar-selalu-tampil.html
 ---
 

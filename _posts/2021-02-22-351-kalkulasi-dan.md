@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/351-kalkulasi-dan
 layout: post
 title: Kalkulasi Dan Perhitungan Usaha Pembenihan Ikan lele
 date: '2021-02-22T23:11:00.000+07:00'
@@ -10,7 +11,6 @@ tags:
 - penjualan bibit lele
 - benih lele
 modified_time: '2022-12-14T12:31:19.210+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-652254806109287952
 blogger_orig_url: https://www.budidayatani.com/2021/02/kalkulasi-dan-perhitungan-usaha.html
 ---
 

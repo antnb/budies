@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/360-kebun-sayuran
 layout: post
 title: Transformasi Lahan Gambut Menjadi Kebun Sayuran yang Subur
 date: '2021-02-24T16:59:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-05-30T11:02:05.255+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRziYWCyfZfvqm--59TcO7mWKwajnyrEfdg16bzqniTYFE77CINVd6NtP7lzXN_sqmqAbgQ5ydluSnBbzmWMHX7eGCzWcm42DQ5NFfs96DYTrqkfuTftfsnOmRY_gnXGzT6-faQBUuMDmNe5cMkpF0ybOdhDfBsBf1K9xlMuDRRpCTMdY8taR80tLEXw/s72-w640-c-h350/gambut1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3765661892535349795
 blogger_orig_url: https://www.budidayatani.com/2021/02/kebun-sayuran-dan-buah-di-lahan-gambut.html
 ---
 

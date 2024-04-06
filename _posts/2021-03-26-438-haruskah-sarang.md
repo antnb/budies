@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/438-haruskah-sarang
 layout: post
 title: 'Ekspor Sarang Walet Indonesia Terhambat oleh Peraturan Karantina: Potensi
   dan Tantangan bagi Industri Perdagangan Sarang Walet'
@@ -8,7 +9,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-06-25T06:05:03.525+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3278221312659986423
 blogger_orig_url: https://www.budidayatani.com/2021/03/haruskah-sarang-walet-dikarantina.html
 ---
 

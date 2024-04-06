@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/180-teknik-tabulampot
 layout: post
 title: 'Budidaya Tabulampot Durian: Rahasia Sukses Menanam dan Merawat Durian dalam
   Pot'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-08-29T19:31:24.052+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5AdGCu4ZtfXqVn_TnMuZe5YQCdHS2ppgqAQ2MXkNrGFjPcgCukxbuUUzKD_6i-Q4KI0dxtAWlnCsJO-85o2zJm9K7lk28dD0VPzbcee0qZJqCvSAmO0heqw4B-Nks-a8dSyTYaM6-hcVp4hbVE4jzprVg9vXGB7g1mJtaLNnG2F1nUv8FoXQdty0TMHQ/s72-w544-c-h640/durian(5).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7090820797375272874
 blogger_orig_url: https://www.budidayatani.com/2019/07/teknik-tabulampot-durian-pohon-pendek.html
 ---
 

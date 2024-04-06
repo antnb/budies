@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/596-jejak-columbus
 layout: post
 title: 'Jejak Columbus Membawa Jagung ke Seluruh Dunia: Sejarah dan Pengaruhnya yang
   Luar Biasa'
@@ -8,8 +9,6 @@ tags:
 - jagung
 - pertanian dan perkebunan
 modified_time: '2023-06-12T12:41:11.380+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCvh3tPbJBld8YSKY-Ue4BmyKseVzmpaZTWijF5-bqdFFDTfOaGUQku2grXURTNR2SGyDYXyL0Uz015Gcqu4-5GxRPzm4BC-0VCLCAtBQ2iPW2imbTWMWJ1Ep5B5F0C1psRZ9sNDeQRY3yedFZ3uCdITvfDYripvjv0b3_tWjXE1AZ1N_RnlGNJyOndA/s72-w640-c-h360/jagung(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3560778672682984624
 blogger_orig_url: https://www.budidayatani.com/2021/10/jejak-columbus-populerkan-mahiz.html
 ---
 

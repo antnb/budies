@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/69-gandakan-keuntungan
 layout: post
 title: 'Potensi Pengembangan Udang Galah Super: Proses Produksi dan Androrektomi'
 date: '2019-06-14T21:25:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perikanan
 - udang
 modified_time: '2023-07-11T10:33:01.871+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVWeDyGeDtjI90e8beyZ4TB-4LthPC3zH8cKjq0STrea8rmDkoph-mhkqpaM-lTrCg9zKSadfuTypTmz1tUyOkf2Cxe_qJmDlFH6SqJyONeqTPhBQkEw_7EaBRpfVZvqmjd5naXGs3ARarQzQOEB-4HqoXSLNHTwuoSQ81p_xE5zD0nrWe1A4wt6L-KS_/s72-w640-c-h360/udang%20galah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8200393888341099904
 blogger_orig_url: https://www.budidayatani.com/2019/06/gandakan-keuntungan-dengan-antrektomi.html
 ---
 

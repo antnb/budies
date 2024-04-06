@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/293-proses-perizinan
 layout: post
 title: Memperoleh Surat Izin Penangkaran dan Perdagangan Arwana dengan Mudah
 date: '2020-11-06T12:35:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - arwana
 modified_time: '2023-07-02T11:14:43.774+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1998467437815731688
 blogger_orig_url: https://www.budidayatani.com/2020/11/proses-perizinan-penangkaran-ikan-arwana.html
 ---
 

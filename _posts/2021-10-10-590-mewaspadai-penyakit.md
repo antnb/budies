@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/590-mewaspadai-penyakit
 layout: post
 title: 'Avian Influenza: Penyakit Burung yang Mengancam dan Strategi Pencegahannya'
 date: '2021-10-10T17:47:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Peternakan
 modified_time: '2023-08-26T11:04:10.168+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pdjFPHNjV3tRfZu892zAP7yhGrvYHW8zuc7oNa5yjDIBpnrVHA2XrOq90RSbXQC1HuIcRDtvItDn7J2djuhhfFkBw3ttnOnEDA3kKW8QOqL6ZG0WFaHP8O8Q6vkgd9R4vyc1NbsDfZTfJfjQ0YvyAA9lyg0jr_aYnah-9X5-d7JnGNksvh7gm5z3Ar7U/s72-w640-c-h374/avian.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5603805526256696585
 blogger_orig_url: https://www.budidayatani.com/2021/10/mewaspadai-penyakit-avian-influenza.html
 ---
 

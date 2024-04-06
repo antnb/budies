@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/295-cara-hasilkan
 layout: post
 title: Cara Hasilkan Jambu Citra Jumbo dan Jambu Citra Bangkok
 date: '2020-11-11T16:14:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jambu air
 - pertanian dan perkebunan
 modified_time: '2023-08-07T15:19:50.627+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6bX6C9dx1BxWe4EaFtvFP-OVvZb-xPIk8vOF3tR25veqXbpYNs0YLnmV394W4rUy5em3iOrT3u2exZNy4mSKjLUhDTkIcXFuZpBIlJzjJn14sqNwXpjyVbk3oC8_5NPqXUZvPwDOkEnUPKgJXCZyreK3U6_JRQzb8oq57ZezUUOZWWNkmEzyDD0J2nCp3/s72-w640-c-h360/citra.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7442394534526950048
 blogger_orig_url: https://www.budidayatani.com/2020/11/cara-hasilkan-jambu-citra-jumbo-ala.html
 ---
 

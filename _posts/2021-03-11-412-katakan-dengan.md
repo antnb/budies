@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/412-katakan-dengan
 layout: post
 title: 'Parsel Tabulampot TBM: Bingkisan Buah yang Istimewa untuk Perayaan Spesial'
 date: '2021-03-11T22:42:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pertanian dan perkebunan
 - tabulampot
 modified_time: '2023-07-13T12:34:35.219+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7170732962339714513
 blogger_orig_url: https://www.budidayatani.com/2021/03/katakan-dengan-tabulampot.html
 ---
 

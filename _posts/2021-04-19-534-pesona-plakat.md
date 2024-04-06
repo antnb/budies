@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/534-pesona-plakat
 layout: post
 title: 'Pesona Plakat Cupang Berkilau Mutiara: Menjelajahi Kecantikan dan Keunikan
   Jenis-Jenisnya'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-06-09T14:04:55.489+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbTquwhr2LjvsSO3h7dynBtNMri_bBifTSN_ICZJ9n0d0xI4Mank_AVe0xYSUIFCd2Ech0-00OXuxdggm2p47K38LTzgLxSR6UvwLvvNmDaTVSSaTnw5dZQyDHC4ZQfnLF7VMXGYTNAzjEwbomdf6KYxU0HrHXkRc9ZoZ4-Lhwag8yyfo8lLAcVX8lA/s72-w640-c-h360/Plakat%20Full%20White.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-13059594228597037
 blogger_orig_url: https://www.budidayatani.com/2021/04/pesona-plakat-cupang-berkilau-mutiara.html
 ---
 

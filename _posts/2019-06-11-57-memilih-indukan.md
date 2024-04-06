@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/57-memilih-indukan
 layout: post
 title: 'Adenium Silangan: Keindahan dan Keunikan dalam Seleksi Karakter Bunga'
 date: '2019-06-11T05:41:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-07-15T10:18:45.099+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6432866049413638579
 blogger_orig_url: https://www.budidayatani.com/2019/06/memilih-indukan-adenium-terbaik-untuk.html
 ---
 

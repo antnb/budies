@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/150-bisnis-alternatif
 layout: post
 title: 'Bisnis Alternatif: Mengatasi Penurunan Harga Panen dengan Kreativitas'
 date: '2019-07-08T14:52:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-08-12T19:00:34.884+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHU3I8PMsaEEGVaHXps4NZ7NAdc6oVcErph44VbS0kNW8T8SAZg_rk16_9Pr0uBqqn-27o_9lzi2sTxMPBfeqmuvz4M44eoqUgkqLNO5SZ-VFJ7F1vIQPRpwM_ow7eX3skTQGtKjWq6MUSvw0z8QCvdv_v_zUeOecrFYUMzl5vWZIOBfTGa4nhe8HD5BR/s72-w640-c-h450/manisan_800x562.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1098667769368641712
 blogger_orig_url: https://www.budidayatani.com/2019/07/bisnis-alternatif-untuk-mengantisipasi.html
 ---
 

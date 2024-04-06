@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/50-serangan-virus
 layout: post
 title: Serangan Virus Pada Pembiakan Ayam Serama
 date: '2019-06-09T15:11:00.000+07:00'
@@ -13,7 +14,6 @@ tags:
 - ayam serama
 - Unggas
 modified_time: '2022-12-14T12:29:38.265+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6569196737481802176
 blogger_orig_url: https://www.budidayatani.com/2019/06/serangan-virus-pada-pembiakan-ayam.html
 ---
 

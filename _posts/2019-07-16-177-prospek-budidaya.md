@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/177-prospek-budidaya
 layout: post
 title: 'Prospek Budidaya Belimbing Dewa Secara Komersil: Transformasi Mengubah Wajah
   Belimbing Dewa'
@@ -8,8 +9,6 @@ tags:
 - Belimbing
 - pertanian dan perkebunan
 modified_time: '2023-08-14T11:31:32.647+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7mjSJk4Gnijd-uwRfcBQWlZJn21cGqJCKOdJsKS0vDPL91EQS6GrQ20IL53iApbqpEBpL4nN25__s2-MuYf0kquE3D85yJ0-ElRMeHdMK7yOzC9yuj_K3l-VOZ25tHgAn0xdetfse1qFaREWdE0xSXvLfGmYDf3YECC--XSh6ItM9uTT3vSoPsQeE0F2t/s72-w640-c-h360/belimbing.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3735375636013641519
 blogger_orig_url: https://www.budidayatani.com/2019/07/prospek-budidaya-belimbing-dewa-secara.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/329-surga-stroberi
 layout: post
 title: 'Mengungkap Keajaiban Surga Stroberi di Lembang: Menelusuri Kebun Vin Strawberry
   Orchad'
@@ -9,7 +10,6 @@ tags:
 - agrowisata
 - pertanian dan perkebunan
 modified_time: '2023-05-24T16:22:08.510+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5661546670767171491
 blogger_orig_url: https://www.budidayatani.com/2021/02/surga-stroberi-di-kawasan-lembang.html
 ---
 

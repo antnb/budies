@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/644-bauhinia-kockiana
 layout: post
 title: Hasilkan Keindahan Taman yang Mengagumkan dengan Bauhinia Kockiana
 date: '2021-11-24T23:44:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Gardening
 - Tanaman Hias
 modified_time: '2023-05-20T07:56:16.238+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAwzCay5vGsHHPzz7_wzby1DC-bPN9k2wKLMsH70d44KexlWC_HfFQP85NLT1uBQ_vmbvuLC1DLWBHpnk20PgDB2Mx7YnbNJYLinkWhWHTD3GWUjPuuCjgISI0_LbxLi8rvjcawyRATHjMV8B1gJKo_NCn4Ya13YwKYwONPIGQOXolGQ007MbqbmiDzA/s72-w640-c-h360/Bauhinia%20kockiana.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8296713301451599231
 blogger_orig_url: https://www.budidayatani.com/2021/11/bauhinia-kockiana-si-kupu-kupu-yang.html
 ---
 

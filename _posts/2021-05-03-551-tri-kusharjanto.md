@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/551-tri-kusharjanto
 layout: post
 title: 'Hobi Burung Berkicau: Keindahan dan Keterlibatan Tri Kusharjanto'
 date: '2021-05-03T18:13:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - burung kicauan
 modified_time: '2023-07-06T10:01:44.327+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3818368387695314226
 blogger_orig_url: https://www.budidayatani.com/2021/05/tri-kusharjanto-diantara-burung-dan.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/523-sphagnum-moss
 layout: post
 title: Sphagnum Moss, Jodoh sang Entuyut
 date: '2021-04-15T23:16:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Hobi
 - Tanaman Hias
 modified_time: '2022-12-14T12:32:21.353+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1140751539058361350
 blogger_orig_url: https://www.budidayatani.com/2021/04/sphagnum-moss-jodoh-sang-entuyut.html
 ---
 

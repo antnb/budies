@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/164-menikmati-kelezatan
 layout: post
 title: Keistimewaan Jambu Air Madu Hijau dan Persaingannya dalam Lomba Buah Unggul
   Nusantara
@@ -8,8 +9,6 @@ tags:
 - jambu air
 - pertanian dan perkebunan
 modified_time: '2023-08-21T17:05:12.358+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0q4o6IFKhfPOGrWj0gdZD5P3NReDOHim0PJM1OTygg_L3LzY139-K2PycNbiWk1xmTPQGxCjQIloNfQVJ0bBSHJ861hH1r6dzqcU9-GR0PJN4nB-3AdrBQXffvPtITePBj4JXmPYglFEgJ1zuLuEbNfGGHhsWKKpRabbPvI0NYfy78adxK7VOsyVwXA0O/s72-w640-c-h432/jambu%20air_800x541.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3165677197983550009
 blogger_orig_url: https://www.budidayatani.com/2019/07/menikmati-kelezatan-jambu-madu-hijau.html
 ---
 

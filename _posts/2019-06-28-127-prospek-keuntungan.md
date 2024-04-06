@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/127-prospek-keuntungan
 layout: post
 title: Prospek Keuntungan Dan Nilai Bisnis Dari Budidaya Perkutut
 date: '2019-06-28T16:43:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - perkutut
 - Hobi
 modified_time: '2022-12-14T12:30:02.533+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2054001145587679497
 blogger_orig_url: https://www.budidayatani.com/2019/06/prospek-keuntungan-dan-nilai-bisnis.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/630-karpet-talang
 layout: post
 title: Karpet Talang untuk Sayuran
 date: '2021-10-23T00:11:00.000+07:00'
@@ -9,7 +10,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:32:54.487+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4474575672293267559
 blogger_orig_url: https://www.budidayatani.com/2021/10/karpet-talang-untuk-sayuran.html
 ---
 

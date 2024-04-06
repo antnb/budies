@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/344-budidaya-seledri
 layout: post
 title: Membangun Swasembada Pangan Melalui Budidaya Seledri dan Inovasi Pertanian
 date: '2021-02-19T00:04:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Seledri
 - pertanian dan perkebunan
 modified_time: '2023-06-08T12:49:46.932+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5SRjwT8goe70nxtjCxKbl7u5gxsK76ygVjji2a_K5P7sBnybkUA6af_f6RjhoGmcTJpMZcRZjeAXBu3T2h99tIDseMehDTgyyUNSIFvbQx5xmHtWgsSed2KIMnBBUd28FCQd80IPaWtzwXJE-Elpn5Yz09OcF9hul8biwuCezpB43WTh7iqqQ34KiA/s72-w640-c-h360/seledri1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4724521792485446504
 blogger_orig_url: https://www.budidayatani.com/2021/02/budidaya-seledri-dan-globalisasi.html
 ---
 

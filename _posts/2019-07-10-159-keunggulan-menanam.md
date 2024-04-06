@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/159-keunggulan-menanam
 layout: post
 title: Keunggulan Menanam Mangga Chokanan Dibandingkan Jenis Mangga Lainnya
 date: '2019-07-10T13:25:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - mangga
 - pertanian dan perkebunan
 modified_time: '2023-06-15T09:56:07.743+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLo9USz0igvdu8bBgQ1nECl-58tvQ6IyUrJ8qRX6VhWwnZ9jb95AXsvetmJ-GoxmpEq0HeV9ezSZA4_RVq83LPmc7pNpF-FNwJr6kjOeTPv0iY0L6WrXMOnyhSIegJlFfVVsFN3y1z5zpg-su7nmTbSNAEEeoerqyQUHAJ6TEx9UpnY6jWobZUau0AEw/s72-w582-c-h640/chokanan_545x600.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3329940692148919762
 blogger_orig_url: https://www.budidayatani.com/2019/07/keunggulan-menanam-mangga-chokanan.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/318-menentukan-waktu
 layout: post
 title: 'Rahasia Panen Jagung Manis yang Menguntungkan: Temukan Waktu Tepat untuk Mendapatkan
   Kualitas Terbaik!'
@@ -8,8 +9,6 @@ tags:
 - jagung
 - pertanian dan perkebunan
 modified_time: '2023-05-21T14:05:29.352+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIafJWXEzrQYdzB7wAp57EM2mY_7ql72NKnfiecEKKmtZEueKI-jbWfix5NP20KKgMMb7wgSJYWKNQjHTOGLOQyga591hm45mZFwWpU3P5Ibn-GfTQa0IFretDm7RR6ejPDCiOaYixsWxbdYPR_d1u8A4_blctz-49j50Nm_iwefFioDx2R0LI_t4NKQ/s72-w640-c-h358/jagung(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1336517444899986061
 blogger_orig_url: https://www.budidayatani.com/2021/02/menentukan-waktu-yang-tepat-saat-panen.html
 ---
 

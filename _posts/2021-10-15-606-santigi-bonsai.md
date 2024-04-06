@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/606-santigi-bonsai
 layout: post
 title: Menyelami Keindahan Bonsai Santigi Bali Exotica dan Kisah Victor Sunanto
 date: '2021-10-15T19:02:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - bonsai
 modified_time: '2023-06-21T18:53:06.381+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7229387003677262371
 blogger_orig_url: https://www.budidayatani.com/2021/10/santigi-bonsai-di-bali-dia-spesialis.html
 ---
 

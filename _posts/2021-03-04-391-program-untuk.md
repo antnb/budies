@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/391-program-untuk
 layout: post
 title: 'Pelatihan Burung Berkicau: Menggali Potensi Burung Menjadi Juara'
 date: '2021-03-04T00:09:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Hobi
 - burung kicauan
 modified_time: '2023-07-30T07:57:40.404+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMw2TU1G5dzw8fI25DsbQx_6P09uKy22hx2l4ISqlFdFjId982FnPyYeYwA0l3-ZoA8u46I5dBxNpufLACzy-R48gww7mr423py7I1yQibyzGM5hwvaNQt89MgLsBpvUgOv4BrZASe0ILJ7FmqwPB6rHdtT2nN_HGyzBVJyybRdpurW9sUrfPMSK_fqUh/s72-w640-c-h342/kicau.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4702082361449616731
 blogger_orig_url: https://www.budidayatani.com/2021/03/program-untuk-burung-kicauan-berkualitas.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/335-permintaan-tinggi
 layout: post
 title: 'Budidaya Lettuce: Inovasi Teknologi Aeroponik untuk Pemasaran yang Lebih Baik'
 date: '2021-02-16T00:02:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - lettuce
 - pertanian dan perkebunan
 modified_time: '2023-07-27T15:13:47.474+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzFw1KSsXTPQgR2d6ufwdwzZlqkQUgmUKtQkf8CJoXqTFW_3ruk6P85nZPzFkzsQ12NWkI9AXS6uctpgIFwjauKpoBgRv4usJ0NddepEaQfUdmLN4dCr-tukaTh2A60F0ySaCv1UNZ9PWZeDL2f3SLxvtZZHQh_Vdo1oo-PgzJC-ZvKts2xqp39q0i8yQP/s72-w640-c-h364/lettuce.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1731215000961843148
 blogger_orig_url: https://www.budidayatani.com/2021/02/permintaan-tinggi-lettuce-sulit-dicari.html
 ---
 

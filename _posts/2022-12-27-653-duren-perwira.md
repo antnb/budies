@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/653-duren-perwira
 layout: post
 title: Duren Perwira - Durian Lokal Kualitas Unggul Dengan Rasa Manis Pahit Dari Majalengka
 date: '2022-12-27T13:16:00.005+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - durian
 modified_time: '2022-12-27T13:17:59.518+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPeaMqetghW-6p-einu0w-uYCYN8jrpCnBkKACKmpAjwZ0eoAoAvIuR5P5wuo89y7qBFLjQvqZ0FLgxmF9MAxUsyujUlc9pJAySUU5xujYzuss47QRIgTwdIZIhR61jkqxSfBkUyKQAF0zIxap0oHAWK776OaulYai4l6nZTZAtGT994-eNdRnxXodYw/s72-c/Durian-Perwira_657x600-300x274.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5605672212112018298
 blogger_orig_url: https://www.budidayatani.com/2022/12/duren-perwira-durian-lokal-kualitas.html
 ---
 

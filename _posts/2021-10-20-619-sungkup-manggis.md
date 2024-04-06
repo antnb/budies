@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/619-sungkup-manggis
 layout: post
 title: 'Teknik Baru Mempercepat Pertumbuhan Bibit Manggis: Sungkup Manggis Agar Bongsor'
 date: '2021-10-20T20:05:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - manggis
 modified_time: '2023-05-18T18:35:58.707+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMD5V1XUO-snk71844MwBHaTUgJ57zyhnP3p2Da16YRdLQY_wmX94XeR-XvZnm0ysL4ViKq6ZqK-MoUXBpZTSDZJ-_fAq58EqBEhfjXsmhNfDETqVwKsh4SfWLCLzaJW7OMpEoHWEdDZptp2PLPkTfzribQkXcyVrVKNNGxmxCNZW0rifbKBxi735aUw/s72-w640-c-h384/sungkup4.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3787684938545388260
 blogger_orig_url: https://www.budidayatani.com/2021/10/sungkup-manggis-agar-bongsor.html
 ---
 

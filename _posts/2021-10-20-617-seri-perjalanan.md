@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/617-seri-perjalanan
 layout: post
 title: Menemukan Keajaiban Pepaya Inca di Lost Garden of the Incas dan Upaya Pengembangannya
 date: '2021-10-20T20:51:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pepaya
 - pertanian dan perkebunan
 modified_time: '2023-06-16T15:42:04.257+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg-Yggd7GGcfy-uLvyJk83HMou67Ukwkvby5pqFxOazQJFFa39E1ZDvVTjmOeKaLsxKKHJNahSWyCpbucpGO6Ukrbr3lqMR64N2I0i30jFA8cd3Xc3Z35-jB7bckvQDdkH--RPqecad_YmWxj4yTj8RMd7q74I1kChm5-weIsB7ZHXaLm9kwAnfnj_oA/s72-w640-c-h492/pepaya.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-293000755018091328
 blogger_orig_url: https://www.budidayatani.com/2021/10/seri-perjalanan-australia-dari-inca.html
 ---
 

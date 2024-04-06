@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/158-kelapa-pandan
 layout: post
 title: Kelapa Pandan Wangi Mini Dan Kopyor, Dua Varietas Kelapa Unggulan
 date: '2019-07-10T13:49:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Berita
 - kelapa
 modified_time: '2022-12-14T12:30:23.781+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-49838830978084889
 blogger_orig_url: https://www.budidayatani.com/2019/07/kelapa-pandan-wangi-mini-dan-kopyor-dua.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/215-analisis-usaha
 layout: post
 title: Analisis Usaha Perkebunan jeruk siam
 date: '2020-04-20T18:43:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - jeruk
 modified_time: '2022-12-14T12:30:36.180+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieQk6x-EARIs_hVljh4GF9546ggLJ1uxOaSlucFD2ew6wbfc3_xAKC7w0BpE3BV8jFO-OjjR6-OES5uBMd353ymUZ3PGHYm5ihe4K6nxOkU3P55rWgEnX6sgC9N4ibN4yNlXlL3ZHge6Vq/s72-c/siam_1280x764-768x458.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1440174839883825943
 blogger_orig_url: https://www.budidayatani.com/2020/04/analisis-usaha-perkebunan-jeruk-siam.html
 ---
 

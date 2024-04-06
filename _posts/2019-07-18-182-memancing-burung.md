@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/182-memancing-burung
 layout: post
 title: Memancing Burung Liar Agar &quot;Mampir&quot; Kehalaman Rumah
 date: '2019-07-18T18:03:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Hobi
 modified_time: '2022-12-14T12:30:29.595+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4989330307586497616
 blogger_orig_url: https://www.budidayatani.com/2019/07/memancing-burung-liar-agar-kehalaman.html
 ---
 

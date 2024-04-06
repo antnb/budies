@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/417-dampak-penyakit
 layout: post
 title: 'Penyakit Mulut dan Kuku (PMK) di Indonesia: Pencegahan, Gejala, dan Pengendalian'
 date: '2021-03-15T22:07:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Peternakan
 modified_time: '2023-05-22T22:04:13.456+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6479616765669070919
 blogger_orig_url: https://www.budidayatani.com/2021/03/dampak-penyakit-sapi-gila-terhadap.html
 ---
 

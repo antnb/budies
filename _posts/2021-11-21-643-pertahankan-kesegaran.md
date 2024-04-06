@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/643-pertahankan-kesegaran
 layout: post
 title: 'Rahasia Penanganan Unik: Membuat Daging Kodok Tetap Segar dan Berkualitas'
 date: '2021-11-21T21:27:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kodok
 - Peternakan
 modified_time: '2023-08-30T18:24:57.327+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilmhD2hIb_qYzdB79P-WdHO5DPsWiysLwQ4N4iKCokljbBTsJaSFY2M_R8KEhkZqOoNv5ahY7B9ZYQL5k6H-XgLVHOAGRK6jqPVx_eiDJbfTeGhA7vyXO-setMHVd87Di7bcg6igQK5F5JbrcBquNGiLOa_hmLOsIciH4Tdu5aSYWi_3HR5nHwIp5IHN5f/s72-w640-c-h360/daging_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8380840845072551100
 blogger_orig_url: https://www.budidayatani.com/2021/11/pertahankan-kesegaran-daging-kodok.html
 ---
 

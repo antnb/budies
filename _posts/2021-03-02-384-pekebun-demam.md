@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/384-pekebun-demam
 layout: post
 title: 'Mengoptimalkan Pertumbuhan Tanaman dengan Pupuk Daun: Keajaiban Nutrisi untuk
   Anggrek, Buah, dan Sayuran'
@@ -8,8 +9,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-08-30T12:23:52.832+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYesfIhCo1htWJGrzEJq77X4Fy_b_mHWbXWnPNc6_Lo9PaA8e7VtjckAqEJtEW97DJZ5FNWN8DpvtFx26VZuBKLh9NU8QHb4M-esUtIM4DQcSxosTJmfgejyPqH2TGMN2napPOdCmjyYDhFQ8FQMKVy5q4-vJr_SrXjAvKzpjeMsUcTr3tGttaAN-TB-fq/s72-w640-c-h360/kompos.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4295831290066611948
 blogger_orig_url: https://www.budidayatani.com/2021/03/pekebun-demam-pupuk-kompos-daun.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/62-varian-durian
 layout: post
 title: Varian Durian Terbaik Dari Provinsi Jawa Tengah
 date: '2019-06-12T18:18:00.000+07:00'
@@ -15,7 +16,6 @@ tags:
 - Durio zibethinus
 - matang pohon
 modified_time: '2022-12-14T12:29:45.662+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8584316470041517137
 blogger_orig_url: https://www.budidayatani.com/2019/06/varian-durian-terbaik-dari-provinsi.html
 ---
 

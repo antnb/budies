@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/233-lebih-menguntungkan
 layout: post
 title: Lebih Menguntungkan, Pekebun Cigalontang Pilih Kembangkan Cabai Hijau
 date: '2020-09-04T19:22:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Berita
 - cabai
 modified_time: '2022-12-14T12:30:42.303+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5_9b8dfpkP3fCDU319udu2EFn0cmYnmwCLWxjeANRy6e3K0M5XnrVSlduMlfe2F9kHuKwrYxcr7kRvUoib_OqRonFJP7O2NPhp2FZ556bQNqrJwwCTQN-RVgDnLwpELTaCy5xKVOslPVg/s72-c/Gambar_cabe-hijau_1212x800-768x507.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7056500817772650937
 blogger_orig_url: https://www.budidayatani.com/2020/09/lebih-menguntungkan-pekebun-cigalontang.html
 ---
 

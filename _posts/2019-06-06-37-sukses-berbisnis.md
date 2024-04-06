@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/37-sukses-berbisnis
 layout: post
 title: Sukses Berbisnis Produk Olahan Ikan Bandeng
 date: '2019-06-06T17:49:00.000+07:00'
@@ -12,7 +13,6 @@ tags:
 - produk olahan
 - bandeng
 modified_time: '2022-12-14T12:29:29.046+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8102404125338201811
 blogger_orig_url: https://www.budidayatani.com/2019/06/sukses-berbisnis-produk-olahan-ikan.html
 ---
 

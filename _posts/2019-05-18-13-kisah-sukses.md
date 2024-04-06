@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/13-kisah-sukses
 layout: post
 title: 'Meningkatkan Pendapatan Petani dengan Menanam Vanili: Manfaat Ekonomi dan
   Lingkungannya'
@@ -8,8 +9,6 @@ tags:
 - Perkebunan
 - vanili
 modified_time: '2022-12-24T14:27:43.106+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQY77osacCYYBxMa4ENr1i44QKlru4uiW4xWxKJqwSXyBnE_JcjWLkEQFVruPvcXynXreud8Rz0Cf7LB6qZ1Bd7zPx94MWK5SQlTma5fhlWI7H-1kYJwz3yzgwxPBZTM1BGpK4x_XW3W02obZVI5jLJ8tLdw1JcT8PSxxA8u1npGwzWsfmFcUL8BJJg/s72-c/budidayavanili-1-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1701507924684891207
 blogger_orig_url: https://www.budidayatani.com/2019/05/kisah-sukses-meraup-untung-bertani.html
 ---
 

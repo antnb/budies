@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/585-pamerkan-buah
 layout: post
 title: 'Keajaiban Buah Loquat: Merasakan Kelezatan Rasa Manis Asam dari Cina hingga
   Jepang'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-20T19:21:01.945+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7979094886715041113
 blogger_orig_url: https://www.budidayatani.com/2021/10/pamerkan-buah-loquat-di-kaki-arjuna.html
 ---
 

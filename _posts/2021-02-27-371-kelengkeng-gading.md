@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/371-kelengkeng-gading
 layout: post
 title: Kelengkeng Gading si Pendatang Baru Berdaun Kuning
 date: '2021-02-27T22:04:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-06-08T17:51:15.959+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhbbSZJPhviYRsWKg245CFFxYmna8LTe3c1_IxsfmsQaFAdwc-ELuFjAj8bu_DhtnNsfuzpXBmbBWpKdRONcI1BMkzTlHD1KNa_lQkHQDTaNf6eEgfOExEN7XSVKXbxHlhjpVHUwB8PQiJ8HqmDQyCzl2pKvWmvqcwHht8I-WNTzx8ZR8VogpwF2GO2A/s72-w640-c-h360/httpswww.budidayatani.com202102kelengkeng-gading-si-pendatang-baru.html.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5011060792567850126
 blogger_orig_url: https://www.budidayatani.com/2021/02/kelengkeng-gading-si-pendatang-baru.html
 ---
 

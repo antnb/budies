@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/262-budidaya-dendrobium
 layout: post
 title: Budidaya Dendrobium Untung Dalam 4 Bulan
 date: '2020-10-21T17:33:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:30:51.766+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8DgF8wCGD8SAFyjOnvh_iSBj86swdCKvRmhtxI3NwzJxG13_AdcOeVGBLpKuNviru6w6qmtMiKieInrHuVVp9rdBVdiKO_94Yo1nGT3RgJWvtKhzRFEc4ZELv4QKZJkKRjG7LIL5758w/s72-c/anggrek1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5022424754977541255
 blogger_orig_url: https://www.budidayatani.com/2020/10/budidaya-dendrobium-untung-dalam-4-bulan.html
 ---
 

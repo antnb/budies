@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/452-cattleya-taiwan
 layout: post
 title: 'Cattleya Taiwan: Juara Itu Ada di Indonesia'
 date: '2021-03-30T13:34:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2023-06-12T11:51:41.952+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-XyKsLuPrwyylpwfrQqXySON-CWk72QFZtPICUr7aDxxNA0MR4qoYKPgFRgrFhOUmAuIna3vnFZsrhL_ztFrMeZaqreoj0RtVLH4pTHYvfpTf1EezLZzWVesuIosIJim4UpukXXXt-c7dvvnd3gO_Z6rS36qZNOlssgIiEHFwOtNh33Rk5HdkWQ-R3w/s72-w640-c-h360/Cattleya.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8951035433872089615
 blogger_orig_url: https://www.budidayatani.com/2021/03/cattleya-taiwan-juara-itu-ada-di.html
 ---
 

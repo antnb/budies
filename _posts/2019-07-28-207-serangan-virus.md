@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/207-serangan-virus
 layout: post
 title: 'Serangan Virus Kuning pada Tanaman Cabai: Penyebab, Gejala, dan Cara Pengendaliannya'
 date: '2019-07-28T13:35:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - cabai
 - pertanian dan perkebunan
 modified_time: '2023-08-06T18:58:24.553+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHSReoLAeoX1t0Vr8GPUPSU6FTDBOy7kr-ATpzt9aV74U8igXQF7i65jvF6-fJJ1zqQu6iNUVVWR7Gug_erjC3893FL61dCsYKV6UzLhdlRQAztE6zYAaD2cohUFWagz1y78HQjxzi0Kt1qPbKtdNWir4rmtnFwTjBovi41JZUzNJ-PWvOio7YrPpgLqx/s72-w640-c-h372/cabai(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7915311315163168533
 blogger_orig_url: https://www.budidayatani.com/2019/07/serangan-virus-kuning-pada-tanaman-cabai.html
 ---
 

@@ -1,35 +1,37 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Budidaya Tani
 permalink: /about
-comments: true
+description: Budidaya Tani, sumber informasi terkini tentang pertanian, peternakan, dan agrobisnis di Indonesia. Kami menyediakan tutorial dan solusi untuk membantu petani, peternak, dan pelaku agribisnis meningkatkan produksi dan kualitas hasil.
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+## Tentang Kami
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+Selamat datang di Budidaya Tani, sumber utama Anda untuk semua informasi terkait Agribisnis. Kami berkomitmen untuk memberikan yang terbaik dalam Tutorial Agribisnis, dengan fokus pada Pertanian, Pemeliharaan, dan Pemasaran. Budidaya Tani adalah sumber informasi terkini tentang dunia peternakan, pertanian, agrobisnis, dan beternak di Indonesia.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+Kami didedikasikan untuk menyediakan informasi yang relevan mengenai peternakan, pertanian, agrobisnis, dan beternak untuk membantu para petani meningkatkan produksi dan kualitas hasil panen mereka. Kami bekerja sama dengan peternak, petani, dan pemilik agrobisnis di seluruh Indonesia untuk memastikan bahwa informasi yang kami sampaikan selalu terbaru dan bermanfaat. Selain itu, kami juga menyediakan solusi yang beragam untuk membantu para petani, peternak, dan pemilik agrobisnis dalam meningkatkan produksi dan kualitas hasil panen mereka.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+Budidaya Tani didirikan pada tahun 2017 oleh Yudi Anto, seorang peneliti dan ahli di bidangnya. Passion-nya dalam bidang pertanian dan peternakan memotivasinya untuk melakukan penelitian yang mendalam sehingga Budidaya Tani dapat menyajikan yang terbaik dalam Tutorial Agribisnis. Kami senang dapat mengubah passion kami menjadi sebuah website yang bermanfaat bagi Anda.
 
-<h4>Questions or bug reports?</h4>
+Kami berupaya untuk memberikan informasi yang bermanfaat mengenai peternakan, pertanian, agrobisnis, dan beternak bagi para peternak, petani, dan pemilik agrobisnis di seluruh Indonesia. Harapan kami adalah agar informasi yang kami sampaikan dapat bermanfaat bagi mereka. Kami juga berkomitmen untuk terus menyediakan informasi yang berguna bagi para petani, peternak, dan pemilik agrobisnis di seluruh Indonesia. Terima kasih telah mengunjungi Budidaya Tani!
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+Kami harap Anda menikmati artikel-artikel kami sebanyak yang kami nikmati saat menulisnya. Jika Anda memiliki pertanyaan atau komentar, jangan ragu untuk menghubungi kami.
 
-</div>
+Salam,  
+Yudi Anto
 
-<div class="col-md-4">
+[![budidaya tani logo](https://blogger.googleusercontent.com/img/a/AVvXsEh8_vHcYSLbYED58eAq-Y-u_Js87bYG4RIR3a-4NTt_EKP-lTroOcZvDtYe_pbH6lOgyemW4zr5d_xeszCX4wFTGMGMri1WsenYpcGTxScCtuuBuM46TSkR6_yOBy46YgH4sTYNKDsV1GGkh2ia3xvU4PCjv6kdERcLhGdphaUW14S1qsHUyFiw8U65=s200)](https://blogger.googleusercontent.com/img/a/AVvXsEh8_vHcYSLbYED58eAq-Y-u_Js87bYG4RIR3a-4NTt_EKP-lTroOcZvDtYe_pbH6lOgyemW4zr5d_xeszCX4wFTGMGMri1WsenYpcGTxScCtuuBuM46TSkR6_yOBy46YgH4sTYNKDsV1GGkh2ia3xvU4PCjv6kdERcLhGdphaUW14S1qsHUyFiw8U65=w640-h202)
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+### Penulis dan Ahli
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+Yudi Anto adalah seorang peneliti dan ahli di bidang agribisnis. Anda dapat mengetahui lebih lanjut tentangnya melalui profil LinkedIn-nya di [LinkedIn Yudi Anto](http://www.linkedin.com/in/yudi-anto-0b41621a2) dan melalui profil ORCID-nya di [ORCID Yudi Anto](https://orcid.org/0000-0001-9836-4408).
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+### Sosial Media Budidaya Tani:
 
-</div>
-</div>
-</div>
+- [LinkedIn](https://id.linkedin.com/company/budidayatani)
+- [Youtube](https://www.youtube.com/@bt4ni)
+- [Pinterest](https://id.pinterest.com/budidayatani/)
+- [Twitter](https://twitter.com/BudidayaTani)
+
+Untuk menghubungi kami, silakan kunjungi [halaman Kontak Kami](https://www.budidayatani.com/p/contact.html).

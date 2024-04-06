@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/611-banjir-orderan
 layout: post
 title: Pasar Ikan Hias Semakin Bergairah dengan Ekspor Ikan Hias Indonesia yang Meningkat
 date: '2021-10-18T02:18:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - aquarama
 - Hobi
 modified_time: '2023-06-19T18:42:05.778+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2171383021257139493
 blogger_orig_url: https://www.budidayatani.com/2021/10/banjir-orderan-berkah-dari-aquarama.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/276-produsen-benih
 layout: post
 title: 'Benih Sayuran Unggul: Strategi Pemasaran, Peran Konsumen, dan Pertumbuhan
   Pasar'
@@ -8,8 +9,6 @@ tags:
 - benih
 - pertanian dan perkebunan
 modified_time: '2023-08-16T12:08:58.743+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAj887N4oTEsWDBznmiuPmoyqbNcE8--J9rirwjizdFdYkyWgb7rExJwAZDZ_hQ9jydaAZHoiBhEOZk99kfgaO-anay085jjR8UGe_6jWRV_LTEJgMB_0Zhvxl9fITXLGatwQU0PzpuwwHFKyCDnaGYe1Ppb2vOnTBugNgCS3QG9ZjY86dCLYva5l8y6G9/s72-w640-c-h426/seed.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5815938363907944515
 blogger_orig_url: https://www.budidayatani.com/2020/10/produsen-benih-berseteru-petani-makin.html
 ---
 

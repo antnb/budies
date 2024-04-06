@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/197-cara-masyarakat
 layout: post
 title: Cara Masyarakat Ciamis Mendapatkan Pendapatan Sampingan Dari Buah Duku
 date: '2019-07-23T18:58:00.000+07:00'
@@ -9,7 +10,6 @@ tags:
 - Berita
 - duku
 modified_time: '2022-12-14T12:30:35.564+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4047486992905975794
 blogger_orig_url: https://www.budidayatani.com/2019/07/cara-masyarakat-ciamis-mendapatkan.html
 ---
 

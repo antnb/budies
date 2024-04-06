@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/166-teknik-memancing
 layout: post
 title: Memanfaatkan CD Rekaman Suara untuk Memancing Sarang Walet
 date: '2019-07-12T19:40:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-28T22:08:22.993+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsMOIKasEkDSTndFQdj81r5iShNw0p0S1vYyACJC4xbw0rt1m5mqlnWtb8cvyxpI7IOVl5SC5EgLPgwocm48Yi9a9PIS73V-YSHpvLgr2isQUicQ_0PCmiKFecQjBf4cKCKdaIwj6-_zz8npkMC_kmBJzh8Hs5YmqFvtvyDnzC_gqsh26rCuvpB4rLA/s72-w640-c-h378/walet_800x473.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4948413060209706702
 blogger_orig_url: https://www.budidayatani.com/2019/07/teknik-memancing-walet-menggunakan-cd.html
 ---
 

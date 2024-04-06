@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/101-budidaya-kesemek
 layout: post
 title: 'Budidaya Buah Kesemek Junggo di Kota Batu: Keajaiban dari Dusun Junggo'
 date: '2019-06-20T13:46:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - kesemek
 modified_time: '2023-08-12T15:14:05.687+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMWW28qhMt2tQ2jbW0DF6a9XyVCDvYy_6doDMZOTq0xjcjBpzYg6czLGTe4o1oRVWK4YdVS_fnFL8eRe4JoEg1-gBAuxtD9uugt1Xc6835m5CqMh5eS6cE3TX3PZaVTbxsjkRfQ84ssiI4pg2CeMXK3ZvS9j7XKh8VNPa1ZfM9i_XFZMZG2Z3Tvk1abiyP/s72-w640-c-h466/kesemek_800x582.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3017769732423793475
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-kesemek-junggo-dari-kota-batu.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/581-kelengkeng-pingpong
 layout: post
 title: 'Budidaya Lengkeng Pingpong: Mengungkap Keunikan Buah Lengkeng Seukuran Bola
   Pingpong'
@@ -8,8 +9,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-06-19T12:22:30.042+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6nNlWNxxTs-oCReRj6_iz67sb_ID1WDQVDfb2cq2gVDnoYMjlPPWScJAEkZXUl_mJVNO1AoNVj9BHCR3HggRkClq1xYHYSpgkIMrc09zDEElsgIi3hOszZkk1WLb849oXwXR4UKsH69y9hnZMvp1Zj1_T74z2tJXu1jT3DvfyaML3nAIyr9NqMxRsyQd/s72-w640-c-h360/Lengkeng%20Pingpong.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-448754461116171768
 blogger_orig_url: https://www.budidayatani.com/2021/10/kelengkeng-pingpong-vietnam-panen-di.html
 ---
 

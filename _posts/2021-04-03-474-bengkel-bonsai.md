@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/474-bengkel-bonsai
 layout: post
 title: 'Bengkel Bonsai: Membawa Seni dan Transformasi pada Bonsai'
 date: '2021-04-03T19:40:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - bonsai
 modified_time: '2023-06-14T11:49:18.421+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5112677310149586208
 blogger_orig_url: https://www.budidayatani.com/2021/04/bengkel-bonsai-di-tangan-mereka.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/651-rambutan-zainal
 layout: post
 title: 'Rambutan zainal mahang: rambutan terbesar di dunia'
 date: '2022-12-23T16:08:00.001+07:00'
@@ -7,8 +8,6 @@ tags:
 - Rambutan
 - Perkebunan
 modified_time: '2022-12-23T16:08:16.458+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisu8TSUF9_popwvqy3XXrJ-Idvp1EWscLzey3cxsMV7bdvbBZQuzGU5fHavKWtSxyzhKVtYeh82p7IdE6b6efqD9dw-4lTOjHoVcwfWA91ebAyopU16dbwmYAe2sbGv0oCwa89AODK06L-NZGnpY1uEhd9XwKr1tQ18i1YNiI7JIpMZqR4IIzs5zWV5w/s72-c/rambutan-zaenal-mahang.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6137542163751192679
 blogger_orig_url: https://www.budidayatani.com/2022/12/rambutan-zainal-mahang-rambutan.html
 ---
 

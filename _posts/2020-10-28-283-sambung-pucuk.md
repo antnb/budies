@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/283-sambung-pucuk
 layout: post
 title: 'Manggis Putih Lombok: Budidaya, Keunggulan, dan Metode Perbanyakan'
 date: '2020-10-28T17:36:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - manggis
 modified_time: '2023-08-15T18:59:04.471+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUUxUS6gjw-7ibCNVwIYrkOA3auyFrCMHHeid9iwOsQITlvfyUzf2QQTcsyB7Jv2Umhts4Iu5-99GmPI4VBLgp518nEONO7rqtX6JHqaYpqtSeg59rJmR3zl81M7pJzUWiGcACr1kw5iPx6y7tu5B256VmoGCAiYL6Xx3WIBGAJllmR_Vf-qJJJj54kjs/s72-w640-c-h386/lingsar.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8302668736509861301
 blogger_orig_url: https://www.budidayatani.com/2020/10/sambung-pucuk-manggis-putih-2-3-tahun.html
 ---
 

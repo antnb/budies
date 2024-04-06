@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/568-budidaya-walet
 layout: post
 title: 'Budidaya Walet: Meningkatkan Populasi dan Ketersediaan Pakan Serangga melalui
   Optimalisasi Rumah Walet'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Walet
 modified_time: '2023-06-14T11:27:11.183+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6865131214952781348
 blogger_orig_url: https://www.budidayatani.com/2021/09/budidaya-walet-ketika-lampu-menyala.html
 ---
 

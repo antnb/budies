@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/397-busuk-rimpang
 layout: post
 title: 'Busuk Rimpang pada Jahe: Mengatasi dan Mencegah Serangan Fusarium'
 date: '2021-03-06T22:00:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jahe
 - pertanian dan perkebunan
 modified_time: '2023-05-22T10:03:44.368+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRHwmgjg2-fCNsrqw4c_WtnFGTeZ_75ew9jJOrrpoZCk1cLLlQF_OaY9R3_FuXbvly3n6_vKcQqDMxXxHI3urW2rH-YnPE5QeUN3RJvZLrO3G8vEftMvSMIAkrXcAsYRp5dYE5CZiStzXSxe9yRxAYrYgDb383bxJ5VnalBUPpttH21rKTicF_Ul9rg/s72-w640-c-h364/busuk.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3548030608669017690
 blogger_orig_url: https://www.budidayatani.com/2021/03/busuk-rimpang-pakai-saja-irisan-bawang.html
 ---
 

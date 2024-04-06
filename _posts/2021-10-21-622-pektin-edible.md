@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/622-pektin-edible
 layout: post
 title: 'Penemuan Terbaru: Coating Buah dan Edible Film Memperpanjang Masa Simpan dan
   Kelezatan Buah'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-25T06:28:00.461+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7728232046394743496
 blogger_orig_url: https://www.budidayatani.com/2021/10/pektin-edible-film-perpanjang-kesegaran.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/252-setengah-pekan
 layout: post
 title: Setengah Pekan di Sarang Ranchu
 date: '2020-10-18T20:03:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Hobi
 modified_time: '2022-12-14T12:30:44.751+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ3cQlA8MQbEeumC1IvG-pDk4bq62Myn__D7Agq3YFYcURDk6RoIVywKM9ogdNF87W4VeEAyXU_aeLWbup-9U0OicvJKBdNOpoKaBKrK4va05CGHjb3D9ndWTBI3jApNLiD4JSh1mPajBV/s72-c/pasar_ranchu.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7605072375503115696
 blogger_orig_url: https://www.budidayatani.com/2020/10/setengah-pekan-di-sarang-ranchu.html
 ---
 

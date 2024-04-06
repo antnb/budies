@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/379-budidaya-gurami
 layout: post
 title: 'Permintaan Benih Gurami Meningkat: Peluang Bisnis dan Manajemen Benih yang
   Efektif'
@@ -8,7 +9,6 @@ tags:
 - gurami
 - Perikanan
 modified_time: '2023-06-30T09:27:30.064+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1188415375622528543
 blogger_orig_url: https://www.budidayatani.com/2021/03/budidaya-gurami-tetap-dicari-di-semua.html
 ---
 

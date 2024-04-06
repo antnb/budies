@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/65-klasifikasi-katak
 layout: post
 title: Klasifikasi Katak Dan Macam Macam Katak Di Indonesia
 date: '2019-06-13T18:48:00.000+07:00'
@@ -10,7 +11,6 @@ tags:
 - katak
 - klasifikasi katak
 modified_time: '2022-12-14T12:29:44.136+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1841893264866164210
 blogger_orig_url: https://www.budidayatani.com/2019/06/klasifikasi-katak-dan-macam-macam-katak.html
 ---
 

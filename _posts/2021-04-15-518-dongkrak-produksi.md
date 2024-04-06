@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/518-dongkrak-produksi
 layout: post
 title: Dongkrak Produksi Padi Dengan NASA
 date: '2021-04-15T17:30:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-05-25T16:10:47.001+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3061977124952738755
 blogger_orig_url: https://www.budidayatani.com/2021/04/dongkrak-produksi-padi-dengan-nasa.html
 ---
 

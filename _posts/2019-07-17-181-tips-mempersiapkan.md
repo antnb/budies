@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/181-tips-mempersiapkan
 layout: post
 title: 'Bonsai Sansevieria: Keindahan Alam Dalam Batu'
 date: '2019-07-17T18:28:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Tanaman Hias
 - bonsai
 modified_time: '2023-08-23T11:48:44.790+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILusXf42hA_gtlxU3CbAhRjbqaX-HD-97NRaNI6-0kxwQWPW670gib4KO9_U2d-4KeZtS_Bx9pMgfMaWhoWgdOjtl-98C3r5zW5IJT8iUP1iZSDvklBGYCIH6grTqYWqoOhYo8K-tLRd8ZNYWOYiS4rgYw-8NcWg9PvOCT1h8KrSXn8KZnLxcFxarL4Zn/s72-w640-c-h360/batu.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7170057218551833895
 blogger_orig_url: https://www.budidayatani.com/2019/07/tips-mempersiapkan-batu-untuk-bonsai.html
 ---
 

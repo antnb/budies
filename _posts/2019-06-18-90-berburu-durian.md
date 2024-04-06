@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/90-berburu-durian
 layout: post
 title: Lezat dan Langka! Jangan Lewatkan Durian Kunyit Bawan di Ranah Minang, Sumatera
   Barat
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-21T12:23:02.956+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrM6vGgnZrOXdDp_VP3oKSWiWce8Lp9ZrWdrCV2RNBOqL1f_OZanQX57eyMvxhrhqJrwpYOohmnMgIGs_iN_suHpIggBhJZFPg2ZL2xloReX4NrEkmSV64L-Y_-k_AigWWumBbEqxF7IoejOCIv9PLE1at0rwBotDDeWF3vs7ZXqe0rtVUnTOEWw3jeg/s72-w640-c-h360/durian%20minanf.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2442527691999039520
 blogger_orig_url: https://www.budidayatani.com/2019/06/berburu-durian-super-di-tanah-minang.html
 ---
 

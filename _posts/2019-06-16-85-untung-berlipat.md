@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/85-untung-berlipat
 layout: post
 title: 'Mengubah Sampah Menjadi Harta: Limbah Bioetanol sebagai Solusi Menguntungkan
   untuk Pertanian dan Peternakan'
@@ -8,8 +9,6 @@ tags:
 - Peternakan
 - pertanian dan perkebunan
 modified_time: '2023-05-20T10:29:02.755+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd2oSbVH_74vKvvToYifEoGJNNhOLQj3R3dDYkPOtUrVAugUXYVMRbjKrOcXsAnqhacyGDmYUHicLo0aBRsDjsU-dUqHROXinLI7ozOW3wLpdJyulDYWBVWlkR30hbu7IpuvJePfApRK1pcOJjHFbwiffRl0rrTtf8yRedlrBLY4mKWqcSPAXeGhfJSw/s72-w640-c-h360/bioetanol1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3417851276116742881
 blogger_orig_url: https://www.budidayatani.com/2019/06/untung-berlipat-dari-sistim-pengolahan.html
 ---
 

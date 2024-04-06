@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/642-rahasia-sukses
 layout: post
 title: Mengungkap Rahasia Sukses Penangkaran Anis Kembang M. Ba'awad
 date: '2021-11-17T02:39:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Hobi
 - penangkaran
 modified_time: '2023-05-20T07:10:25.309+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh52oeUZLg_mjx6n4QH7MqjBQP3TCCQ02mpYDmqlPuz-DRbvy5kV5Judy6oO8exIT-hqf0tEwMgwZwDr15st3MNb9JTt2dFnf-BCh-QSedWs23O-YkvPgVq9Mo9ZXjSu4kaeBZUQIHsWzXZabb1-WGiZEHaxgXX864BlUdqgcExkIKiaDlm0e3aqCh7GQ/s72-w640-c-h360/Penangkaran%20Anis%20Kembang.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-247168675723545984
 blogger_orig_url: https://www.budidayatani.com/2021/11/rahasia-sukses-penangkaran-anis-kembang.html
 ---
 

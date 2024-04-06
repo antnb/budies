@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/627-tehnik-pengendalian
 layout: post
 title: 'Budidaya Tomat: Menumbuhkan Varietas Unggul dan Mengendalikan Penyakit Tanaman'
 date: '2021-10-22T21:55:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - tomat
 - pertanian dan perkebunan
 modified_time: '2023-07-01T12:29:14.580+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8547642437452108631
 blogger_orig_url: https://www.budidayatani.com/2021/10/tehnik-pengendalian-penyakit-utama.html
 ---
 

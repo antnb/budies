@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/07-kalkulasi-perhitungan
 layout: post
 title: Kalkulasi Perhitungan Modal Dan Keuntungan Bisnis Telur Puyuh
 date: '2019-03-02T15:49:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - puyuh
 - Peternakan
 modified_time: '2023-05-23T18:11:07.860+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubsImGG6AV2obHdJi_jDRMd8m7S9oa0DsBp3XCxkTNZr4_EzR6l75ejKVx1MEWb111pOseRDKgAFDXs8pmR28FLbE7VueBj2DSJ8s5bA1hrF7IcXFT642gA57EeWShn_SgOOP3vMFcJ_mnIxXjpx8okU527tqxDDiGZQBG1L1frD4TQrx8pZutHS_6w/s72-w640-c-h422/puyuh1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6105318044784015352
 blogger_orig_url: https://www.budidayatani.com/2019/03/kalkulasi-perhitungan-modal-dan.html
 ---
 

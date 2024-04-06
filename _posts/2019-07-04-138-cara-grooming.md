@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/138-cara-grooming
 layout: post
 title: Merawat Tanaman Hias Adenium dengan Tips Efektif dan Perawatan yang Tepat
 date: '2019-07-04T18:03:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-07-15T09:37:27.464+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ2OuMj22G7J3UTUIgzowhY7xX9vMC1Q3kh_1SccVAGXF0K6W6j4ZIc7DnfLETPZ0SAYFfF55SgixuInVXodPS2ySJtUHnuu3jt415t3pZnymMYVlVOafuuzP9NSR8UHQMrJ3GsHo8nN5sgUQjpJEvfp99V-MD4Op-qeolw3p8u7yZSMTQttyP8XIuURfo/s72-w640-c-h438/adenium_800x548.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2414347911145670008
 blogger_orig_url: https://www.budidayatani.com/2019/07/cara-grooming-adenium-agar-terlihat.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/286-lengkeng-mata
 layout: post
 title: 'Lengkeng mata kucing: Buah Kelengkeng Asli Bulungan'
 date: '2020-10-29T19:57:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kelengkeng
 - Perkebunan
 modified_time: '2022-12-14T12:30:58.645+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofHFDzZVkVQmSpE5N7i7s5BmUE3zOS7Jfolu7o30RFj2bHqS8-Wy94-4qYhonlIUPyRkR2nsEApLTWPs8tQGbioPYf9n8ryWVkRHbp84yh7JsRAmhM3FCeZNcxjZM0MnYT9FjOkep5tGV/s72-c/lengkeng1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4227831500919746033
 blogger_orig_url: https://www.budidayatani.com/2020/10/lengkeng-mata-kucing-buah-kelengkeng.html
 ---
 

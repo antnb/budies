@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/113-mengintip-koleksi
 layout: post
 title: Mengintip Koleksi Bonsai Pehobiis Dari Amerika Latin
 date: '2019-06-24T21:10:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - bonsai
 modified_time: '2022-12-14T12:29:53.441+07:00'
-thumbnail: https://i.ytimg.com/vi/_peSkXWlHP4/default.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7148576267845747191
 blogger_orig_url: https://www.budidayatani.com/2019/06/mengintip-koleksi-bonsai-pehobiis-dari.html
 ---
 

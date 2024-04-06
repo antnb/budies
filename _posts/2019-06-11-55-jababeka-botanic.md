@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/55-jababeka-botanic
 layout: post
 title: Jababeka Botanic Gardens - Kota Dengan Taman Botani
 date: '2019-06-11T19:00:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Gardening
 - Berita
 modified_time: '2022-12-14T12:29:34.265+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5569950823305627354
 blogger_orig_url: https://www.budidayatani.com/2019/06/jababeka-botanic-gardens-kota-dengan.html
 ---
 

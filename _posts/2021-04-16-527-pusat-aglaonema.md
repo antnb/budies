@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/527-pusat-aglaonema
 layout: post
 title: 'Pusat Aglaonema di Indonesia: Nurseri Lavira Usman Menyajikan Koleksi Langka'
 date: '2021-04-16T17:27:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Aglaonema
 - Tanaman Hias
 modified_time: '2023-06-28T08:20:42.659+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1322032654063207723
 blogger_orig_url: https://www.budidayatani.com/2021/04/pusat-aglaonema-di-bumi-lancang-kuning.html
 ---
 

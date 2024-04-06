@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/554-budidaya-kelengkeng
 layout: post
 title: Potensi Pasar Lengkeng Dataran Rendah dan Peluang Agribisnis Buah-buahan
 date: '2021-05-05T16:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-06-19T16:38:41.692+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY6-h60hm94GdSYwo0jQD7t8tpu6mnfIL2tCSw9KRXr59SZf91YtS6Qg54OgR3dv1iES0cUoYSZxYTdXeYXGzhjNYC28HM6_AlIyzsB-gvMwP1I-hcH-BDB0D6u_cBf4eXXesjpi0TN9J325kj7tvXrwNCqAGgoxUOfxkofMOw4SKiwViB_jQgDWyHZnV6/s72-w640-c-h360/lengkeng(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1694758904161550613
 blogger_orig_url: https://www.budidayatani.com/2021/05/budidaya-kelengkeng-dengan-filosofi-sun.html
 ---
 

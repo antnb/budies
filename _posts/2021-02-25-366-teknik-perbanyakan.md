@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/366-teknik-perbanyakan
 layout: post
 title: 'Perbanyakan Keladi Caladium: Teknik dan Tips'
 date: '2021-02-25T15:25:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-28T08:28:01.697+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7340725967207843522
 blogger_orig_url: https://www.budidayatani.com/2021/02/teknik-perbanyakan-caladium-dari-umbi.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/519-kantong-semar
 layout: post
 title: 'Penanaman Nepenthes di Nurseri Kaliurang, Yogyakarta: Keajaiban Tanaman yang
   Memikat'
@@ -8,7 +9,6 @@ tags:
 - Tanaman Hias
 - Nepenthes
 modified_time: '2023-07-02T16:20:41.521+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8661942596481347381
 blogger_orig_url: https://www.budidayatani.com/2021/04/kantong-semar-prima-dari-rimba.html
 ---
 

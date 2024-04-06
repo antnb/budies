@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/562-budidaya-tomat
 layout: post
 title: 'Budidaya Tomat di Kaki Gunung Pangrango: Menghadapi Tantangan dan Menembus
   Pasar Modern'
@@ -8,8 +9,6 @@ tags:
 - tomat
 - pertanian dan perkebunan
 modified_time: '2023-06-17T06:50:30.881+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVe4Od_ZPLGOMwN2lBYiWws2XEOqLvx_SF_9SCIdsyz37d-EqVAxM1qCrrn3edCw7V6UiM2F3LaxhSgOTf3DgQJp8mqXJKCCP8Oo1801k1oWBvaDQaR1O8d-q2lHCu91GyMLjB5CytLLZYqoYze1T33NPQE-FFyGzFEMNTGkVoxu39M-1t58sZbzoOdA/s72-w640-c-h360/Budidaya%20Tomat.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4297844179415790243
 blogger_orig_url: https://www.budidayatani.com/2021/09/budidaya-tomat-darmono-dan-gunung.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/434-parade-walisongo
 layout: post
 title: 'Schefflera Variegata: Koleksi Tanaman Impor yang Menarik dan Perbanyakan Tanaman
   Schefflera'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-21T18:04:33.942+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1001118973291034610
 blogger_orig_url: https://www.budidayatani.com/2021/03/parade-walisongo-schefflera-teranyar.html
 ---
 

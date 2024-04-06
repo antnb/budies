@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/153-kebutuhan-pasar
 layout: post
 title: |-
   Kebutuhan Pasar Yang Cukup Tinggi, Budidaya Ulat Sutra Tanah AirSemakin
@@ -9,7 +10,6 @@ tags:
 - sutra
 - Berita
 modified_time: '2022-12-14T12:30:06.226+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-467263520394642599
 blogger_orig_url: https://www.budidayatani.com/2019/07/kebutuhan-pasar-yang-cukup-tinggi.html
 ---
 

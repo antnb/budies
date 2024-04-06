@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/416-serindit-mahkota
 layout: post
 title: 'Serindit Mahkota Biru: Menjaga Kelestariannya Melalui Penangkaran'
 date: '2021-03-13T15:26:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - burung kicauan
 - serindit
 modified_time: '2023-06-01T18:30:27.068+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7YqBVjrVPCU9wVhsjYbgJU6H-PW9B9maviVK1EkK2jIKEuCxA7JDRB8cw6hQ3e4cU5jVsGXeQxkoC2YCyHhXPZvxdz23SMtRpsqXs9N3Df7MLfYZos1yPzhXqQWemaNbxFiG58Hbm8187VEuPWeTIkdbSDY3_0nQtxCqLgGlwl5XUTB45aFL7kTjMKQ/s72-w640-c-h360/Serindit%20Mahkota%20Biru.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5459620210595940856
 blogger_orig_url: https://www.budidayatani.com/2021/03/serindit-mahkota-biru-kini-dapat.html
 ---
 

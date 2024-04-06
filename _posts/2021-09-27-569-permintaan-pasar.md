@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/569-permintaan-pasar
 layout: post
 title: Tingkat Permintaan Melonjak, Pasokan Bibit Patin Tidak Mencukupi
 date: '2021-09-27T11:41:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - ikan patin
 - Perikanan
 modified_time: '2023-05-28T11:24:38.970+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqeFCD323-dtg4bEeTIJdkylAsmCUKrhlLz4WDa1aeVLq4o07YSapv2flJh9U78M8BeXLD9oXtYPlFfFoya3ekuvG7f5gj3EJqBGcIan1CvVTt_fdIoJMzA-X2Wg7RR8XCuahHZIWRdyZZRyWheWb3gl5gJJLRiSvPvX4dn3HXehbFFrBw2VABksVdgg/s72-w640-c-h360/patin.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8291646662200774159
 blogger_orig_url: https://www.budidayatani.com/2021/09/permintaan-pasar-melonjak-bibit-patin.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/376-gagal-cangkok
 layout: post
 title: Memperbanyak Bibit Putsa dengan Teknik Sambung Susu dan Setek untuk Mengatasi
   Kendala Perbanyakan
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-26T09:50:12.650+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4411986168558227807
 blogger_orig_url: https://www.budidayatani.com/2021/02/gagal-cangkok-putsa-coba-cara-ini.html
 ---
 

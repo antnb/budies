@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/201-durian-kerantungan
 layout: post
 title: 'Durian Kerantongan dan Durian Tarian: Kenikmatan Durian Indonesia dari Kalimantan
   Timur hingga Bogor'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-28T22:49:43.605+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqJdoE17l2iRGF-9oKHhZGUJTRZ6d_f5qfn9Yr8TNjpoMjbLw1PE1v0l_JX-_7hbDKgErZf9eBZajTJ0wry3CN9GcWJksP3gHJ-wlJiB-ZdO5fbPf3npJsuoAIC5MGcyMJE8PupD_K7C9FvriPT0hPYz7qxnEfe0kmoh1IhJEj6vw8Q5E8nAruCe90Jw/s72-w640-c-h360/duren2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5838136707789379851
 blogger_orig_url: https://www.budidayatani.com/2019/07/durian-kerantungan-dari-samarinda.html
 ---
 

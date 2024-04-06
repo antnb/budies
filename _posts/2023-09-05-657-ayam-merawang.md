@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/657-ayam-merawang
 layout: post
 title: 'Ayam Merawang: Mengenal Ayam Hias Dwifungsi Asli Indonesia'
 date: '2023-09-05T13:26:00.002+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Peternakan
 modified_time: '2023-09-05T13:26:30.775+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwFfhXreVOJp9e3kTXFqfq_eiScxMHIEpnJuFohp_HQtYHQNALAOljnsR56raxHa5HYXcLlJo1t2TJUMeAtQ8dHDSzDm9rDscmGi98nyGo0xhcI3RopzJ9zRetdr9qJqgxO4WP8tvpMIO-ewTEV54tmOTvkDm_fijgPNQH-3DFZ9S0n86plcPVS4uAjkKu/s72-w640-c-h360/Ayam-Merawang-babel.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-679247140842823954
 blogger_orig_url: https://www.budidayatani.com/2023/09/ayam-merawang-mengenal-ayam-hias.html
 ---
 

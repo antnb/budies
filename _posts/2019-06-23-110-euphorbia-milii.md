@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/110-euphorbia-milii
 layout: post
 title: Euphorbia milii Tanpa Duri Dengan Teknik Penyambungan
 date: '2019-06-23T15:13:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Euphorbia
 - Tanaman Hias
 modified_time: '2022-12-14T12:29:55.285+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3605298856414980251
 blogger_orig_url: https://www.budidayatani.com/2019/06/euphorbia-milii-tanpa-duri-dengan.html
 ---
 

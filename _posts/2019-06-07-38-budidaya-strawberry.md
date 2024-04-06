@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/38-budidaya-strawberry
 layout: post
 title: Budidaya Strawberry Dengan Green House Dan Talang Tingkat
 date: '2019-06-07T18:59:00.000+07:00'
@@ -11,7 +12,6 @@ tags:
 - buah
 - greenhouse
 modified_time: '2022-12-14T12:29:28.135+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6001854646410137029
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-strawberry-dengan-green-house.html
 ---
 

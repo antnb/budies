@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/428-budidaya-jamur
 layout: post
 title: 'Budidaya Jamur Kuping: Peluang Bisnis yang Menjanjikan'
 date: '2021-03-22T21:38:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-06-26T12:47:44.854+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8369379059548330319
 blogger_orig_url: https://www.budidayatani.com/2021/03/budidaya-jamur-kuping-banjir-order.html
 ---
 

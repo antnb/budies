@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/540-menanam-makadamia
 layout: post
 title: Hanya Butuh 6 Bulan! Cepat Raih Keuntungan dengan Penanaman Makadamia di Lahan
   Anda Sendiri
@@ -8,8 +9,6 @@ tags:
 - makadamia
 - pertanian dan perkebunan
 modified_time: '2023-05-28T12:41:51.455+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpqoLYXC8CH6TnufnMmtGq02n-FSyPcwxxJV4ZC5319FWLmG4jd-he1lBEbEKeLuNF0Ik0t3bbT9HvA33qa9_RmUyxoWpHI_aMZYs_hG0eqFxIANRkArgwX0J1meFPfMOMBrldcgPBYfrBeRyaTvarj80uKMcWvxlzwXDvBobv-r5sIFMdjd1MLUQEkA/s72-w640-c-h360/kacang(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2952804499022236877
 blogger_orig_url: https://www.budidayatani.com/2021/04/menanam-makadamia-di-kebun-kita.html
 ---
 

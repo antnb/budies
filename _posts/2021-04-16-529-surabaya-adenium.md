@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/529-surabaya-adenium
 layout: post
 title: Surabaya Adenium Show Partai Neraka di Kota Pahlawan
 date: '2021-04-16T18:30:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-07-03T07:47:55.225+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4711112836708684335
 blogger_orig_url: https://www.budidayatani.com/2021/04/surabaya-adenium-show-partai-neraka-di.html
 ---
 

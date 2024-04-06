@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/44-pemilihan-lahan
 layout: post
 title: Pemilihan Lahan Yang Potensial Untuk Bertani Jeruk
 date: '2019-06-08T14:40:00.000+07:00'
@@ -9,7 +10,6 @@ tags:
 - bertani jeruk
 - jeruk
 modified_time: '2022-12-14T12:29:39.481+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5441775812616957759
 blogger_orig_url: https://www.budidayatani.com/2019/06/pemilihan-lahan-yang-potensial-untuk.html
 ---
 

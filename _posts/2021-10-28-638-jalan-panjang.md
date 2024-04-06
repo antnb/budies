@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/638-jalan-panjang
 layout: post
 title: Rahasia Sukses dan Peluang Bisnis Liur Walet di Masa Depan
 date: '2021-10-28T01:57:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Walet
 modified_time: '2023-07-27T09:58:34.643+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigB5OBWDP8tF2Jrp2i35JLCgxkP8voUC2vjWN8qaW2IfsFUrNf4YZJaxit8Q6UEu1jI5KAexx2-u0sW0xw8yayzqRRy_70hC6B-gjdXWHUJKDQDqDxOPhEgQY8EM2KefS42r6FFrZ_iEFmQPkbH3wJV1E30fliYSkO82Uz4KEXYVnz11Cs8a_2ixsp5Ula/s72-w640-c-h368/saragn.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4731536178075661687
 blogger_orig_url: https://www.budidayatani.com/2021/10/jalan-panjang-meraup-rupiah-dari-liur.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/321-taiwan-berulah
 layout: post
 title: 'Petaka Larangan Ekspor Paprika: Ketika Pekebun di Lembang Berjuang untuk Bertahan'
 date: '2021-02-09T16:45:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - paprika
 - Perkebunan
 modified_time: '2022-12-22T20:34:36.994+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDJDwIneDj7JQVj9ekUkxXLAoj-x_SwFTiV6IA-_3hzzY1pcYxeYICM9TtttyG-JFG46GRSWJHjEDs-1rrIzEX9JTFUa2_aZQBzZk9Cejz3Ae3a7Tb4reEh501xsp7vA_adL0nt-49KDrzMr7bMUFDsYfTTa8XyGqoeOILEwNHTG9jeEqGhjqCM9YnNg/s72-c/Gambar_paprika1_1024x647-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2278407759993255949
 blogger_orig_url: https://www.budidayatani.com/2021/02/taiwan-berulah-indonesia-kena-getah.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/193-mengintip-keseharian
 layout: post
 title: Mengintip Keseharian Hobiis kucing
 date: '2019-07-20T16:22:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Berita
 - kucing
 modified_time: '2022-12-14T12:30:25.613+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5470847317475878554
 blogger_orig_url: https://www.budidayatani.com/2019/07/mengintip-keseharian-hobiis-kucing.html
 ---
 

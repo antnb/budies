@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/538-mengecap-gurihnya
 layout: post
 title: Menggali Potensi Bisnis Edamame yang Gurih dan Menguntungkan
 date: '2021-04-23T22:53:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kedelai
 - pertanian dan perkebunan
 modified_time: '2023-05-28T15:02:20.984+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyIjCtk0Iv87JZBJSVSlXrFecm3oWIf6qExkOe7x84lMB60DV_-6dGaEC9lO9R4J2dwqpfX2JNJnwEh7fFItHRdujhAx_d90za4t41K0u-BsVvaVlMy2h1X7-h1_gFmjNMTwXZK_4SmVu7PiFz6fgXreyJJFKZGEKMk0nSzFoXLSZWxY1erc0vgkRFCA/s72-w640-c-h360/kacang(3).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-171982382053013253
 blogger_orig_url: https://www.budidayatani.com/2021/04/mengecap-gurihnya-bisnis-kedelai-jepang.html
 ---
 

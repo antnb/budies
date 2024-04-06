@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/217-pengembangan-dan
 layout: post
 title: 'Matoa: Potensi dan Manfaat Buah Tropis Asal Papua'
 date: '2020-04-21T18:37:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - matoa
 - pertanian dan perkebunan
 modified_time: '2023-07-06T11:43:29.246+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrcMyjJxk2dMprQFiY9zwbgY9AZ844h2mtE6LjWfvWwMf3YlUaYrv8pkNuwjcrFcqX_xqQUPXSTily95Hn9qEukbgzeg2KvseHjl0zGqpwdAz-ZuCeWEKQnWG8GMZ3F_SRmbO40bv2fWWySqORonskUQqApis7i1lRSNyaRne0a3eyN8smHV2TyiaUJRrB/s72-w640-c-h360/pohon-matoa_1280x720-768x432.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2476868468065997183
 blogger_orig_url: https://www.budidayatani.com/2020/04/pengembangan-dan-budidaya-pohon-matoa.html
 ---
 

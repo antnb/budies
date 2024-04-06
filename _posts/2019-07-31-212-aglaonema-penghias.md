@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/212-aglaonema-penghias
 layout: post
 title: Aglaonema sebagai Penghias Taman dan Panduan Perawatannya
 date: '2019-07-31T13:55:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Hobi
 - Tanaman Hias
 modified_time: '2023-08-12T18:36:06.816+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPUGCy-zMk-6CqbD1bluxRZ-2BSLONyjWTjPLtxCOP90u0sUez3lF_3FzSelvCliOpYEFFdQKC-b-obhX4IQumhFzhRv_d_OBiZcD826pIE3cPtok84IKER6e8nuuuV7FjSuVi88ElTrNjC65PWKQWdGNxLqcjBSoQA4HRu8Td3i6MQdRKJZAIFgDQOigr/s72-w640-c-h410/aglaonema_800x512-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4902835483175370761
 blogger_orig_url: https://www.budidayatani.com/2019/07/aglaonema-penghias-taman-dan-pekarangan.html
 ---
 

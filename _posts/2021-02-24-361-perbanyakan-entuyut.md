@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/361-perbanyakan-entuyut
 layout: post
 title: Perbanyakan Entuyut (Nepenthes) Lewat Kultur Jaringan
 date: '2021-02-24T22:02:00.000+07:00'
@@ -11,7 +12,6 @@ tags:
 - tanaman
 - pot
 modified_time: '2022-12-14T12:31:22.424+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2756329899022212921
 blogger_orig_url: https://www.budidayatani.com/2021/02/perbanyakan-entuyut-nepenthes-lewat.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/56-konsep-perumahan
 layout: post
 title: Konsep Perumahan Asri Nan Hijau Tanpa Halaman
 date: '2019-06-11T18:39:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Gardening
 modified_time: '2022-12-14T12:29:34.569+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1978421391487584655
 blogger_orig_url: https://www.budidayatani.com/2019/06/konsep-perumahan-asri-nan-hijau-tanpa.html
 ---
 

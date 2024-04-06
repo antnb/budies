@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/211-varietas-cabai
 layout: post
 title: Varietas Cabai Hibrida Dan Lokal Yang Siap Bersaing Dipasaran
 date: '2019-07-29T07:49:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Pertanian
 - cabai
 modified_time: '2022-12-14T12:30:32.502+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXq2ePPolLeUsWMxdGIX5ywoNmwxVmJjibsSHaxQwDjKBEkoChliQapB4Rw0Xnt4MayDxALewxuL6qW0ehXQusDUvtr-teqjFZBb0sbbnm4uxRuJ9TcIJxQxipB_o1uljAMXpUQ7KIBdY-/s72-c/cabai_800x529-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1941004072741981619
 blogger_orig_url: https://www.budidayatani.com/2019/07/varietas-cabai-hibrida-dan-lokal-yang.html
 ---
 

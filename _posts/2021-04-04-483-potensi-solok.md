@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/483-potensi-solok
 layout: post
 title: Potensi Pertanian Solok Menanti Pengembangan yang Lebih Optimal
 date: '2021-04-04T15:13:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-11T10:13:49.229+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfqxbZ7mFnSIkMz3iNrwJqyGqE9oqgDYNBWTQnmv5k7CplMuhOrXTLO7WpVNh_nUTXfCHpyHfl8EZjCF8rFgRBnxCnadh8KSOAZTfu3CIebWDdA4YVMzohLxkGy0FMmC6HO95hDDCOBqYUbpCW14DPSf4APuoE01FcsbiE9VygIkdS8vNcd2X3ug7_vA/s72-w640-c-h360/solok.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-56958882446824359
 blogger_orig_url: https://www.budidayatani.com/2021/04/potensi-solok-menanti-polesan.html
 ---
 

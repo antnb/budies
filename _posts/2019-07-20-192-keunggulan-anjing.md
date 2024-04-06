@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/192-keunggulan-anjing
 layout: post
 title: Keunggulan Anjing Beagle Sebagai Alarm Dog Terbaik
 date: '2019-07-20T17:00:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Berita
 - anjing ras
 modified_time: '2022-12-14T12:30:25.308+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2730543722782608429
 blogger_orig_url: https://www.budidayatani.com/2019/07/keunggulan-anjing-beagle-sebagai-alarm.html
 ---
 

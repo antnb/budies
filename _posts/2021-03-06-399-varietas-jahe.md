@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/399-varietas-jahe
 layout: post
 title: Varietas Jahe Cimanggu Dongkrak Hasil Panen Hingga 35 Ton/ha
 date: '2021-03-06T18:45:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jahe
 - pertanian dan perkebunan
 modified_time: '2023-05-29T18:02:59.561+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgE4RbWqM1z14zxjB0KOrF-JUx4YdEpTwR3Ss3HMxbMwN5XynGYVDm0YfFN11Tn0dPkKcpwDXXKD13RZb61AaT7DHyESWi-3_CLMfn4AuQ3RJEBOV_L8OPE-yRGXXsov9c11tTysqt716GDfGj7EAq-3jIsroHrLEzcnfBibcdIBT6IrulA3-Rv_PAw/s72-w640-c-h360/jahe1(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8070975137152642023
 blogger_orig_url: https://www.budidayatani.com/2021/03/varietas-jahe-cimanggu-dongkrak-hasil.html
 ---
 

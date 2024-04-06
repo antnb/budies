@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/473-pola-pertanian
 layout: post
 title: Pola Pertanian Terpadu Mengoptimalkan Produksi Padi dengan Teknologi Gelombang
   Suara
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-14T10:22:03.228+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5461977174177009063
 blogger_orig_url: https://www.budidayatani.com/2021/04/pola-pertanian-terpadu-menggunakan.html
 ---
 

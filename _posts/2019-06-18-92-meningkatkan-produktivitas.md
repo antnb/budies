@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/92-meningkatkan-produktivitas
 layout: post
 title: 'Inovasi Agrikultur: Jambu Jamaika Makin Produktif dengan Pupuk Fermentasi
   Tuna'
@@ -8,8 +9,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-05-19T08:16:16.532+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvaHytUmPvUdlPFdiUIoP-bL47wjQSDAYzEV-41x8L7piQqLp32-R2BIk06DviwHSKSSRbhgo_8ELsSmFCp9Fw_c5L8BBV-9_4vJRQHzQXnKIf_4KVzvWrguM4DufGWY95FVj26WvsefknXughvWtoY_MqwyL6hgwXLExasli-tszW5P7SLHKXw9QNA/s72-w640-c-h404/pupuk_800x506.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8362341874258899044
 blogger_orig_url: https://www.budidayatani.com/2019/06/meningkatkan-produktivitas-dan-imunitas.html
 ---
 

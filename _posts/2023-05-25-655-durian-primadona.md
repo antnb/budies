@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/655-durian-primadona
 layout: post
 title: 'Durian Malaysia: Popularitas yang Meningkat dan Ekspansi di Pasar Swalayan
   Jakarta'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-25T15:57:06.231+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYfbrvoMHGhZbYdJR2n1GhfSg5bF4VoRdwGXDek0l36xvJZyvrVcTUrGuujlp_2c9wqA2me-fLf6iwC2KgsMhCDnqHrlKGdimeqP3b8M_i1o-EeyaA32Ev-0ORTW3CMZGQBVSAB5JStFI-bugZxpY0IXN4WfBkJU5F5PL5kHLhbGq4em7NqmV3yKpgVw/s72-w640-c-h360/en.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8538217542016818180
 blogger_orig_url: https://www.budidayatani.com/2021/03/durian-primadona-baru-dari-negri-jiran.html
 ---
 

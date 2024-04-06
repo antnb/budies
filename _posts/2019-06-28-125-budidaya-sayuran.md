@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/125-budidaya-sayuran
 layout: post
 title: 'Budidaya Sayuran Dengan Metode Greenhouse: Mengubah Paradigma Pertanian dan
   Menciptakan Peluang Ekspor'
@@ -8,8 +9,6 @@ tags:
 - greenhouse
 - pertanian dan perkebunan
 modified_time: '2023-05-18T20:18:44.012+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiIWamTroC8LfELMdosE8euf0O1NBD8wRYHPvLmo2MILj59i3CMpsSyumq3NT9zwxOCoR-a_FAE3w6QnXGpWAFJxOeqotbb8HuU6j7RZ4ZLWE70iaeBJBb4hpx4IW0hRkmrabSWFmB4WDkwths1-3IcwbuxMZ6hVQlu0GvGqeCe-0uf4TXRDOmKq33SQ/s72-w640-c-h350/terpal_800x438.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5873995292799739601
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-sayuran-dengan-metode.html
 ---
 

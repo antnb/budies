@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/271-rambutan-aceh
 layout: post
 title: 'Keistimewaan Rambutan Aceh Pelat: Produktivitas Tinggi dan Karakteristik Unik'
 date: '2020-10-22T16:09:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Rambutan
 - pertanian dan perkebunan
 modified_time: '2023-08-16T11:04:18.015+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDZsEhS21UaNF6z2Z1KRe5OaZqDa-OQs-PolOmbhdB_hcfQow4bSkP3SlaS2F-vpLNOUUiieMYPJXlKvTDkutYhhlkg3IfDCVjbtIeLqfAoNzlrVIPZ4dljBuUl5VeqL6TGunUvZGRqIvVKYUL5TDq6eZuVAXdc7N3cwxi0yHfYTbDvZnTeoJSadJ5iIUW/s72-w640-c-h360/pelat.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-641182152041851707
 blogger_orig_url: https://www.budidayatani.com/2020/10/rambutan-aceh-pelat-rapi-andalan.html
 ---
 

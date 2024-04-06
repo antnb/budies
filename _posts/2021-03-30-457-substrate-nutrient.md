@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/457-substrate-nutrient
 layout: post
 title: |-
   Substrate Nutrient Film Technique: Sebuah Sinergi Dua Teknologi
@@ -9,8 +10,6 @@ tags:
 - hidroponik
 - pertanian dan perkebunan
 modified_time: '2023-05-29T12:25:47.396+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtYuy0c8_YIc-dn0MuVH72uM3xysXn6PgFELigo0A7g_JEpOUrwgQFao_rp5MGgBMXIbxy-19q6dGR-SfhV4G6PjOzxF3A6D7IOutSyeD4eQWBe0l3-MIEGIVM4HPU7yQOVEjsgqKjUL_vvgMeMTcOA76YzAXdlDe3ohniapEs9YWDZUf0ZMvPKb8izQ/s72-w640-c-h354/nft.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6655776464829368162
 blogger_orig_url: https://www.budidayatani.com/2021/03/substrate-nutrient-film-technique.html
 ---
 

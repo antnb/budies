@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/79-breeding-silangan
 layout: post
 title: Breeding Silangan Boa Constrictor Imperator Albino 30 Juta Perekor
 date: '2019-06-16T15:41:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - reptil
 - Hobi
 modified_time: '2022-12-14T12:29:52.527+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1655795242548673675
 blogger_orig_url: https://www.budidayatani.com/2019/06/breeding-silangan-boa-constrictor.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/558-keliling-kaohsiung
 layout: post
 title: 'Euphorbia: Tanaman Hias Populer dari Taiwan yang Menarik sebagai Groundcover
   dan Pembawa Keberuntungan'
@@ -9,7 +10,6 @@ tags:
 - Hobi
 - Tanaman Hias
 modified_time: '2023-06-21T18:15:45.587+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2219537081824375435
 blogger_orig_url: https://www.budidayatani.com/2021/06/keliling-kaohsiung-cari-euphorbia.html
 ---
 

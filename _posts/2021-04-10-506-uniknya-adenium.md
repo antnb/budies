@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/506-uniknya-adenium
 layout: post
 title: Membentuk Bonsai Adenium dan Teknik Penyambungan yang Menarik
 date: '2021-04-10T15:33:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-06-17T11:39:00.743+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFlMF3bDDHes_OjU6_rnLooeEfQouHuIGaaJ9uM_HZO86zesyQE_fhubMUCiyF_9NFS5_pxorzD5IWDXKdgsw_eR1U7j6KfgSBmyhDwQVDqyNQ_aJW-JGeFaspKGZedcd-nmuklXv1lqm2U-hFZkAMn6jVPAFx6CB4RLVGUOBRUxkai01tpo3jAHRn2w/s72-w640-c-h360/Bonsai%20Adenium1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7566205607138139622
 blogger_orig_url: https://www.budidayatani.com/2021/04/uniknya-adenium-kalau-dibonsai.html
 ---
 

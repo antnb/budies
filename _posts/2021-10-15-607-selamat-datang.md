@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/607-selamat-datang
 layout: post
 title: 'Plumeria: Tanaman Hias Tahan Banting yang Cantik dengan Perawatan Mudah!'
 date: '2021-10-15T09:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - plumeria
 - Tanaman Hias
 modified_time: '2023-05-19T19:33:06.920+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqCqLJQW0M2Fgi73641zjuSdQHyGrnXonVSB7YKRSr4tM8I16M5Bz9v4usq_LUVKuQpE1Y7v4L_CP59rHv0oZs4vPj6ASnFSLhkIOoP02P6Y1JGni5DdE4WG39KR7HimjdRfyX8GWRdUj14GFEnD8k-p1xuf9_C_YgLbRNEK2x-hkOVvwRkSlNjLdh9Q/s72-w640-c-h360/plumeria1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4507625920420103129
 blogger_orig_url: https://www.budidayatani.com/2021/10/selamat-datang-lei-teranyar.html
 ---
 

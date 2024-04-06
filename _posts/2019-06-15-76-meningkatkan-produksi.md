@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/76-meningkatkan-produksi
 layout: post
 title: Meningkatkan Produksi Susu Kambing Etawa Dengan Limbah
 date: '2019-06-15T18:46:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Peternakan
 modified_time: '2022-12-14T12:29:41.353+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5706324120096115783
 blogger_orig_url: https://www.budidayatani.com/2019/06/meningkatkan-produksi-susu-kambing.html
 ---
 

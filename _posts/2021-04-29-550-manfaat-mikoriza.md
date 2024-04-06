@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/550-manfaat-mikoriza
 layout: post
 title: Manfaat Mycorrhiza dan Glomeraceae dalam Peningkatan Produksi Tanaman Bawang
   Merah
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-07-09T11:24:06.352+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1541225287417065207
 blogger_orig_url: https://www.budidayatani.com/2021/04/manfaat-mikoriza-fungi-untuk-kesuburan.html
 ---
 

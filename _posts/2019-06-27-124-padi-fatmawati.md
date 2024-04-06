@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/124-padi-fatmawati
 layout: post
 title: Padi Fatmawati, Varietas Padi Tahan Penyakit Dan Hama
 date: '2019-06-27T14:20:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Pertanian
 - Berita
 modified_time: '2022-12-14T12:30:03.464+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1915983085177027543
 blogger_orig_url: https://www.budidayatani.com/2019/06/padi-fatmawati-varietas-padi-tahan.html
 ---
 

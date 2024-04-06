@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/419-jati-menjulang
 layout: post
 title: 'Harga dan Keberlanjutan: Produksi dan Perlindungan Jati di Boja'
 date: '2021-03-15T19:22:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - perhutanan
 - Jati
 modified_time: '2023-06-28T09:30:09.389+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5839777014253381655
 blogger_orig_url: https://www.budidayatani.com/2021/03/jati-menjulang-laba-didulang.html
 ---
 

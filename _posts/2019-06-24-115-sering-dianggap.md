@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/115-sering-dianggap
 layout: post
 title: |-
   Sering Dianggap Gulma, Lotus Putih Mempunyai Nilai Bisnis Yang
@@ -9,7 +10,6 @@ tags:
 - lotus
 - Berita
 modified_time: '2022-12-14T12:29:53.745+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4958374449173434364
 blogger_orig_url: https://www.budidayatani.com/2019/06/sering-dianggap-gulma-lotus-putih.html
 ---
 

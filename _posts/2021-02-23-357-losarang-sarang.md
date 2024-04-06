@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/357-losarang-sarang
 layout: post
 title: 'Pusat Budidaya Lele Indramayu: Keajaiban Desa Losarang'
 date: '2021-02-23T14:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perikanan
 - ikan lele
 modified_time: '2023-05-18T08:01:39.640+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvN-lJFvA95WdfuTARmpU0WqNT2L4xt0ciVO2ulMplSufMVVsTQQ-hu8Ys7Chxv8JIjFaPE0w6H9TE9tN_VjTqVQ_BQuq6iYfznEKfVUQbsxN5o8UkGOnAmfS8yosAief1xg5rpFSEXzAr-2dg_EsSbtM4AEu76q450kJMOielwF1ouMF6v9k8rXQog/s72-w640-c-h360/losaang1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3415886305343771170
 blogger_orig_url: https://www.budidayatani.com/2021/02/losarang-sarang-lele-indramayu.html
 ---
 

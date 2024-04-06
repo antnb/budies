@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/156-implementasi-flat
 layout: post
 title: Implementasi Flat And Drain System Pada Perkebunan Strawberry
 date: '2019-07-10T12:50:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - strawberry
 - Perkebunan
 modified_time: '2022-12-14T12:30:05.611+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4738682596113072971
 blogger_orig_url: https://www.budidayatani.com/2019/07/implementasi-flat-and-drain-system-pada.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/95-budidaya-melon
 layout: post
 title: 'Budidaya Melon dengan Sistem Irigasi Tetes: Meningkatkan Kualitas dan Hasil
   Panen'
@@ -9,8 +10,6 @@ tags:
 - melon
 - pertanian dan perkebunan
 modified_time: '2023-08-12T17:54:29.620+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKDJ1k2u_mQgnjlktYRs88xaYWAgq9PbFXQjTwEhBD1HFc0q1efX3esHbne3eQwP5aPTa1IVh11Z0XsbnhTyvceCdz3cs6ZjKQxvIkJhf2zr7y0WZhVVCigNvKXo5PrXD1WwsZT8grcbRdhbi6uxLDv1Nz2cwUzg7Op2Fui8xcwbN2rWA1zQpYl0aAFIV/s72-w640-c-h360/tetes.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4040336584507040006
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-melon-dengan-sistem-irigasi.html
 ---
 

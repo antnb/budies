@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/496-kentang-atlantik
 layout: post
 title: 'Kentang Atlantik: Solusi Terbaik untuk Budidaya Kentang di Dataran Menengah'
 date: '2021-04-08T14:58:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - kentang
 - pertanian dan perkebunan
 modified_time: '2023-06-28T09:35:01.034+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6372719842683420308
 blogger_orig_url: https://www.budidayatani.com/2021/04/kentang-atlantik-turun-gunung.html
 ---
 

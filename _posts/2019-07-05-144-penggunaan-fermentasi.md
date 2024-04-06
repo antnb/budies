@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/144-penggunaan-fermentasi
 layout: post
 title: 'Fermentasi Daun Bandotan: Pengendalian Hama dengan Pestisida Alami dalam Pertanian
   Organik'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-07-08T13:44:00.916+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3058837908468152464
 blogger_orig_url: https://www.budidayatani.com/2019/07/penggunaan-fermentasi-daun-bandotan.html
 ---
 

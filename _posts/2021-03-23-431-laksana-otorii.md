@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/431-laksana-otorii
 layout: post
 title: 'Menaklukkan Pasar Benih: Sartono, Penemu Benih Lokal, Berbagi Rahasia Suksesnya!'
 date: '2021-03-23T14:12:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - cabai
 - pertanian dan perkebunan
 modified_time: '2023-05-19T18:29:26.118+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbual9eH13-EW464yBcWNVs1HpPRB3XSORPlzm8jG_dCmCBOyS8QhAb3lBnToFPlyDGYvlgkAhMeg6lbajAjR6vPy2BiOKSBOYprVAu8HSu_gtyLqb9na8iFW_iBim4LEG2AOxVcmlEOng05U7NMGxUdBbhxjXPdRXYq68Z3ez62tUob1gbP9pYyrLyw/s72-w640-c-h360/trisula.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-326969821176570598
 blogger_orig_url: https://www.budidayatani.com/2021/03/laksana-otorii-otorii.html
 ---
 

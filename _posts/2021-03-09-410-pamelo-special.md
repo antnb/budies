@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/410-pamelo-special
 layout: post
 title: 'Pamelo Thailand: Buah Eksotis dengan Nilai Ekonomis Tinggi'
 date: '2021-03-09T23:20:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - jeruk
 modified_time: '2023-05-24T09:19:32.234+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMcmBwndBV7fE6L-7VO_9oPuLM9M2UzFrjDIwoE3se_L6LpHqGRHig8Mcu0s38w2dBgIAcXDFPZWiref9hf18E1Bgt-MpIal0IumHPVqw8zWqdQWalhXBVhWq8Uat8iK4hVRsmMIq4vCYXyD-tnSqu_fu7VVwUh_N3G50qkU3fjxeOk74x8Q_nJUPR9g/s72-w640-c-h360/Pamelo.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-968062801688870932
 blogger_orig_url: https://www.budidayatani.com/2021/03/pamelo-special-dari-negri-gajah-putih.html
 ---
 

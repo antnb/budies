@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/15-varieteas-vanili
 layout: post
 title: Varietas Vanili Tahan Penyakit
 date: '2019-05-20T18:08:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - vanili
 modified_time: '2022-12-17T19:10:22.328+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk_FIcdMaJNg1ItZY9tp4vnNjSO7KtzfUCNl1teASpSEDKSednbi2eFs_u0dnXDqgYTmT46myAzc6WIBgiyahB2ku0t_z6DD8LC3y3pqadObI8h5F0maiRyOSgGff81uOEAnHt4oMYG96tuvYXQtU85LzExzLdYjwXLCefE_4uWUutB10gWxIvAnDPUw/s72-c/vanili-3-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8795704501700675157
 blogger_orig_url: https://www.budidayatani.com/2019/05/varieteas-vanili-tahan-penyakit.html
 ---
 

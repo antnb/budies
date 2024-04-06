@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/390-potensi-sorghum
 layout: post
 title: 'Sorghum: Solusi Pangan Alternatif yang Multiguna dan Bergizi'
 date: '2021-03-04T20:14:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - Sorghum
 modified_time: '2023-07-27T13:37:44.202+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuXiSqJsIkg5jNZssp5L4l0v-SRIZaY1C-zemwGKvr90yfgOFGU14DOXa6yqI8R1WP9pVkn1VoCq3zlPtza1V7TezfhB67KlbadHIyqUaGzHOOZpOm_9uAmSXcA6kJLXwBlqG3hzdrXPDkvFx0Nnumgp9gRyyI5AmrQ_vd85J18r8vwCzus-B4WFQD5bpO/s72-w640-c-h360/Sorghum.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1587581147005109405
 blogger_orig_url: https://www.budidayatani.com/2021/03/potensi-sorghum-sebagai-pangan.html
 ---
 

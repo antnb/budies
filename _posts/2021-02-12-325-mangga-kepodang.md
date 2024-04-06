@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/325-mangga-kepodang
 layout: post
 title: Mangga Kepodang Merona Di Kaki Gunung Wilis
 date: '2021-02-12T20:56:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - mangga
 - pertanian dan perkebunan
 modified_time: '2023-06-10T11:14:13.515+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggwBrGfKFQZjcC7r23R9uLUArouC4VLMkQFVzTmrHdR0HeXKBnBMXw_G8K38rE424hr96ginISipzmb2l0hEkSVZvsXMdjwa3fZVlqXpE9uvkEC6zoMMdGipXOse0m9weF7Vt5vaH-PU7mENIC2juPuzOgGuPyiQdEtRZLcukhwjFOiVlIE1C1jV_S5w/s72-w640-c-h360/Mangga%20Kepodang.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5198576115520136084
 blogger_orig_url: https://www.budidayatani.com/2021/02/mangga-kepodang-merona-di-kaki-gunung.html
 ---
 

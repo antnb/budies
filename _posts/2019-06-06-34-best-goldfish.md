@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/34-best-goldfish
 layout: post
 title: Best of the best Jogja Goldfish Contest
 date: '2019-06-06T05:46:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - Hobi
 modified_time: '2022-12-19T18:24:26.167+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27t-yV0I-lzubXaQRFYMgqkUyLmFQqqTc4Pm0IWfNZxA7HmWfraS6U9_uO1ilb1lYyFxj7hKi86EvglC1_O32URsRP_iNkKmvGTx-knlwkY5ta-ZhaRh-38PAmfYSnQjrYAY8LsEVy7j_sWJ5UtutG7MBWKaMs-VLy37SrN00rvsNq-pZ-HP29rfwYQ/s72-c/goldfish-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1075936431833401504
 blogger_orig_url: https://www.budidayatani.com/2019/06/best-goldfish-contest.html
 ---
 

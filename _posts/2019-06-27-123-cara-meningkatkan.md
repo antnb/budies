@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/123-cara-meningkatkan
 layout: post
 title: Peningkatan Produktivitas Padi Organik dan Syarat-syarat Budidaya yang Perlu
   Diketahui
@@ -8,7 +9,6 @@ tags:
 - padi
 - pertanian dan perkebunan
 modified_time: '2023-07-07T19:13:20.236+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3660978315940233786
 blogger_orig_url: https://www.budidayatani.com/2019/06/cara-meningkatkan-kualitas-produksi.html
 ---
 

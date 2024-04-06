@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/404-budidaya-ikan
 layout: post
 title: 'Budidaya Ikan Baung: Solusi Peningkatan Pasokan Ikan Baung dan Pindang Baung
   yang Terbatas'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Perikanan
 modified_time: '2023-07-01T11:34:25.571+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7944280108152547254
 blogger_orig_url: https://www.budidayatani.com/2021/03/budidaya-ikan-baung-dengan-metode-kawin.html
 ---
 

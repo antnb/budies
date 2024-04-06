@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/470-mekar-adenium
 layout: post
 title: 'Fenomena Mekar Adenium di Tengah Tahun: Permintaan Melonjak dan Bisnis Berkembang
   Pesat'
@@ -8,7 +9,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-06-13T15:08:34.871+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4893987956169812314
 blogger_orig_url: https://www.budidayatani.com/2021/04/mekar-adenium-di-tengah-tahun.html
 ---
 

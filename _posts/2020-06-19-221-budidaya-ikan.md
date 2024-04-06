@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/221-budidaya-ikan
 layout: post
 title: budidaya ikan diskus
 date: '2020-06-19T13:22:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Hobi
 modified_time: '2022-12-14T12:30:38.937+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Z1BrECSM9tCC-H_aqv_lr6RyZFMQmM3YIDH0ScGkCr-dZ6hHkMlysZAnPfJ-OTO3Vrzl3zDhQ9a38AMszAqh7L8LHVoD9tEmQzPe9akPoKyFzBVFhaVoW0YYhaPu3wqIhEagCDshMh-W/s72-c/diskus_1280x738.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4790413512170807326
 blogger_orig_url: https://www.budidayatani.com/2020/06/budidaya-ikan-diskus.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/106-german-pointer
 layout: post
 title: German Pointer Anjing Ras Andalan Para Pemburu
 date: '2019-06-22T17:39:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Hobi
 - anjing ras
 modified_time: '2023-06-08T19:35:08.455+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJ5PXBgFKUgx7r-bf95W4gEvnedyK11DrgzmUYtgnAt8SyJFcXbzBwVoPrxA6D4s0UzehMvzRSzVKTjAIviV6XX0Jd30PYpXp7huKIVZDTlGEg6OQlYnTIIjtB5GP9y7RzHfOrZ-3wHwzCKP7Qn3qNQRsz4KEZuxS8H2JjXAw2wQQSEpYZGCfp3QIRQ/s72-w640-c-h360/Dalam%20artikel%20ini,%20kita%20telah%20membahas%20mengenai%20German%20Pointer,%20anjing%20ras%20yang%20menjadi%20andalan%20para%20pembur.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4686016584936286350
 blogger_orig_url: https://www.budidayatani.com/2019/06/german-pointer-anjing-ras-andalan-para.html
 ---
 

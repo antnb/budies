@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/175-pehobiis-berhasil
 layout: post
 title: Pehobiis Berhasil Memijahkan Fresh Water Butterfly Fish
 date: '2019-07-16T12:56:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - Berita
 modified_time: '2022-12-14T12:30:19.021+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1002291833034295612
 blogger_orig_url: https://www.budidayatani.com/2019/07/pehobiis-berhasil-memijahkan-fresh.html
 ---
 

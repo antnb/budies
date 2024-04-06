@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/32-kisah-sukses
 layout: post
 title: Kisah Sukses Para Pebisnis Ikan Koi Lokal
 date: '2019-06-05T18:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - Hobi
 modified_time: '2022-12-19T18:14:38.788+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbrSkzloKKutFc_CpsFiPq6j3LgRociQ42v383T-tzv2Nunyw5Fz-vp3sXlkCuxsPGoqZKK1rJVUSuIiIFcMq7teUz981DrBklQbw2T_0EFx1hw3l4xQKZkyo63gWGWgnsnz6m9a08fnwOkeGJLYC_8BB4y__59MrfkIixOme1c8GYSVMx8ARYK9t7XQ/s72-c/koi-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6392223917978164708
 blogger_orig_url: https://www.budidayatani.com/2019/06/kisah-sukses-para-pebisnis-ikan-koi.html
 ---
 

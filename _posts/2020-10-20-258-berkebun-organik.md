@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/258-berkebun-organik
 layout: post
 title: Berkebun Organik Menghapus Duka
 date: '2020-10-20T21:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Pertanian
 - Berita
 modified_time: '2022-12-14T12:30:54.533+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz7w570JugJsc9KudARAcY4lPFGDkwpIj39D9M0vfvAQyf4X9KIAfCwK6Xmolgte2lv_OOnyXmjrK9YJfw7Ac3VciHE7lIcJLu7zJK-DK4JyHQfhuoqDgqbQ9C0OgVHfOjrxH0JabMsVBx/s72-c/organik2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8107546041029916994
 blogger_orig_url: https://www.budidayatani.com/2020/10/berkebun-organik-menghapus-duka.html
 ---
 

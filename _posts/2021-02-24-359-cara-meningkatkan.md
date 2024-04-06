@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/359-cara-meningkatkan
 layout: post
 title: Cara Meningkatkan Kualitas Tanaman Sayur Organik
 date: '2021-02-24T16:21:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - sayuran
 - pertanian dan perkebunan
 modified_time: '2023-07-10T11:46:58.327+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1870164731527684054
 blogger_orig_url: https://www.budidayatani.com/2021/02/cara-meningkatkan-kualitas-tanaman.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/135-sukses-meraup
 layout: post
 title: 'Pembiakan Ikan Arwana Super: Rahasia Sukses Henry Liberty'
 date: '2019-07-03T16:19:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - arwana
 modified_time: '2023-05-22T22:39:20.029+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5578950325200783831
 blogger_orig_url: https://www.budidayatani.com/2019/07/sukses-meraup-miliaran-rupiah-dari.html
 ---
 

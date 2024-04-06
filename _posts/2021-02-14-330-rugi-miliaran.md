@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/330-rugi-miliaran
 layout: post
 title: 'Flu Burung: Ancaman Terhadap Peternakan dan Kesehatan Manusia serta Upaya
   Penanggulangannya'
@@ -8,8 +9,6 @@ tags:
 - Ayam
 - Peternakan
 modified_time: '2023-05-25T09:40:18.224+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAfTJYnHeBB52VWD5V7o1u75NkfL0upgRtxtdW76QyID8GG6_dxtC7MYQD-PAjprleF7dQcKEjGNef2iaD2PpHFkGcL6t0XLNr_RXKSw0WeCoFhXIA4BpxpTU6cGCXSSeDlbAF7IyzVpglREoTiCY-lw_j4eN2ejkD8eVQV0hYQ9rHULnXpphG-ordjw/s72-w640-c-h360/kandang.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2464359430844853494
 blogger_orig_url: https://www.budidayatani.com/2021/02/rugi-miliaran-rupiah-didera-flu-rurung.html
 ---
 

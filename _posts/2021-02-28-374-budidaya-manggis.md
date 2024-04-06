@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/374-budidaya-manggis
 layout: post
 title: 'Tips Sukses Budidaya Manggis: Panen Cepat dalam 5 Tahun!'
 date: '2021-02-28T16:03:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - manggis
 modified_time: '2023-05-21T12:45:23.413+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjd8AAt-QbGYiLPZv116Z1vE_4y8PXJL3zeGiuDSCZwt2jm8erLE8eBWsPKsmvv27Bj_kvakcpDztfoq55lS-dlSwwQOXfeknKOwrhUpuVZaPaTx-ByyzjBgYCfro8fPXUn-Fb8FXYZ5WmDT4DkFE2OsNoJ7PE7MCOl7KbFHnEE-D9v0aK5gz28-wZkA/s72-w640-c-h360/manggis.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7372771615426598338
 blogger_orig_url: https://www.budidayatani.com/2021/02/budidaya-manggis-5-tahun-panen.html
 ---
 

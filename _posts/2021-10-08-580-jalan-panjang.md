@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/580-jalan-panjang
 layout: post
 title: 'Kontes Koi Indonesia: Merawat Kualitas Koi untuk Keberhasilan Kontes'
 date: '2021-10-08T13:19:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - Hobi
 modified_time: '2023-06-15T20:40:40.957+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5966489106537431442
 blogger_orig_url: https://www.budidayatani.com/2021/10/jalan-panjang-gapai-prestasi.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/93-teknik-memperlambat
 layout: post
 title: 'Teknik Inovatif dengan Arang Aktif: Buah Segar Tahan Lama Setelah Panen!'
 date: '2019-06-18T17:55:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-05-20T09:55:05.755+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqOpmxkXOMhPnL7AkG8KVOC8zfnuFs5vyCPIB8lmK_lm3bC5HPsoxzrFmQQWO7nLExGbIiGL9_UUALMOYZgokuTrxcTYxaguJjjfMnna_vIRlPAdQV76JAPCK3BYTTFId6PfWsU580pMU8D7GD8kOZCFcPqW3Z-5_3NJtuF-ep_b7w42fbIz20OQ3iZw/s72-w640-c-h326/buah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3397058558806716122
 blogger_orig_url: https://www.budidayatani.com/2019/06/teknik-memperlambat-pembusukan-buah.html
 ---
 

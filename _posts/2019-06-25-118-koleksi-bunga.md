@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/118-koleksi-bunga
 layout: post
 title: Koleksi Bunga Anggrek Terlengkap Dari Pehobiis Maniak
 date: '2019-06-25T15:39:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:29:53.136+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6798729540892388448
 blogger_orig_url: https://www.budidayatani.com/2019/06/koleksi-bunga-anggrek-terlengkap-dari.html
 ---
 

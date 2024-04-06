@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/536-silver-dollar
 layout: post
 title: Budidaya Ikan Silver Dollar untuk Laba Besar
 date: '2021-04-19T15:12:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-07-29T10:38:32.964+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-2_ViQeiaCE6rl-lcj3bPZFv3olp9y6Pxj9XH-eFYJDvxA3jWJuhUbR5d-MNN2OHwU3ecWWMelm3HWtmKv_DMYneIc4Bwr5XVEOY4wt1sg6cXnruZK4u1SxI3CldwhzgtAZHnK4s2RB2ZxB9FkL0WWdsjkzTcElaPXr1bZd1dZdVuKGgLHvWaFeSVR_z/s72-w640-c-h360/ikan.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6489159598910648645
 blogger_orig_url: https://www.budidayatani.com/2021/04/silver-dollar-laba-besar-dari-urutan.html
 ---
 

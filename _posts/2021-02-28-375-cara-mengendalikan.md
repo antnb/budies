@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/375-cara-mengendalikan
 layout: post
 title: Cara Mengendalikan Getah Kuning (gamboge) pada Buah Manggis
 date: '2021-02-28T15:30:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - manggis
 modified_time: '2023-05-18T19:12:45.421+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDDM4ft1X8a7WHC65yjzksKuPLjuGQp6cJjj9x4KflUDnl_MMQTGrEy-W-aCrm7FzE5-fP4JLnjOX6wOtTFm2KQv_sCc04bL5KnogHZx6aLF1wbBpHiuz7792Pn2zaCy3oSOVRKLCqo49ByYBe9_3QEooaisPmtMjNpqooe4FOfkloVgWPBqgQz5zTg/s72-w640-c-h360/getah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-96201864968724350
 blogger_orig_url: https://www.budidayatani.com/2021/02/cara-mengendalikan-getah-kuning-pada.html
 ---
 

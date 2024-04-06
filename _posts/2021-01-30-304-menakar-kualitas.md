@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/304-menakar-kualitas
 layout: post
 title: Ingin Memilih Ryukin Terbaik? Ini 6 Kriteria Penting yang Harus Diketahui!
 date: '2021-01-30T12:48:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - ryukin
 modified_time: '2023-05-21T11:01:46.047+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNgSRetTKeg0eqgPnI_rCNnUjEBopimVXsTM6iaZsGchiheDSXlrrXCZtVybbPfeo9VIcWjkj0F5LxUtbz_NbtdRczzzJat97NS9NDElDWCKzUg6OX-Ao8Ax_aUHO_kPTu27b-NhRdSUWOHHno2RoewIDCtlBM1f56h0xq7tgEvutuPSYXfTzHQ6lCA/s72-w640-c-h360/Menakar%20Kualitas%20Ryukin%20Terbaik2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2028322543315931894
 blogger_orig_url: https://www.budidayatani.com/2021/01/menakar-kualitas-ryukin-terbaik.html
 ---
 

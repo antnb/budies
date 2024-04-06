@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/103-teknik-sambung
 layout: post
 title: Teknik Sambung Batang Hasilkan Daging Buah nangka Manis Dan Tebal
 date: '2019-06-20T14:25:00.000+07:00'
@@ -10,7 +11,6 @@ tags:
 - Berita
 - nangka
 modified_time: '2022-12-14T12:29:57.548+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6602295106784580661
 blogger_orig_url: https://www.budidayatani.com/2019/06/teknik-sambung-batang-hasilkan-daging.html
 ---
 

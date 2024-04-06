@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/116-analisis-kendala
 layout: post
 title: Analisis Kendala Dan Keuntungan Budidaya Tomat Skala Besar
 date: '2019-06-25T23:28:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:30:04.697+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-177289967555048334
 blogger_orig_url: https://www.budidayatani.com/2019/06/analisis-kendala-dan-keuntungan.html
 ---
 

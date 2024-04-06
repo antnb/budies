@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/290-pestisida-alami
 layout: post
 title: Pestisida Alami Untuk Perkebunan Cabai
 date: '2020-11-02T07:56:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Pertanian
 - cabai
 modified_time: '2022-12-14T12:30:57.735+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVogsXvmms-KyfH1uIpXhJ-bFokkaeXGx2hGPIxbLyAqIjDnHSHbrSphcNrL0nAO3FvYO1nh6usaQyEDpXqpPVAUgxsth_VRPfl3B_R4ZabvzSBC6paf92jqLeNStrCmFIqpqxFLF1Yd9/s72-c/Gambar_cabai_1280x720.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3196456796067522137
 blogger_orig_url: https://www.budidayatani.com/2020/11/pestisida-alami-untuk-perkebunan-cabai.html
 ---
 

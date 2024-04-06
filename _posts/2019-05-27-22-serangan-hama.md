@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/22-serangan-hama
 layout: post
 title: Serangan Hama Pada Kayu Cendana
 date: '2019-05-27T17:29:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - cendana
 modified_time: '2022-12-19T17:13:13.651+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtb14X9jyq3iQkQJ0NUcdYF-16ttzAeYwyXstnq5zmM54zeNSbgPsZJg-wSQ-LOV2sVagQxCtd5U8VK7aJsJhVFgyuW0M_s8YmCNd6o7vDHhoGWgpkA6RMrRj6yUVVhGz1-G2zzz8ibulrcKGiLKuEnqxujiTvg8ACgF9I6MkZLJsLN3X0KY2-jCIKnA/s72-c/cendana-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7112166471769159683
 blogger_orig_url: https://www.budidayatani.com/2019/05/serangan-hama-pada-kayu-cendana.html
 ---
 

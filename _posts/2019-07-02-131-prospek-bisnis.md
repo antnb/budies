@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/131-prospek-bisnis
 layout: post
 title: Prospek Bisnis Penangkaran Ikan Cupang Hias
 date: '2019-07-02T19:36:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - ikan cupang
 - Perikanan
 modified_time: '2022-12-14T12:30:01.003+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6932341085556444337
 blogger_orig_url: https://www.budidayatani.com/2019/07/prospek-bisnis-penangkaran-ikan-cupang.html
 ---
 

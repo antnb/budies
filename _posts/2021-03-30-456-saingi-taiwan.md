@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/456-saingi-taiwan
 layout: post
 title: Mengungkap Rahasia Kesuksesan Bonsai Kimeng Asal Taiwan
 date: '2021-03-30T16:29:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - bonsai
 modified_time: '2023-06-10T10:27:00.304+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yLZ-Lx5kms0vA8OkqrXL7SscmRAO07eL0jgcokbncDqwYVNT74PKfCyqpguIels-x2VyyB6XosG3hYxUQUkL5PhLgtPBOfyM9ZFzqSVwZ36yr-1qmVheEGdcBmCpaUGAJVmspnF9oGIgOZXNcjXeX5LfJCUi2I_SKsuZzU4IDIlaxvw2ikaXXr1bew/s72-w640-c-h360/kimeng.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4169623995148948639
 blogger_orig_url: https://www.budidayatani.com/2021/03/saingi-taiwan-besarkan-kimeng.html
 ---
 

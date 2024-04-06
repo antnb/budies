@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/345-penanganan-serangan
 layout: post
 title: 'Menjaga Tanaman Durian Tetap Sehat: Strategi Unik untuk Mengendalikan Serangan
   Kanker Batang'
@@ -9,8 +10,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-06-01T15:37:27.169+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWRoK9VUFgXDDaUkS4mKYMIdUWHRK1y8KoYcCIeF0xjtUA7vc3yNiLRMb355lpZr1YGu6RxFfokIxe-po9kNY9hXrbaoXAXc_cEcSe7kT5cVZnWlKoQN4BTezJ6FvigAORe3iQ1r-6edZHmc0FmNBQpFwGvoF9gfwPVSWS0hT5O-AyKZxJfJ8cCJK6Yg/s72-w640-c-h360/batang%20pohon.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6574459620440236167
 blogger_orig_url: https://www.budidayatani.com/2021/02/penanganan-serangan-kanker-batang.html
 ---
 

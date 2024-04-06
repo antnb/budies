@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/484-algojo-penggerek
 layout: post
 title: 'Penelitian Terbaru: Beauveria bassiana Efektif dalam Mengendalikan Hama Penggerek
   Bonggol Pisang C. sordidus'
@@ -8,7 +9,6 @@ tags:
 - pisang
 - pertanian dan perkebunan
 modified_time: '2023-06-21T15:45:04.208+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6489237759402976990
 blogger_orig_url: https://www.budidayatani.com/2021/04/algojo-penggerek-bonggol-pisang.html
 ---
 

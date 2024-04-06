@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/504-peraturan-dan
 layout: post
 title: Eksportir Komoditas Pertanian Menghadapi Tantangan dengan Kenaikan Bea Ekspor
   dan Penyelundupan
@@ -13,7 +14,6 @@ tags:
 - Berita
 - ekspor
 modified_time: '2023-06-19T17:19:31.839+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1331774062067582672
 blogger_orig_url: https://www.budidayatani.com/2021/04/peraturan-dan-batu-sandungan-para.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/520-membentang-karpet
 layout: post
 title: 'Tumbuhan Kantong Semar Ampullaria: Pesona Karpet Merah di Nurseri Borneo Exotics'
 date: '2021-04-15T19:22:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Nepenthes
 modified_time: '2023-07-08T10:15:13.159+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7865473102235359267
 blogger_orig_url: https://www.budidayatani.com/2021/04/membentang-karpet-nepenthes-ampullaria.html
 ---
 

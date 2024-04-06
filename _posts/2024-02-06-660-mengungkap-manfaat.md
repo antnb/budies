@@ -1,13 +1,13 @@
 ---
+canonical_url: https://www.budidayatani.com/660-mengungkap-manfaat
 layout: post
 title: 'Mengungkap Manfaat Pupuk Cair Organik ATR: Sebuah Tinjauan Komprehensif'
 date: '2024-02-06T12:00:00.004+07:00'
 author: Yudi Anto
+image: media/pupuk_2.jpeg
 tags:
 - pertanian dan perkebunan
 modified_time: '2024-02-06T12:37:10.947+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiuQFH9_EbvCTe-Wb9M4TBxOcj4LZJf_An96irTs0WMHabi-jVxuS2FL-PuvuJKi415dz27ab0g4O8Xh2qtYFQ0uYvQXNU5HkJl-_eXPFbhRlK_rzp3G_FWv03FGqllWi5r6fKzKHPJ6rqhI5SjcNfc7wdL5ZG6w6CGrx5NGrI_-6EZpFIjCb2jjp80KEf/s72-w640-c-h444/pupuk.jpeg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3748389673210741279
 blogger_orig_url: https://www.budidayatani.com/2024/02/mengungkap-manfaat-pupuk-cair-organik.html
 ---
 

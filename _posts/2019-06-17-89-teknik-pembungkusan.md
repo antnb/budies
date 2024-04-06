@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/89-teknik-pembungkusan
 layout: post
 title: Teknik Pembungkusan Buah Untuk Menghindari Ulat Buah Dan Hama Penggangu
 date: '2019-06-17T17:27:00.000+07:00'
@@ -10,7 +11,6 @@ tags:
 - Pertanian
 - buah
 modified_time: '2022-12-14T12:29:49.902+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7131631382623193643
 blogger_orig_url: https://www.budidayatani.com/2019/06/teknik-pembungkusan-buah-untuk.html
 ---
 

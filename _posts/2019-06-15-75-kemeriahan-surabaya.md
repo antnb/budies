@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/75-kemeriahan-surabaya
 layout: post
 title: Kemeriahan Surabaya Animal Expo
 date: '2019-06-15T20:35:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Berita
 modified_time: '2022-12-14T12:29:40.699+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4251105683434222656
 blogger_orig_url: https://www.budidayatani.com/2019/06/kemeriahan-surabaya-animal-expo.html
 ---
 

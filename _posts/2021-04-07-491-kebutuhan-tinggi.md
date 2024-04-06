@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/491-kebutuhan-tinggi
 layout: post
 title: 'Budidaya Rotan: Membangun Potensi Rotan sebagai Komoditas Bernilai Ekonomis
   Tinggi'
@@ -8,7 +9,6 @@ tags:
 - perhutanan
 - rotan
 modified_time: '2023-07-01T18:57:23.604+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6619384056464757709
 blogger_orig_url: https://www.budidayatani.com/2021/04/kebutuhan-tinggi-budidaya-rotan-layak.html
 ---
 

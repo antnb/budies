@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/628-tomat-greenhouse
 layout: post
 title: 'Budidaya Tomat di Greenhouse: Strategi Meningkatkan Produktivitas dan Mengurangi
   Biaya Produksi'
@@ -8,7 +9,6 @@ tags:
 - tomat
 - pertanian dan perkebunan
 modified_time: '2023-06-29T17:46:33.141+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2743618775504145238
 blogger_orig_url: https://www.budidayatani.com/2021/10/tomat-greenhouse-vs-non-greenhouse.html
 ---
 

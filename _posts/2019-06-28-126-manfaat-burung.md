@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/126-manfaat-burung
 layout: post
 title: |-
   Manfaat Burung Merpati , Sebagai Alat Pembantu Manusia Dan
@@ -10,7 +11,6 @@ tags:
 - Hobi
 - Berita
 modified_time: '2022-12-14T12:30:02.231+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6258163700893945346
 blogger_orig_url: https://www.budidayatani.com/2019/06/manfaat-burung-merpati-sebagai-alat.html
 ---
 

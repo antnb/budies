@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/167-perawatan-adenium
 layout: post
 title: Perawatan Adenium Agar Bebas Dari Serangan Hama
 date: '2019-07-13T01:30:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2022-12-14T12:30:20.845+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8961263519519596872
 blogger_orig_url: https://www.budidayatani.com/2019/07/perawatan-adenium-agar-bebas-dari.html
 ---
 

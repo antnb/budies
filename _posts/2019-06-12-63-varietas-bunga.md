@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/63-varietas-bunga
 layout: post
 title: Varietas Bunga Anggrek Sepatu Yang Paling Digemari Pehobiis
 date: '2019-06-12T05:16:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:29:46.274+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1015038698616262849
 blogger_orig_url: https://www.budidayatani.com/2019/06/varietas-bunga-anggrek-sepatu-yang.html
 ---
 

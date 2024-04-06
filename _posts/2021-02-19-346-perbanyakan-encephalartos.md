@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/346-perbanyakan-encephalartos
 layout: post
 title: 'Perbanyakan Encephalartos Melalui Anakan: Panduan Lengkap'
 date: '2021-02-19T17:15:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-07-28T09:45:21.137+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIUzN6NZPEdHNhP0XRIYPUy3CMd3b6k6txUfmfAkjmyBqtt2C93uxK93l6IUCpfuSiIwQmIXGNauHoHrP2QEzSSDND9F6EZH5YACSU45H6avanLaaL05HQj5qNhV_qudV6MYT3MqtM-XH5vPsQJ9ic10B-V0Kc55QsTfeRb8eNhhJTgzAQV33I4R90WhwE/s72-w640-c-h360/Encephalartos(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8003162683362085208
 blogger_orig_url: https://www.budidayatani.com/2021/02/perbanyakan-encephalartos-melalui-anakan.html
 ---
 

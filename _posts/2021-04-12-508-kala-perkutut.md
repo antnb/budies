@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/508-kala-perkutut
 layout: post
 title: Prabukusumo, Seorang Pecinta Perkutut yang Mendalami Hobi Burung Lomba
 date: '2021-04-12T23:44:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - perkutut
 - Hobi
 modified_time: '2023-06-27T15:12:15.009+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-102533530381409131
 blogger_orig_url: https://www.budidayatani.com/2021/04/kala-perkutut-pikat-para-bangsawan.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/464-mengawinkan-louhan
 layout: post
 title: 'Mengawinkan Louhan: Pemijahan Louhan di Rumah PVC'
 date: '2021-04-01T15:07:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - ikan louhan
 - Ikan Hias
 modified_time: '2023-07-31T11:36:05.671+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqgWUYQMmkzHziPZamPwURpTCuD-whSCoR-GJbHQuDsR5FkoS4STLO0_KfmLQOEnaqR5cFdInNGzs-_dYiZSAlwrBDNLosE-ZOuqL7YZLNi2YtOwj_HU17rPjxJmRDhI7MXWZgD4jT2WJcbLm4yBOzyM4NriH5U3YJMGiIMmQlczG3D0hJ9s48DwaY_j4/s72-w640-c-h360/louhan(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6293185509662566106
 blogger_orig_url: https://www.budidayatani.com/2021/04/mengawinkan-louhan-bersemi-kasih-di.html
 ---
 

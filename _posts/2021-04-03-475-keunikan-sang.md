@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/475-keunikan-sang
 layout: post
 title: 'Keunikan Sang Mawar Gurun: Pembawa Keberuntungan dan Khasiat Medisnya'
 date: '2021-04-03T13:55:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-06-13T21:26:49.714+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf4U6-fY3kfmQVKdwv6oKAeJ2JXOsxoy0svmPC1LkQKmD2PHVpfjb6VmtiphsuUOMNizWo1YO9CHW2vaNbPcFFYyB0PgQ2Qi4pQKwEeJFTJnAUVPacXNtq2AxAV-0bKzfeDeQL-_cHynl-j5-lLRpvwiN_PSD_d4MLf0_SDEi8qw0Jgs5UXWFc5gLlHA/s72-w640-c-h398/httpswww.budidayatani.comsearchlabelAdenium.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6017952538233711369
 blogger_orig_url: https://www.budidayatani.com/2021/04/keunikan-sang-mawar-gurun-pembawa.html
 ---
 

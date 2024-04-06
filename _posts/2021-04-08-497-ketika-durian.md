@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/497-ketika-durian
 layout: post
 title: 'Berkebun Durian: Lebih dari Sekadar Hobi, Sebuah Gaya Hidup'
 date: '2021-04-08T20:51:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-08-15T14:09:05.947+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrTsDJGlaIOeotpenAYKlR-TtsGgWBTmlZPkhZJ6EAtJMxxy5k3myekIEiFLVxJaUjeosMmTeFBM74g1JXgjKni1enc7USvBoPzigW9y4vZOksJCe_trLtD7518zbCEy5AtPxnu340d1P4tFp0UQhyGoRwR7kwQ7-hYELAeKN9KacKwTgDT8woO26yjMPn/s72-w640-c-h360/kebun(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5661414115909788607
 blogger_orig_url: https://www.budidayatani.com/2021/04/ketika-durian-jadi-gaya-hidup.html
 ---
 

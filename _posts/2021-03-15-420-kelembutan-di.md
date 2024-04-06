@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/420-kelembutan-di
 layout: post
 title: Kelembutan di Balik Citra Keras Pohon Jati
 date: '2021-03-15T17:21:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Berita
 modified_time: '2023-05-25T17:22:09.319+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-571352580665319776
 blogger_orig_url: https://www.budidayatani.com/2021/03/kelembutan-di-balik-citra-keras-pohon.html
 ---
 

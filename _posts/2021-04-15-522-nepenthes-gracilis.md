@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/522-nepenthes-gracilis
 layout: post
 title: 'Nepenthes Gracilis Kantong Hitam: Keindahan dan Keunikan yang Menawan'
 date: '2021-04-15T18:22:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Nepenthes
 modified_time: '2023-07-09T11:08:03.173+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1794508942432978656
 blogger_orig_url: https://www.budidayatani.com/2021/04/nepenthes-gracilis-kantong-hitam-si.html
 ---
 

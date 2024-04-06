@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/511-sangkar-burung
 layout: post
 title: Sangkar Burung Puluhan Juta Rupiah
 date: '2021-04-12T16:17:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - sangkar burung
 - Hobi
 modified_time: '2022-12-14T12:32:17.028+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7268415814874794178
 blogger_orig_url: https://www.budidayatani.com/2021/04/sangkar-burung-puluhan-juta-rupiah.html
 ---
 

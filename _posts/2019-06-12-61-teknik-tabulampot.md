@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/61-teknik-tabulampot
 layout: post
 title: Teknik Tabulampot Buah Tumbuh di Batang Dan Ranting
 date: '2019-06-12T19:21:00.000+07:00'
@@ -14,7 +15,6 @@ tags:
 - tabulampot buah
 - tabulampot
 modified_time: '2022-12-14T12:29:45.358+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1521434132056876629
 blogger_orig_url: https://www.budidayatani.com/2019/06/teknik-tabulampot-buah-tumbuh-di-batang.html
 ---
 

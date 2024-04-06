@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/209-pertanian-aeroponik
 layout: post
 title: Pertanian Aeroponik Dengan Greenhouse
 date: '2019-07-29T16:33:00.000+07:00'
@@ -9,8 +10,6 @@ tags:
 - Pertanian
 - Berita
 modified_time: '2022-12-14T12:30:31.882+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNwq5a6j80mQCkSlaDLqagGW187Fp9WnPZa5cf7dFq1nQAOROnAd0qRvGwTovGBCqz9A_w78y5ATErRLYF3a9Ox6RDHU5gJNGxOmKEvcdYpT3kTV3W7ukoxbyKQgvd_XFiIf3su9cjJ2l8/s72-c/greenhouse_800x534-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7355697791019610474
 blogger_orig_url: https://www.budidayatani.com/2019/07/pertanian-aeroponik-dengan-greenhouse.html
 ---
 

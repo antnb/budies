@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/432-hidroponik-portable
 layout: post
 title: 'Hemat Biaya dan Mudah Dirawat: Keajaiban Hidroponik Portable untuk Ruang Tamu
   Anda!'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - hidroponik
 modified_time: '2023-06-09T17:15:51.450+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHhbcEETekykreqXxQirmac3x_SJiD-OX70XORd56obNv4a4fhYzrSvBuy7ov0qkDwZqNsZu1optg3-Q1s023sLtVqP7lf3S2MlYTMakUSu-WK7_vkSuFOXCimJcu1AkbwnYyUMlPdpy6EP9IU1Iky0KBIsQCBnfKN-sk4OXfYXiBs9KB_ESVOMxmmQ/s72-w640-c-h360/Styrofoam2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1091047909948637609
 blogger_orig_url: https://www.budidayatani.com/2021/03/hidroponik-portable-penghias-ruang-tamu.html
 ---
 

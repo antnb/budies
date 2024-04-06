@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/645-teknik-perbanyakan
 layout: post
 title: 'Teknik Perbanyakan Keiki Phalaenopsis dengan Aplikasi Hormon: Cara Mudah dan
   Efektif'
@@ -10,8 +11,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2023-07-31T10:28:02.138+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ9EuHyifZeZpLGQ0uGop51fe3IxSOxGfMXkJgwTJbQMTgAjTwZghJzyX6S0cns64OtzSiVvY84A2Cir_ARGlE9d8Z-I4Ab-e--3CanSKft0zzb76NoheB21ipFkqsILszdaDbdHRc-lfE3dXq3hTp27F2ZIk_uHejIl-eW8szRn4-WROPG9CEaJLsbtU6/s72-w640-c-h360/keiki%20Phalaenopsis.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7142390309748358903
 blogger_orig_url: https://www.budidayatani.com/2021/11/teknik-perbanyakan-keiki-phalaenopsis.html
 ---
 

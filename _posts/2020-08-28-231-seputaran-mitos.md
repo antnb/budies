@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/231-seputaran-mitos
 layout: post
 title: Seputaran Mitos Dibalik Jidat Lou Han
 date: '2020-08-28T21:51:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - ikan louhan
 - Hobi
 modified_time: '2022-12-14T12:30:36.786+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQIhFF1rvoLs5khRJituYvaetVH31dlMwENuvrcvlOPuc1bFcOO971t3xpq_DOAg4-aauRjVuOCVUYNxfOCoQH5hdiXMBnbpOjQDDmQ-bFg4EUSDh82e-du-X5odXKwpuzyH9n99oKgju/s72-c/Gambar_jenong-louhan_1280x800-768x480.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5156786647058654593
 blogger_orig_url: https://www.budidayatani.com/2020/08/seputaran-mitos-dibalik-jidat-lou-han.html
 ---
 

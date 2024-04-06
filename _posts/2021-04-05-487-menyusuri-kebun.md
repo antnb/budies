@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/487-menyusuri-kebun
 layout: post
 title: 'Siem Pontianak: Membangkitkan Kejayaan Melalui Kebun Jeruk Berkelanjutan'
 date: '2021-04-05T16:47:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pertanian dan perkebunan
 - jeruk
 modified_time: '2023-06-25T06:17:13.143+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8116070660997952854
 blogger_orig_url: https://www.budidayatani.com/2021/04/menyusuri-kebun-siem-500-hektar.html
 ---
 

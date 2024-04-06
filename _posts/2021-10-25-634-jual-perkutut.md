@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/634-jual-perkutut
 layout: post
 title: 'Peternakan Perkutut Murah: Membangun Usaha Peternakan dan Mengeksplorasi Pasar
   Burung yang Menjanjikan'
@@ -8,7 +9,6 @@ tags:
 - perkutut
 - burung kicauan
 modified_time: '2023-07-09T09:48:51.269+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1419655048273665893
 blogger_orig_url: https://www.budidayatani.com/2021/10/jual-perkutut-murah-lebih-gampang.html
 ---
 

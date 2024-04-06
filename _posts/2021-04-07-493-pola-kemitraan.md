@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/493-pola-kemitraan
 layout: post
 title: 'Pola Kemitraan Antara Perusahaan dan Petani: Menjamin Kontinuitas Pasokan
   dan Kualitas Bahan Baku'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-07-29T20:00:23.816+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2XWbWB8kns9PZMftTawjsEZfChwg1-CN4wvi637IKYTlwQLrkA63mXTgD0o6HG2eWWRC40VhvKGXgX35euW1XCi40uGw7LRAX9inE4riL61aArhVkxBx9WzUBi7FStbzXPxosLoY4oAEaPN6j4WFgcIRNHnfhL_02WGM3Oeg1mnvoUd_9132aBVADKd_/s72-w640-c-h398/petani.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-643810747782883255
 blogger_orig_url: https://www.budidayatani.com/2021/04/pola-kemitraan-pekebun-tanam-perusahaan.html
 ---
 

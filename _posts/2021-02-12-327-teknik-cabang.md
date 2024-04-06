@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/327-teknik-cabang
 layout: post
 title: 'Budidaya Jambu Getas: Teknik Pembuahan dan Perawatan Pohon Jambu'
 date: '2021-02-12T14:36:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jambu
 - pertanian dan perkebunan
 modified_time: '2023-07-11T11:37:38.866+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUTmWkhjgr_uP2-lGElIiPD6cBWiy2EaQXpYa9UeHAGlQScQ6xdgqbKOooSeXIMIaWXkvVcr9rG3iHwJJy0fwmYl0xJTu6xhHcXCDhxzJMHvvi43TqVsHRPJ0E9tSQUDndvE7DqGE49hV1COOYZfuuRlBuCSaiyennFEJfB8t2mwiNvK4IHM_641cRnzHV/s72-w640-c-h360/Jambu%20getas.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1977240022253404269
 blogger_orig_url: https://www.budidayatani.com/2021/02/teknik-cabang-dan-pemangkasan-pucuk.html
 ---
 

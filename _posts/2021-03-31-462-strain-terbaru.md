@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/462-strain-terbaru
 layout: post
 title: 'Keunikan di Dunia Akuarium: Inilah 6 Strain Maskoki Baru yang Menakjubkan!'
 date: '2021-03-31T15:25:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - ikan koi
 modified_time: '2023-05-20T08:09:17.608+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKJeY7I7UEVW-LzrL7D6CwwrDDDGIdnRX9rk3zN6Q3HIrKh8hEjoxRm5kCr8I4p8HnUY3dmZn-OQeJ6j7CjmtB-5JWyAB6bkuxbcb-YtsMSpyfc6LYIH4aXRKFBgJTq9lXYrEsXybzGXs-FwHRJNZEnCtlVJsBrDoJnnfunpkiIAVIiL3PPHz_bmY77A/s72-w640-c-h360/chocolate%20oranda%20red%20pompom1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1696197554879116637
 blogger_orig_url: https://www.budidayatani.com/2021/03/strain-terbaru-dari-negri-tirai-bambu.html
 ---
 

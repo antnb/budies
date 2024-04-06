@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/409-mangga-chokanan
 layout: post
 title: 'Mangga Chokanan: Buah Eksotis yang Menjadi Primadona di Malaysia'
 date: '2021-03-09T20:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - mangga
 - pertanian dan perkebunan
 modified_time: '2023-05-23T12:46:44.022+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg5aHy0fzXFVEM2ACr6CcoW-tZ0zQDdhJIvNXVPaLeSBj9Vy5znG5Xp6zWC0aYggxnt5GX74BznnrWGDhb5iU3mIdIETT3ri2chZq09TIsLLfJjwZ_9S90eftOqR4E2XlcMM2AbUZkfsBfKaaAD3u7RT1cANNUsxa0YMpcbtkCGB0FHyLiO3AWq-UmwA/s72-w640-c-h360/Chokanan.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-593687813352889242
 blogger_orig_url: https://www.budidayatani.com/2021/03/mangga-chokanan-lahir-di-thailand-besar.html
 ---
 

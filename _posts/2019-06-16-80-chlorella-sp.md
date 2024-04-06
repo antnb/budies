@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/80-chlorella-sp
 layout: post
 title: 'Chlorella sp: Membuka Potensi Bioetanol Berkelanjutan dari Alga Mikro'
 date: '2019-06-16T17:40:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-08T15:33:52.654+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMTFsuNWP_7-SWLNEvXjKsMB06aWVaePu9DPxUc4AR5Z6MeMUepv5AbxsVHK5ziLGM5HJyNVXSDMoOgNYSQZwZsudmR3kiQgXT9OpWaojGNlIxn5C3RMAToGUXwWjjfSqOCBxfRRoNdOOSOwe-klVnDwRC31GnquP-lNRMwGw8xBceTm-zZJwHs47UA/s72-w640-c-h360/Chlorella%20sp.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1595960017359720976
 blogger_orig_url: https://www.budidayatani.com/2019/06/chlorella-sp-sebagai-alternatif-bahan.html
 ---
 

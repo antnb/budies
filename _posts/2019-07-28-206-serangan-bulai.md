@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/206-serangan-bulai
 layout: post
 title: 'Serangan Bulai pada Tanaman Cabai: Ancaman dan Solusinya'
 date: '2019-07-28T13:01:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - cabai
 - pertanian dan perkebunan
 modified_time: '2023-05-18T12:59:08.495+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg92pADXAqbKbPSmDtxUxQ6WHwzkrRQEdGZ8AEAQ8uWOi73GliDE2msj9JcDsOoA1ICGFqOzjn96XAX-wwBq35jRm0-ORRskzKOi_pKBfxlpAzv2jb40EOaxHkFcrW5E_XVK4d-ltBGbUaRKa0ro745HXOF0inkf1MaieBoCAPq5ZhB1qol4eol2q2bkQ/s72-w640-c-h476/bulai%20cabai_800x594.JPG
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3124352073563302057
 blogger_orig_url: https://www.budidayatani.com/2019/07/serangan-bulai-pada-tanaman-cabai.html
 ---
 

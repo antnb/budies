@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/623-sawo-sumedang
 layout: post
 title: 'Sawo Apel Kapas: Buah Unggulan Khas Sumedang yang Langka tapi Bernutrisi Tinggi'
 date: '2021-10-21T02:43:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Sawo
 - pertanian dan perkebunan
 modified_time: '2023-06-18T10:37:30.584+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLpFD72rjLsjBof78Y5uvn0Aaumh62NkRHRoj5YdssQ_Gu3wyy8fHm3REPZhu43ALlq-eLoiKFcJGzwUihJmAC4_xVJMvKGuq1AXLYS5sYnokaWYVxdnak6-0AVd0OVI96v32SsO_EJKai92JHJLIzgs7dEtZM2dorhdQjnOy_eKhLoKi7k2iqqm42A/s72-w640-c-h336/sawo(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6145339860825938334
 blogger_orig_url: https://www.budidayatani.com/2021/10/sawo-sumedang-tahan-seminggu.html
 ---
 

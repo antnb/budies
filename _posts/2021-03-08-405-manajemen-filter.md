@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/405-manajemen-filter
 layout: post
 title: 'Manajemen Filter: Tetap Prima dari Laut hingga Akuarium'
 date: '2021-03-08T12:46:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - aquarium
 modified_time: '2023-06-29T17:34:44.171+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2119724659876478898
 blogger_orig_url: https://www.budidayatani.com/2021/03/manajemen-filter-tetap-prima-dari-laut.html
 ---
 

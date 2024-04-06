@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/614-para-underdog
 layout: post
 title: Para Underdog Menjadi Juara Tertinggi dalam Kontes Cupang Hias
 date: '2021-10-19T18:56:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - cupang
 - Ikan Hias
 modified_time: '2023-05-30T11:42:23.303+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8QiK9j4JhmuC6S536e8D8MngaM_kUi2NWKb6Nu0YO_d5Y0tIerfe4CsfTIF5jqHlKJutqdwdoJNwIHc3gDkOZeI1998MEkd3suEPBqeThtqulVziYB5ygX5xRmPyl3mg2NFteleDwUEwUeUk7pSiEp6HA7E_EOme2j2g9AZlIWo2f79gtVzMDft5NVw/s72-w640-c-h360/Betta%20Favorite%20Collection.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3584824232349882624
 blogger_orig_url: https://www.budidayatani.com/2021/10/para-underdog-peraih-grand-champion.html
 ---
 

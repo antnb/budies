@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/584-durian-brongkol
 layout: post
 title: 'Brongkol Durian: Menemukan Surga Tersembunyi bagi Pecinta Durian'
 date: '2021-10-09T19:28:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-06-26T08:08:25.295+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-837588409619221358
 blogger_orig_url: https://www.budidayatani.com/2021/10/durian-brongkol-buah-surga-yang.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/365-philodendron-yang
 layout: post
 title: Keunikan Philodendron Anyar dan Memilih Jenis yang Tepat untuk Koleksi Tanaman
   Anda
@@ -8,7 +9,6 @@ tags:
 - philodendron
 - Tanaman Hias
 modified_time: '2023-07-02T10:44:51.752+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-679994411389208589
 blogger_orig_url: https://www.budidayatani.com/2021/02/philodendron-yang-dicari-tak-hanya-hijau.html
 ---
 

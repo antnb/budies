@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/261-anggrek-eksklusif
 layout: post
 title: Anggrek Eksklusif Kian Diburu
 date: '2020-10-21T15:58:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Berita
 - Anggrek
 modified_time: '2022-12-14T12:30:52.073+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhunJJnjzecKzb5jMwSQ5GSk0lQ_UJTBuMUUKyEaCFEVMXECxwoElEFiIfTk-F1p4lqeSEtpJ2MlxK4uEjvbfaOi19f0df4K2DnBWu7eGaFhssIuVIUlLpOMmse7Xb3Fj_uYxYqlNmNQbdU/s72-c/anggrek1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5773996306831413840
 blogger_orig_url: https://www.budidayatani.com/2020/10/anggrek-eksklusif-kian-diburu.html
 ---
 

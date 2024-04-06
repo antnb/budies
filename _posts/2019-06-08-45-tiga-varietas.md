@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/45-tiga-varietas
 layout: post
 title: Tiga Varietas Jeruk Unggulan Nasional Hickson,Soe Dan Siem
 date: '2019-06-08T15:43:00.000+07:00'
@@ -12,7 +13,6 @@ tags:
 - jeruk unggulan
 - jeruk
 modified_time: '2022-12-14T12:29:39.178+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5720843817988752091
 blogger_orig_url: https://www.budidayatani.com/2019/06/tiga-varietas-jeruk-unggulan-nasional.html
 ---
 

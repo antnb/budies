@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/222-halfmoon-unggulan
 layout: post
 title: Halfmoon Unggulan Dari Amerika
 date: '2020-07-10T19:11:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Hobi
 - guppy
 modified_time: '2022-12-14T12:30:38.628+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxvKeAPWb9Y0YZ4D4FLYj9HbdT_g9pPco1ocY2eBP3VA0xkrqNLNdCqr057Yfj7t6pbZslEjKEUIGaCfEEmbbHc_d0zI8j00KI8roJ8pErUw4KqT5waGEc9lkPI5vv8CaJViocUmHllVb/s72-c/ikan_893x800.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2229347230944712977
 blogger_orig_url: https://www.budidayatani.com/2020/07/halfmoon-unggulan-dari-amerika.html
 ---
 

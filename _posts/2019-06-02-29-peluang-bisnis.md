@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/29-peluang-bisnis
 layout: post
 title: 'Rahasia Sukses Agrowisata: Pelajari Cara Menghasilkan Keuntungan dari Wisata
   Pertanian'
@@ -8,8 +9,6 @@ tags:
 - agrowisata
 - pertanian dan perkebunan
 modified_time: '2023-05-21T07:56:22.100+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRo_tTcnvVVAmFgB_oCLhYtUtHZVhyC3YHkZ54gnmlnPSyxaJya4e86TO6xXXTR0FcAtIDCA7mKFSBvw-9--ADFFqzSeMU72_Jofat7IW1rYWQSABZZvVUzC-Ih-uh1-aX7QlCb-XEbQQm0XvMNdWrvq1fKT81Fv5FGdvQvmTLtUDiFo4RrQ3gnKxn7A/s72-w640-c-h410/sayuran_800x513.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7484516107129817324
 blogger_orig_url: https://www.budidayatani.com/2019/06/peluang-bisnis-pertanian-agrowisata.html
 ---
 

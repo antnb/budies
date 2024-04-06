@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/96-kalkulasi-budidaya
 layout: post
 title: Kalkulasi Budidaya Pepaya Sebagai Pekerjaan Sampingan
 date: '2019-06-19T20:19:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Perkebunan
 - buah
 modified_time: '2022-12-14T12:29:58.456+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3916733924668011709
 blogger_orig_url: https://www.budidayatani.com/2019/06/kalkulasi-budidaya-pepaya-sebagai.html
 ---
 

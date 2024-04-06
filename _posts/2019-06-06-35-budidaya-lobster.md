@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/35-budidaya-lobster
 layout: post
 title: Budidaya Lobster di Lahan Sempit Menggunakan Botol Air Mineral Bekas
 date: '2019-06-06T06:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - lobster
 - Perikanan
 modified_time: '2023-08-13T10:45:07.478+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheUThVpLM8aN44OZjM-FlX08De-O6GhE39qR0ejEc_951cF6jdMOuxzF5TOK5iZPaeuFKIWae8f-55QsX5OaVAyvxlDJSL_JYyH0TYbiGif9mB6IlmxPRGOgGV_O-XkIyJ9RIxgcsvvkN6Ne2A3xkgtqx5GBHNZnuGioB0ZYsA2mXAM7qWIVL9LXLxooAQ/s72-w640-c-h528/lobster.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3184083146666328902
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-lobster-di-lahan-sempit-dengan.html
 ---
 

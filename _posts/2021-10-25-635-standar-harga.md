@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/635-standar-harga
 layout: post
 title: 'Harga Rumah Walet: Menentukan Nilai Properti yang Produktif'
 date: '2021-10-25T18:13:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-27T20:14:15.300+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtp0whE_524lZTkxSC6Ng5V3mtIZ-6lD6eXCCtTTV0cJaaVr6J43fiTBrFiedjgK50Z9YIw8BQ8W6EWG2kBl-4BleUm0GLHtxBGDNFREk9L9uDbqiTHjZinrCSD2QaqarXp4aZ9aO1dd0zfVkZUtf8BxX6N_xuAOOaMTDWSumU6UV8wepNJhVZFTS1A/s72-w640-c-h380/rumah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4685895079738947261
 blogger_orig_url: https://www.budidayatani.com/2021/10/standar-harga-rumah-walet.html
 ---
 

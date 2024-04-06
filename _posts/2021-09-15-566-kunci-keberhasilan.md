@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/566-kunci-keberhasilan
 layout: post
 title: Kunci Keberhasilan Penangkaran dan Popularitas Neocaridina dalam Aquascaping
 date: '2021-09-15T13:30:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Hobi
 - udang hias
 modified_time: '2023-06-15T13:25:01.570+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCd6UWXeJ6vlU-FWSXcXwYyuM9vE0zbsob3hpBXciEDk0EZuc-YWBuIomh4vL-O9BX-WAHzol7IP2W624J8CJJn2X9c0wvVd_ZiHHkyoe6H_gso4Dhm23IzsYsCtsXUa3NWN_wjB9YKbSnCjjksZ8abuvaqd-pKOJITit94cvNONsLYWaajeLlVd7RCw/s72-w640-c-h360/Neocaridina.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5268132270594485292
 blogger_orig_url: https://www.budidayatani.com/2021/09/kunci-keberhasilan-tangkarkan.html
 ---
 

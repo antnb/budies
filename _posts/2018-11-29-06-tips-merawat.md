@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/06-tips-merawat
 layout: post
 title: Panduan Merawat Sansevieria Caulescens Variegata Agar Tetap Prima
 date: '2018-11-29T19:37:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Sansevieria caulescens
 - Tanaman Hias
 modified_time: '2022-12-24T13:24:38.259+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNc1YFIwpOXIiyhUV7PUrHKLQoNVt5RsJIz1YNqGwEYscntlmUKWlMpYGNTQ7N26evHkLEORdNMis_BwwQkjzdxnAdrwTOhXAMDAXH1AG8NMcW9wAMGo_LEaKUiruR6HOVjQmmXJyGUbDSqR59ONBn93A9GrLSdW_csnm1PRhrnxEpktacxjO1abGAQ/s72-c/tanaman%20hias.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1331127807019139460
 blogger_orig_url: https://www.budidayatani.com/2018/11/tips-merawat-sansevieria-caulescens.html
 ---
 

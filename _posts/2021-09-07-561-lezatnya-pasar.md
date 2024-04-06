@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/561-lezatnya-pasar
 layout: post
 title: 'Tomat Momotaro: Fenomena Meningkatnya Permintaan dan Peluang Bisnis yang Prospektif'
 date: '2021-09-07T17:54:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - tomat
 - pertanian dan perkebunan
 modified_time: '2023-05-24T13:04:07.963+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4976795436909168538
 blogger_orig_url: https://www.budidayatani.com/2021/09/lezatnya-pasar-tomat-ekslusif-momotaro.html
 ---
 

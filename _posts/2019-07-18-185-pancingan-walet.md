@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/185-pancingan-walet
 layout: post
 title: 'Mengoptimalkan Pancingan Walet dengan Lampu 5 Watt: Meningkatkan Populasi
   dan Mengusir Tikus di Rumah Walet'
@@ -8,8 +9,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-24T21:47:12.339+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mvC1vrWZdDS9iGV0FBPQ7f3V2CaM_JT8UCSMTQmLZtzSXugfq1hDWndRs7ci5Bfi4WDcBzVsn6m-M-pUVGphytdleHrRv6qlHbUsIHnl6xbVOqFsJfMXvBLMdWaZNVzQL07QjtoyEGF0igsRi3r0VVlOyozR5chxJJ0jTvx4cckGma9yGkbf9VcPbg/s72-w640-c-h360/temaram.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3655659070036661337
 blogger_orig_url: https://www.budidayatani.com/2019/07/pancingan-walet-dengan-lampu-5-watt.html
 ---
 

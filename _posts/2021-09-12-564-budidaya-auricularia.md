@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/564-budidaya-auricularia
 layout: post
 title: 'Budidaya Jamur Kuping dengan Media Eceng Gondok: Solusi Inovatif dalam Pertanian
   Berkelanjutan'
@@ -8,8 +9,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-05-24T08:45:48.951+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJcxhU7JRbO2Pi_CMZ8crnFG97HwRzZcuXT0fND3GnW523t0BuExatODBupvPnEic4JOFWtN6I7NBNrVnEIGd-YjqVnxsJS87Kt3Mjwlt4qSJ0KlTYenVshiwC992wL_aD6V0Phc_-QMDgw53cZe8l3edUX3SdfsrBN263_V5uagylyKDX83QF5wzk5Q/s72-w640-c-h360/Auricularia%20auricula.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4618265271437641903
 blogger_orig_url: https://www.budidayatani.com/2021/09/budidaya-auricularia-auricula.html
 ---
 

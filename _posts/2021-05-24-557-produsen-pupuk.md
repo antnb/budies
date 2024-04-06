@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/557-produsen-pupuk
 layout: post
 title: Meningkatkan Taraf Hidup Petani Melalui Penerapan Pupuk NPK Pelangi
 date: '2021-05-24T17:26:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pupuk
 - Pertanian
 modified_time: '2022-12-23T16:50:06.616+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-912200599692426999
 blogger_orig_url: https://www.budidayatani.com/2021/05/produsen-pupuk-dan-peningkatan.html
 ---
 

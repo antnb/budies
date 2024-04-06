@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/60-teknik-pemupukan
 layout: post
 title: Teknik Pemupukan Untuk Memperoleh Hasil Panen Yang Maximal
 date: '2019-06-12T17:18:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:29:45.967+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7579567974626861403
 blogger_orig_url: https://www.budidayatani.com/2019/06/teknik-pemupukan-untuk-memperoleh-hasil.html
 ---
 

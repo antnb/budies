@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/17-implementasi-bioteknologi
 layout: post
 title: Implementasi Bioteknologi Untuk Tanaman hias dan pertamanan
 date: '2019-05-24T18:17:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Pertanian
 modified_time: '2022-12-17T20:08:52.852+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZahBuSH80r0c7H9XzCG046_jiThoEeAu9ffTzOI7UhhvYlL297Lw-ASuwrMN8JVAtkZEntdGJLPMUOL1uiKnGzIl6zz2DbQqn_TI6qB6FyvdOwp9GS01CCq4CE66qfQZiDGH5xXr7LE_RQ94W8YZBRsTkaOybtXoorJmux75MfjC2RZZW4F0bgAy2Uw/s72-c/teknokultur-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6517708998047950976
 blogger_orig_url: https://www.budidayatani.com/2019/05/implementasi-bioteknologi-untuk-tanaman.html
 ---
 

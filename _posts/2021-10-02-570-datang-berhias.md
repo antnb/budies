@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/570-datang-berhias
 layout: post
 title: 'Datang, Berhias, dan Menang: Meningkatkan Potensi Serama di Kontes'
 date: '2021-10-02T13:11:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - serama
 - Hobi
 modified_time: '2023-06-13T19:19:39.550+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8873754555374246322
 blogger_orig_url: https://www.budidayatani.com/2021/10/datang-berhias-dan-menang.html
 ---
 

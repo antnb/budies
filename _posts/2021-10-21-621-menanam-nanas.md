@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/621-menanam-nanas
 layout: post
 title: 'Menanam Nanas dalam Pot: Panduan Lengkap dari Awal Hingga Panen'
 date: '2021-10-21T18:00:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - nanas
 modified_time: '2023-08-23T22:11:09.426+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuutkHVWxs8BYcSw6MTgGmradYr5lGa9SNAHbCUDyRHRepwawYO8DWfcN5EAunOygxult0pKq3GumduOn_vl3ZpDtDKTwFcfesOliP2wkIymlKytp6irHXrCoeoW228CdmZ4iChXaLOt1dtWQmVuEf0e-owQl6ClTLxb3CAkRgP7t71Bevz_QepXsOyJBF/s72-w640-c-h360/pot.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6981760036007869779
 blogger_orig_url: https://www.budidayatani.com/2021/10/menanam-nanas-dalam-pot.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/224-panduan-praktis
 layout: post
 title: 'Serama: Budidaya, Perawatan, dan Keistimewaan Sang Ayam Liliput'
 date: '2020-08-06T16:40:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - serama
 - Hobi
 modified_time: '2023-07-08T15:06:16.493+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkMHFcmTnxxINcqIwsS-Pi8L4RzTqB_-ZlnbVDkcC_tn3xN7Nz9GaTfhfwFecDK6Maoqjo5BNrS7VYvtzz-EwISsfsZ-n7xssJM74892GDioozuCGV8wpJMgXXol8LRAYmMuQ6JqqusdXBZ_vxWpYJERohv2SJ1YnYkQeRTgm382SSkulhwXcwT69yr04t/s72-w640-c-h380/serama_1280x756-768x454.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3244185230971993927
 blogger_orig_url: https://www.budidayatani.com/2020/08/panduan-praktis-perawatan-ayam-serama.html
 ---
 

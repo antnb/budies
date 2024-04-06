@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/52-thailand-menjadi
 layout: post
 title: Thailand Menjadi Pilihan Para Pemburu Anthurium Tanah Air
 date: '2019-06-10T16:09:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - anthurium
 - Berita
 modified_time: '2022-12-14T12:29:36.140+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8686659223097836507
 blogger_orig_url: https://www.budidayatani.com/2019/06/thailand-menjadi-pilihan-para-pemburu.html
 ---
 

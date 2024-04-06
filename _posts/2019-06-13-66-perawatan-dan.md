@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/66-perawatan-dan
 layout: post
 title: Perawatan Dan Teknik Tabulampot Secara Optimal
 date: '2019-06-13T06:03:00.000+07:00'
@@ -12,7 +13,6 @@ tags:
 - Pertanian
 - buah
 modified_time: '2022-12-14T12:29:45.054+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7893981778432512103
 blogger_orig_url: https://www.budidayatani.com/2019/06/perawatan-dan-teknik-tabulampot-secara.html
 ---
 

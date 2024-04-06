@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/421-filosofi-dalam
 layout: post
 title: 'Kopi Jawa: Filosofi, Sejarah, dan Manfaatnya'
 date: '2021-03-16T13:34:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kopi
 - pertanian dan perkebunan
 modified_time: '2023-08-06T11:06:00.645+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDY-v333tPmgZarwJubj-IOqu8zgZ3xF_J0u9rAUm87neWszgpd5PxUS5bFtYG2dgGLkpflaAoRaolKa6lJy54wts4ZywnQKWEK80mxZs5aDEBpDKf8d4KxayhE-kuID5d7OTbt7GugRJtuXV8mpg8MjMkSdMrIvGFaPHHXcP1VpmROBaEspG5HlPIt25/s72-w640-c-h360/kopi(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1137235361019680051
 blogger_orig_url: https://www.budidayatani.com/2021/03/filosofi-dalam-secangkir-kopi-jawa.html
 ---
 

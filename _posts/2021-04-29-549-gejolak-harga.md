@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/549-gejolak-harga
 layout: post
 title: Mengatasi Gejolak Harga Pasar Paprika dan Meningkatkan Keuntungan dalam Berkebun
 date: '2021-04-29T18:43:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - paprika
 - pertanian dan perkebunan
 modified_time: '2023-07-25T07:56:40.920+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3176765775309305597
 blogger_orig_url: https://www.budidayatani.com/2021/04/gejolak-harga-pasar-si-buah-lonceng.html
 ---
 

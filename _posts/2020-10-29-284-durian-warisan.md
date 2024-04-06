@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/284-durian-warisan
 layout: post
 title: Durian Warisan Dari Lombok
 date: '2020-10-29T12:37:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perkebunan
 - Durio zibethinus
 modified_time: '2022-12-14T12:30:58.952+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamX3ZN3KvqlSN6gsNRRi48ox2YdyXX4A0rCbvhFRWgJyWks5rqJuJtjYcvuoLx81RUFCcwxA1XEius_mX0sgM2qNj-dpre4mOq_awF06V6EsryRRy5B-C2ciBzLfCvUg1QTmFLg0pRuzT/s72-c/Gambar_Tong_medaye+%25282%2529_1280x720.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8171347160304258987
 blogger_orig_url: https://www.budidayatani.com/2020/10/durian-warisan-dari-lombok.html
 ---
 

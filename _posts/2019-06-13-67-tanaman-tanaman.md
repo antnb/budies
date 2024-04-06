@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/67-tanaman-tanaman
 layout: post
 title: 'Imunomodulator Alami: Meningkatkan Kekebalan Tubuh dan Melindungi dari Virus
   dan Bakteri'
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - tanaman herbal
 modified_time: '2023-07-15T10:25:19.395+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-875228300460623001
 blogger_orig_url: https://www.budidayatani.com/2019/06/tanaman-tanaman-herbal-alami-untuk.html
 ---
 

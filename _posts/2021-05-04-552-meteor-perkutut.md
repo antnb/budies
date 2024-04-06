@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/552-meteor-perkutut
 layout: post
 title: 'Meteor: Kehebatan dan Prestasi Perkutut Jawara Baru Indonesia'
 date: '2021-05-04T15:49:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - perkutut
 - Hobi
 modified_time: '2023-05-24T16:31:26.787+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinXwZ3xZBvtO6Uk69P9NcJB5u4cq4XHuh9H1ppArfoMrW4CbxWayNIds2mSdqg2e1w-OcpCm0jkI_uMMOb_TJXfleky4re5dNdnFi813Yg41JWrwuqZA2rN_T4ht73JLL5AAeW-uxt2JsS7d03ySZIFCmiKrgLcgjVdsUEmdY2-f1rcYO8ooVEFlbVKQ/s72-w640-c-h442/kutut.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2738620644703787208
 blogger_orig_url: https://www.budidayatani.com/2021/05/meteor-perkutut-jawara-baru-indonesia.html
 ---
 

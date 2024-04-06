@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/328-budidaya-salak
 layout: post
 title: 'Salak Organik: Buah Manis dari Krakitan, Kabupaten Magelang'
 date: '2021-02-13T11:27:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Salak
 - pertanian dan perkebunan
 modified_time: '2023-07-15T10:41:35.635+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4447087769895077451
 blogger_orig_url: https://www.budidayatani.com/2021/02/budidaya-salak-secara-organik.html
 ---
 

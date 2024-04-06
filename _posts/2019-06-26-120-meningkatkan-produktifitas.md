@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/120-meningkatkan-produktifitas
 layout: post
 title: Meningkatkan Produktifitas Perkebunan Melalui Pola Tanam Rotasi
 date: '2019-06-26T05:45:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:30:04.389+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6012215407434182578
 blogger_orig_url: https://www.budidayatani.com/2019/06/meningkatkan-produktifitas-perkebunan.html
 ---
 

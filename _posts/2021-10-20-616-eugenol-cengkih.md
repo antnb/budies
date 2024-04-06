@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/616-eugenol-cengkih
 layout: post
 title: 'Teknik Aplikasi Eugenol Cengkih: Cara Tepat untuk Melindungi Tanaman dari
   Penyakit'
@@ -8,8 +9,6 @@ tags:
 - cengkeh
 - pertanian dan perkebunan
 modified_time: '2023-05-19T07:07:36.838+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrTClm7dHAvIoXrD3K9MT6WOa_WTBmbprY7tBUraXFmFPsOZdUtAqGHTSdvECczeCZX1g4jdiRoMeaWjQBLiNGtJ6tzrNiHVKcJ3461VRZePT2ImQKkj4v_680l-mYyu4BFUJYdvEubr-I9R2Rx2TOasGBn0R5QLHKhbEhhAvIHtiMKKBApAR0NEIDg/s72-w640-c-h360/cengkih1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3475417219921085045
 blogger_orig_url: https://www.budidayatani.com/2021/10/eugenol-cengkih-polisi-tanaman.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/381-kunci-keberhasilan
 layout: post
 title: Kunci Keberhasilan Mengawinkan Lobster Air Tawar
 date: '2021-03-01T20:10:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - lobster
 - Perikanan
 modified_time: '2023-07-03T15:09:30.504+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4783812000484369548
 blogger_orig_url: https://www.budidayatani.com/2021/03/kunci-keberhasilan-mengawinkan-lobster.html
 ---
 

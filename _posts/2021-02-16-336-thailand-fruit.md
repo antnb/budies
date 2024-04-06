@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/336-thailand-fruit
 layout: post
 title: 'Durian di Thailand: Kelezatan Buah Tropis dan Festival Buah yang Mengagumkan'
 date: '2021-02-16T18:07:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-05-23T14:10:57.808+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwwEAekfhfknephP3Ubl8vtfo3Fz8eikvxJcU-E3KljgpnE2kfZBrZpsxLArDekE8HYg0kMQmmIfwOIjdqPvQvMQJ4spm_H6lasEJMM7VmrwQjClUhkV5aHgy1aKftBPrbZJAuH8rYuoh0CQJuwq6ZlRBI26lgSyON2IdSg-p1ypv5TEnFN1anlt8pzg/s72-w640-c-h360/Chatuchak.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5311024089581998599
 blogger_orig_url: https://www.budidayatani.com/2021/02/thailand-fruit-fair-dan-durian.html
 ---
 

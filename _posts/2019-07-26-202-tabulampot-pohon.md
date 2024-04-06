@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/202-tabulampot-pohon
 layout: post
 title: Menanam dan Merawat Apel India (Putsa) - Panduan Lengkap
 date: '2019-07-26T17:18:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - putsa
 - pertanian dan perkebunan
 modified_time: '2023-08-30T13:43:48.607+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxVahkKK79vrwpK6vEi3acAXhkC2P85Kvn-6Qn9on58eMtgmw8g-njRIYovz_0opIRyY9kJ0zQ7L95ca4llKLE2WjOdctK-wJcI8r0BklH4dWe4151VQYit8Ms6Ax2QZdK1l_MsWzjHY4pvKnmnoc46OcGbutp2KP41_fSMcD4Ta6sdNfhMFcSzACAG2et/s72-w640-c-h360/putsa.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6908179879076265641
 blogger_orig_url: https://www.budidayatani.com/2019/07/tabulampot-pohon-apel-india.html
 ---
 

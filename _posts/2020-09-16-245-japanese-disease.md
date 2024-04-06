@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/245-japanese-disease
 layout: post
 title: Cara Pengobatan Ikan Koi dari Parasit Oodinium dan Japanese Disease
 date: '2020-09-16T18:23:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - Perikanan
 modified_time: '2023-08-19T12:38:04.003+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXpxa_J9pbNnvHdYh_PSbRNP4QpIUCjnO_MJU8HTclG7fItAs2eEUL7JbJHRhjn83BmQ3RY_skSwurAXQMGsQTHHOC824Gb0V0ozDZjuKXB2znATsSOFQ784k5V--BOVkSqKKfc8DxPe66-t4JjnJat-EDrrjlDqw61sngb4oOM82HKl3rw_pkcz8AXVg5/s72-w640-c-h361/Gambar_ranchu_1280x720.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-171116596857198876
 blogger_orig_url: https://www.budidayatani.com/2020/09/japanese-disease-parasit-berbahaya-yang.html
 ---
 

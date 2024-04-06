@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/84-perawatan-pohon
 layout: post
 title: Perawatan Pohon Dan Media Tanam Agar Srikaya Berbuah Lebat
 date: '2019-06-16T20:51:00.000+07:00'
@@ -9,7 +10,6 @@ tags:
 - buah
 - Berita
 modified_time: '2022-12-14T12:29:50.346+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5489374332627039692
 blogger_orig_url: https://www.budidayatani.com/2019/06/perawatan-pohon-dan-media-tanam-agar.html
 ---
 

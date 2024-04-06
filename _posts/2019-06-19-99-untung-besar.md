@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/99-untung-besar
 layout: post
 title: Untung Besar Lewat Bisnis Export Impor Namdokmai
 date: '2019-06-19T15:45:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - Mangifera indica
 modified_time: '2022-12-14T12:29:46.581+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6002724747868994289
 blogger_orig_url: https://www.budidayatani.com/2019/06/untung-besar-lewat-bisnis-export-impor.html
 ---
 

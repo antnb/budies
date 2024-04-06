@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/152-pemanfaatan-limbah
 layout: post
 title: Pemanfaatan Limbah Sabut Kelapa Secara Komersil Menjadi Cocofiber, Cocodust,
   dan Cocopeat
@@ -8,8 +9,6 @@ tags:
 - kelapa
 - pertanian dan perkebunan
 modified_time: '2023-06-12T11:25:41.265+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0JYYl8mdTxnMElkmnVuH4yBU9CTTUa0B-gXkM3o7RXbiQ3rfIJDCY49rw4KhVwpY-PEbtSVlEo9JaMKDfEjaacMQ8De_s-_cojRFkPFTBTx9gbLzAD59-2qc5XFObKiLQZu8ZUiOjeCgvWjDo1Er6t_yUzO9086TZs1GburGi_0u2he3I5WCHwZ-92Q/s72-w640-c-h480/Cocofiber-2_800x600.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5474348326968073800
 blogger_orig_url: https://www.budidayatani.com/2019/07/pemanfaatan-limbah-sabut-kelapa-secara.html
 ---
 

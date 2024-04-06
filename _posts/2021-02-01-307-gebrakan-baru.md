@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/307-gebrakan-baru
 layout: post
 title: Gebrakan Baru Anthurium jenmanii
 date: '2021-02-01T19:49:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - anthurium
 modified_time: '2023-05-23T08:46:03.512+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2644290775841728080
 blogger_orig_url: https://www.budidayatani.com/2021/02/gebrakan-baru-anthurium-jenmanii.html
 ---
 

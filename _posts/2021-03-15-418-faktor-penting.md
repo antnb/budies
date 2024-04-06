@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/418-faktor-penting
 layout: post
 title: Faktor Penting untuk Pertumbuhan Optimal Pohon Jati
 date: '2021-03-15T21:26:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Jati
 - pertanian dan perkebunan
 modified_time: '2023-06-27T19:01:55.797+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-307871798351614308
 blogger_orig_url: https://www.budidayatani.com/2021/03/faktor-penting-penentu-pohon-jati.html
 ---
 

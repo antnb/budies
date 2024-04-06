@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/649-cara-mengawinkan
 layout: post
 title: 'Mengawinkan Lobster Air Tawar: Tips dari Peternak untuk Mencetak Benih Skala
   Besar'
@@ -8,8 +9,6 @@ tags:
 - lobster
 - Perikanan
 modified_time: '2022-12-23T16:45:02.464+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9WuOZk-H_VSnC2K56vKpDCZGgrEXl4Gtw1rf47Ttti7AIYkipQ4FPqI9hKZOoeE5KbQ4HORWvae1JEITz24t9Doqb9G7tzqUyTGTY-lDZY1VK5plbyBzRQdow5TRLkWUoesflNDwAhyp-IzEFw71WMSxb3K81TCNPKT3ioV8RddsLk6UhW2QFHNS8JQ/s72-c/lobstercherax-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-255436367205258268
 blogger_orig_url: https://www.budidayatani.com/2022/12/cara-mengawinkan-lobster-air-tawar.html
 ---
 

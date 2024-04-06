@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/525-cara-perbanyakan
 layout: post
 title: 'Setek Buah Ara: Cara Praktis dan Efektif untuk Perbanyakan Tanaman'
 date: '2021-04-16T23:06:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - stek
 - pertanian dan perkebunan
 modified_time: '2023-07-08T16:02:51.408+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-9158464574012039925
 blogger_orig_url: https://www.budidayatani.com/2021/04/cara-perbanyakan-buah-ara-dengan-teknik.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/311-dicari-terung
 layout: post
 title: 'Terung Jepang: Mengungkap Keunikan dan Potensi Pasar'
 date: '2021-02-05T20:53:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - terong
 - pertanian dan perkebunan
 modified_time: '2023-05-24T12:16:53.310+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6fFzlwTpM-E05QFvY1ybUjt_9L5eI5ok_4E9deifDdo6YWyhckWSZI529A3IdM2vulq1R1YC3-Ns3yLF8OSerw6HwdOWJTbD0A0KobGbpPk7QIn9TTbofHWJ5wETjplAOm01JxTzmYV-G6NLfBQ3AZRdO3NKXaU-gSxeQ3e680QBUXJccDHDGZBJ-7w/s72-w640-c-h360/jepang.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8934521672026495244
 blogger_orig_url: https://www.budidayatani.com/2021/02/dicari-terung-jepang.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/287-menangkarkan-jalak
 layout: post
 title: 'Penangkaran Jalak Bali Secara Komersial: Pelestarian Burung Jalak Bali Leucopsar
   rothschildi'
@@ -8,7 +9,6 @@ tags:
 - burung kicauan
 - jalak
 modified_time: '2023-07-09T12:24:11.282+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4796999472763979634
 blogger_orig_url: https://www.budidayatani.com/2020/11/menangkarkan-jalak-bali-secara-komersil.html
 ---
 

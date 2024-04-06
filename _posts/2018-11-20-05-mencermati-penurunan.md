@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/05-mencermati-penurunan
 layout: post
 title: 'Faktor-Faktor yang Mempengaruhi Produksi Telur pada Ayam Petelur: Panduan
   Lengkap'
@@ -8,8 +9,6 @@ tags:
 - Ayam
 - Peternakan
 modified_time: '2023-05-22T18:13:44.397+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpHaTzvwV6suz9DNqdRCbHc2pYK85MkbfZZvBNwKhj7IvG8oq_9-cLlK9QbqF5mDDxpZyQxv5unSlirTdG7pVourZA-_Oyp-rYAK0tKT6ipugrhxuZu3JJUa_4-5UXSD0Bkmzr1R4gqh_yr3jQ8M3pZFegaf_ZkdMquWNHLKCoXLzGZgomYeQ26cr09g/s72-w640-c-h370/telur1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1471124765572166057
 blogger_orig_url: https://www.budidayatani.com/2018/11/mencermati-penurunan-produksi-ayam.html
 ---
 

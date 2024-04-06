@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/598-mengendus-keuntungan
 layout: post
 title: 'Minyak Jahe Indonesia: Inovasi Terkini dalam Penyulingan Minyak Jahe untuk
   Pasar Global'
@@ -8,8 +9,6 @@ tags:
 - jahe
 - pertanian dan perkebunan
 modified_time: '2023-05-21T16:47:16.154+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdB--koRIdsOsFVFIhq1D6lnNMglblOz-_unwV4KQhERFVXo-Sn5KKhE0S6tRIKOGbuVkP0FEi_OAcaVOm7vQ3V5k6j68W6LD7BwOAkn7st8LCJICpnQVPTumtwZMoI9yvmGLSeLGSZpjIe42Gaoc9kJzAzzxUYUJQyYfwij8udvySKDRFQJHD5sFtxQ/s72-w640-c-h360/httpswww.budidayatani.comsearchlabeljahe.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1672492015060301660
 blogger_orig_url: https://www.budidayatani.com/2021/10/mengendus-keuntungan-minyak-jahe.html
 ---
 

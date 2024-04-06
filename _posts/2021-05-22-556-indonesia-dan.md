@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/556-indonesia-dan
 layout: post
 title: 'Bisnis Aglaonema: Menjadi Peluang Investasi yang Menguntungkan'
 date: '2021-05-22T13:20:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-26T15:11:24.590+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6079641214416701420
 blogger_orig_url: https://www.budidayatani.com/2021/05/indonesia-dan-thailand-gapai-rezeki.html
 ---
 

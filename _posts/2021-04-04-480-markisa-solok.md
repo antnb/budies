@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/480-markisa-solok
 layout: post
 title: 'Markisa Solok: Temukan Manisnya dalam Dua Varietas Baru yang Berkualitas Super!'
 date: '2021-04-04T15:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Markisa
 - pertanian dan perkebunan
 modified_time: '2023-06-08T13:06:23.593+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF0B2ISoLDseQi2Xx4pPNOIbC1nZQ5NYnt3xeRvRnbHiKgZcjg9Wl-BLupyCcV_-KeCx2MoDdp-_42AIQmbAGdajMDJWgbRKfyfi24tpqU61PYsj9AZNQEqsxUNOQ0AXCtP4wZDWrjt1eTh0JEg1eeV9Q_EsOofSMBGGF-RG6e6HfFzJHxU5LeyiYSaw/s72-w640-c-h360/markisa.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-215033147140561336
 blogger_orig_url: https://www.budidayatani.com/2021/04/markisa-solok-dua-jelita-di-kaki-gunung.html
 ---
 

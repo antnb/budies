@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/157-insektisida-pembasmi
 layout: post
 title: Insektisida Pembasmi Dan Pengusir Lalat Buah paling ampuh
 date: '2019-07-10T18:52:00.000+07:00'
@@ -15,8 +16,6 @@ tags:
 - insektisida alami
 - pengusir lalat
 modified_time: '2023-05-31T21:36:37.493+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlVAGw4Dr_lreiBeAdlYbFs8CF9TgelpKnB2CBh6BkeVZ5UJbX5-cUj0JkIhVyl2R4aTKvWhx8jiB92w-p_Y7dF5ZBn6TttoPQ97ohb3XSbvUEIqmWajaBRj0CjnXQm8A3fad96nGIdeWa5CSy4zS4FLfwKsOCPWhEAyFbTFFuTUGkofk6lJazy5z03w/s72-w640-c-h360/lalatbuah.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4932698998494110443
 blogger_orig_url: https://www.budidayatani.com/2019/07/insektisida-pembasmi-dan-pengusir-lalat.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/501-burung-burung
 layout: post
 title: 'Burung-burung dalam Dunia Agrikultur: Pentingnya Burung dalam Pertanian Organik'
 date: '2021-04-10T15:15:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-07-29T18:55:25.281+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3322053926467470263
 blogger_orig_url: https://www.budidayatani.com/2021/04/burung-burung-dalam-dunia-agrikultur.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/77-peranan-penting
 layout: post
 title: 'Krisis Ikan dan Air di Indonesia: Mengatasi Tantangan Lingkungan dengan Upaya
   Konservasi'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - Perikanan
 modified_time: '2023-08-20T11:51:50.565+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuFMELxJAGyeiGPkgbXncWFtFTJgi9LEaDZbF8mc4G5wv0LoZLKlDNqa4MPCQp_rtPY1QuoYzfQIgcSPJ47tioVX8-ilCq1EBvoqt2FhmL906X10tKMvWAwruo355XJMdr8skW07nU_tZflZ_Y0Da12pas81fSs8hoy_Ij5_wFC7yQCrUssEesH9j6TLh/s72-w640-c-h348/ikan(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4552000218489729816
 blogger_orig_url: https://www.budidayatani.com/2019/06/peranan-penting-pasokan-air-dalam-dunia.html
 ---
 

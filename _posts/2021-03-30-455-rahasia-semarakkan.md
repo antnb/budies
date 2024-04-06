@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/455-rahasia-semarakkan
 layout: post
 title: Mengungkap Rahasia Perawatan Adenium untuk Membuat Bunga Semarak
 date: '2021-03-30T14:54:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-06-15T15:14:57.664+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-274577322768618772
 blogger_orig_url: https://www.budidayatani.com/2021/03/rahasia-semarakkan-bunga-adenium.html
 ---
 

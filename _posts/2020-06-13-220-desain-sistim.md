@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/220-desain-sistim
 layout: post
 title: 'Desain Sistem Filter Kolam Koi Minimalis: Membawa Keindahan Kolam Koi Anda
   ke Level Berikutnya'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-07-10T07:43:36.383+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj0aXWbXmB38OSCyIHq4FPY2j68El1I0-bsmhepfwxkTyorrkRWLXPDl13cPYAqWhgctzcLqK9eTnNKhR_S9SFtt3FfTgqFaELm6k7lneybO_YDMQ4RAIN7SFHNkveGhpjaYn1yanbRQyw4aNJUeWYg-5Gaoof37pRMJdEZ7J5SK2JbQdkvNJ6wXh7ezhJ/s72-w640-c-h496/koi_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4408961251246210375
 blogger_orig_url: https://www.budidayatani.com/2020/06/desain-sistim-filter-kolam-koi-minimalis.html
 ---
 

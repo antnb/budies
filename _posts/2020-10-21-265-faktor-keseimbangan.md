@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/265-faktor-keseimbangan
 layout: post
 title: 'Bisnis Jamur di Indonesia: Peluang, Tantangan, dan Keberlanjutan Pertanian'
 date: '2020-10-21T13:24:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-08-16T17:12:09.488+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYET60z6Gn1WK9xqoV-VFKkiqyIgOxNx8TVpSUcFw936sawWf-k2yZ1BJxdMLbL5LoLrsk7t9v7JQn9tdRxtSLeUC3p2aoRj32r1NWLeqrg-e-PqQVMcFoxW7SuZMEljGEoQRrPQtf-QACZT7WoRVQVgA6A6pSwBXQOm-lqV44KLWoXYtfj20kSByHeFs5/s72-w640-c-h360/jamur_2.JPG
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4705561162040180885
 blogger_orig_url: https://www.budidayatani.com/2020/10/faktor-keseimbangan-dan-bisnis-jamur.html
 ---
 

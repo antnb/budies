@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/459-pengendalian-serangan
 layout: post
 title: Tomat Liar Solusi Cepat Kendalikan Nematoda Sista Emas pada Kentang
 date: '2021-03-31T00:01:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - hama
 - pertanian dan perkebunan
 modified_time: '2023-05-21T09:46:57.372+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvEbPV-qZ7lJkP0FGB1nA97bxTGBT47mharCDJWTa6SxYw0VdTc6YU6nEW6hLUL7X93k-k1HeodKrqZL5Nx7n1pkQ8fErTg5sjW5zGvKwDT6TqEqMVUUxhSuVV2PkOCAXoXnBDs3fsNO749Xgbi6LufyS2tbZVe7SeZw0dy0E-62GCWk4DJaJV-e-raw/s72-w640-c-h360/Cacing%20Emas1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7540926651698788775
 blogger_orig_url: https://www.budidayatani.com/2021/03/pengendalian-serangan-cacing-emas.html
 ---
 

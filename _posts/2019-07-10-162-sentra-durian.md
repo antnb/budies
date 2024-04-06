@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/162-sentra-durian
 layout: post
 title: 'Kelezatan Durian Pulau Bintan: Surga Buah Ikonik di Kepulauan Riau'
 date: '2019-07-10T16:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-28T21:34:29.665+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYK4zvPiqriCWWAsdic-LxZQ11wa3BNhU1MyQzonSb3eyuTn-VogQlR3Np4WC_wVSL-TMikLuDn1Xa96lTYPyEfLhC0niENLDsEIQnWjMcPrhg9gklz5GYugRwolTMzwxMY861TXBBnaeH-ZzBHryzakfnwNO2edf7LQn-mxlwf2dwKobOMEHe-GBMoQ/s72-w640-c-h324/buah%20kadu_800x405.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5795371076422202853
 blogger_orig_url: https://www.budidayatani.com/2019/07/sentra-durian-lokal-di-pulau-bintan.html
 ---
 

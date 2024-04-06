@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/396-semangkuk-salad
 layout: post
 title: Bukan Hanya Salad Biasa, Kebun Claket Hadirkan Sensasi Baru dengan Sayuran
   Salad yang Unik dan Berkualitas Tinggi
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-06-01T18:48:59.083+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSWLlq4ceZW4mBiVYxmvfpOOPIJPg8IgtuuAPQZoIsZTjxVC_TOAJrJziR-gAwTn4gr-JZaLiPdrKXjtHzjwW9rbtTCrRUOydADgYNo25DGI-wOJy3l_rlRyykGHgIWqFbvkpJA33NnFSjfmSThvTUj9xLtkk-Yb86TdjbmiAtyhWsagkqOMmaR6T4VA/s72-w640-c-h414/Buncis%20Kuning.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5317482392880134312
 blogger_orig_url: https://www.budidayatani.com/2021/03/semangkuk-salad-di-kebun-claket.html
 ---
 

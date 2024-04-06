@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/282-panen-strawberry
 layout: post
 title: 'Budidaya Stroberi Berkualitas: Rahasia Panen Berkala di Greenhouse'
 date: '2020-10-28T19:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - strawberry
 - pertanian dan perkebunan
 modified_time: '2023-08-16T14:03:30.252+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijySO4HTJc-t40Vek3gcmzIi2BiUxtKTyxUWG5ZUz39ZAXr1eKIxp2o9LM0N_aNdlJKAU-qV8NOPdsTBImMiwvKPqe1JE4zDDsKQaKaZ_Wl4b4eUDAErPWVArC2m-b9fEb2VLUJMUyYRmKCOiHzESi9N9RdfsAFsh_9aGVH4Ixgk-a4pJIFL9V7k1XQPOP/s72-w640-c-h360/strawberry.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8529350408297387403
 blogger_orig_url: https://www.budidayatani.com/2020/10/panen-strawberry-sepanjang-waktu.html
 ---
 

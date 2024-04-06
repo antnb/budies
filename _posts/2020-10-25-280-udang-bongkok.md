@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/280-udang-bongkok
 layout: post
 title: Udang Bongkok nan Menawan dari Meksiko
 date: '2020-10-25T23:03:00.000+07:00'
@@ -10,8 +11,6 @@ tags:
 - salinitas tinggi
 - serangan bercak
 modified_time: '2022-12-14T12:31:00.535+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxN8SO-wNtEKE6lg92JkMrX4KYKCl06xU2UOcXrHEuhgzr93BwF1NPjGmYLXVK3kkPrYuqnbEpLIOMAGlEzoWTK6gtTRZQR_xQtitxOUgZnnKaLjRo0QZZS71HKsUoQUvg5nhBEih68qWM/s72-c/Litopenaeus+stylirostris.jpeg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-151372095374924328
 blogger_orig_url: https://www.budidayatani.com/2020/10/udang-bongkok-nan-menawan-dari-meksiko.html
 ---
 

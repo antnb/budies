@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/509-masihkah-bisnis
 layout: post
 title: 'Penurunan Minat Peserta Lomba Burung: Tanda-tanda Kecenderungan Sepi di Kalangan
   Kicau Mania'
@@ -8,7 +9,6 @@ tags:
 - Hobi
 - burung kicauan
 modified_time: '2023-06-21T13:46:27.683+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7211334366148765815
 blogger_orig_url: https://www.budidayatani.com/2021/04/masihkah-bisnis-burung-kicauan.html
 ---
 

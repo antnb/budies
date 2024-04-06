@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/363-malam-panjang
 layout: post
 title: Penelitian Profesor Nyoman Kabinawa Menghasilkan Jenis-Jenis Ikan Platy Black
   Tail dan Albino Platy yang Langka dan Menakjubkan
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-06-27T08:21:25.994+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4476683063221688342
 blogger_orig_url: https://www.budidayatani.com/2021/02/malam-panjang-untuk-platy-albino-black.html
 ---
 

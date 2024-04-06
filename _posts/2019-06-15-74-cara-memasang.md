@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/74-cara-memasang
 layout: post
 title: Cara Memasang Tweeter Walet dengan Optimal untuk Meningkatkan Koloni Walet
 date: '2019-06-15T17:16:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-24T13:25:04.632+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwM1VRqfxtleo_gO43p2g5TeZ1tXsz5FhNh_aiaxmLW_kk04-KdatyiEACdmc6Ostb-RQxFsvmP3hhip5cD9IdZ-w8r2x30WRimE7s7-8BxL5IGVel19axJWb9M3wT6cLjzROwGd5RP1bkPw1QLn_4vyu_YoraEuUVt7ea-5XMCBhGYZIHj_7ZYlvpaw/s72-w640-c-h440/Tweeter%20Walet.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-789635879973094801
 blogger_orig_url: https://www.budidayatani.com/2019/06/cara-memasang-tweeter-walet-secara.html
 ---
 

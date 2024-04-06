@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/68-bandung-regional
 layout: post
 title: Bandung Regional Lou han Contest
 date: '2019-06-14T18:29:00.000+07:00'
@@ -12,7 +13,6 @@ tags:
 - Berita
 - penangkaran ikan
 modified_time: '2022-12-14T12:29:42.566+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1388964816349199987
 blogger_orig_url: https://www.budidayatani.com/2019/06/bandung-regional-lou-han-contest.html
 ---
 

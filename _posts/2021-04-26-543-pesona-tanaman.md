@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/543-pesona-tanaman
 layout: post
 title: 'Pesona Tanaman Belang Dari Negeri Siam: Koleksi Langka dan Keindahan Variegata'
 date: '2021-04-26T16:43:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-08T12:01:33.609+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjweg1WYjnO_lmL7__JVkNdC5CjNV8TjsC92drv7kXd3_ZEeOsnJrIAhlE-a5QT1-SxGoJ78EqP4FFegk9RqcKNMmictxDwVtuPQkpS5fcWP18lPYwrRQCyEH4BzVxt6N-omRQIuw5H2DpRcC83pdVbO3nzUTwTmacAT1VjUOWtOFecsY7SNcOM-A92Xg/s72-w640-c-h360/Schefflera%20arboricola.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6799005590926324253
 blogger_orig_url: https://www.budidayatani.com/2021/04/pesona-tanaman-belang-dari-negeri-siam.html
 ---
 

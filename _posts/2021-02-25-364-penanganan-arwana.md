@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/364-penanganan-arwana
 layout: post
 title: Penyelamatan Ikan Arwana yang Terbalik dan Gejala Kesehatan Terkait
 date: '2021-02-25T19:52:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Ikan Hias
 - arwana
 modified_time: '2023-06-27T07:45:28.755+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3580059441003412554
 blogger_orig_url: https://www.budidayatani.com/2021/02/penanganan-arwana-yang-sekarat.html
 ---
 

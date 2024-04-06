@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/516-kamfa-bongsor
 layout: post
 title: Keunikan Ikan Lou Han Terbaru! Temukan Kamfa Lima Wama dengan Warna Tubuh yang
   Menakjubkan
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-06-01T17:54:40.796+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3247503414143956197
 blogger_orig_url: https://www.budidayatani.com/2021/04/kamfa-bongsor-kreasi-baru-dari-ipoh.html
 ---
 

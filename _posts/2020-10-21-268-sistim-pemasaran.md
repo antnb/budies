@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/268-sistim-pemasaran
 layout: post
 title: Sistem Tei Kei dan Kemitraan Produk Organik Ala Jepang
 date: '2020-10-21T12:03:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - organik
 modified_time: '2023-08-15T18:08:08.482+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWKAmcP07V_cFPYx5BAwV2_m8nVWZEyMChw7TD39mR2FokOMCuGsGkLkBa6U5EdUwSfABLM3Rzhi0PVv7z5y5zh1pOOMvJAIMmDuE7sEx-YaTshZmRpdt9vXezfE6j14lwTyf5iFQdDz7sX26jv0Kl_H43p749gG8WifwCFlzHOXr9SXHxjtWeC_GmXZj/s72-w640-c-h480/organik2_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3878351203636340109
 blogger_orig_url: https://www.budidayatani.com/2020/10/sistim-pemasaran-dan-kemitraan-produk.html
 ---
 

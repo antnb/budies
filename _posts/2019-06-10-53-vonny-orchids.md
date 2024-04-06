@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/53-vonny-orchids
 layout: post
 title: |-
   Vonny Orchids farm Raup Puluhan Juta Perbulan Hanya Dari Budidaya
@@ -9,7 +10,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:29:36.744+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-9147955688386379291
 blogger_orig_url: https://www.budidayatani.com/2019/06/vonny-orchids-farm-raup-puluhan-juta.html
 ---
 

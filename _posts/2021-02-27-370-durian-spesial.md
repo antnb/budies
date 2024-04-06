@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/370-durian-spesial
 layout: post
 title: 'Durian Tanpa Biji dan Daging Manis Legit: Si Potret, Durian Langka di Durian
   Jatohan H. Arif!'
@@ -8,8 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-06-01T13:55:35.497+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv6bOStQI5-mfU_rkOpwCNy0sdB41ZwOYwMpjAMxAVyCp-WTLpBE4EfFT6nyP7HSz2K7rwJIJOy4bjja0HyR2HFx9iuEAuz0CYs3IyHmSJubhVn_F-VzZ_Adm2co6aAa1FP0fbz8eJRMP4G_bxQQeS1ebDGQazwIpAjNZXoacFlqRqqbIkfvO4QP2PrQ/s72-w640-c-h348/durian(3).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8170008452834709120
 blogger_orig_url: https://www.budidayatani.com/2021/02/durian-spesial-penawaran-dari-h-arif.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/458-oxygenating-plants
 layout: post
 title: Oxygenating Plants Terbaik Pengganti Aerator Aquarium
 date: '2021-03-31T19:30:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - aquarium
 modified_time: '2023-05-24T11:52:54.486+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnNktu6Yug7QVfqxrW5j_QgH2rQY2NmS7u4dLf9RhHcKBTBTie2TcG0-clSxxCESmAjaakV16hEEKgbwKIS-JyLPp7rDHdFZ7wpvgJmtZUvqNxGR1zfMrZdml4Lc-SmaNStSOOJk7fqR2UWlrVUmziUjCtfqte-EBlKfcs0B3kCEZgGgiJWUZWwBdAw/s72-w640-c-h360/Oxygenating%20Plants.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3324252650632497098
 blogger_orig_url: https://www.budidayatani.com/2021/03/oxygenating-plants-terbaik-pengganti.html
 ---
 

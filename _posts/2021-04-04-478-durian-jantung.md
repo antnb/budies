@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/478-durian-jantung
 layout: post
 title: Durian Jantung Situak Yang Paling Jempolan Dari Pasaman
 date: '2021-04-04T22:37:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-05-24T12:54:03.323+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixFTWldd5HZJXiDZUwaCECX3mj9tonMdLhnJC3AhfvsRT5_YKC_auvmiSUj_p8oeKp4CqpFm4PFVFn71WQ5h61P9iXV70qhGBvJ43zIRgKHm_WmBljdfEMTablWP5-W57m2JrlcHPSZnwOL5wrd0Ir1D-Jtq0w0LEJjsxQaf0i1Mh5NoOPsBGFZ_yOBg/s72-w640-c-h478/duren(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4368037282758067186
 blogger_orig_url: https://www.budidayatani.com/2021/04/durian-jantung-situak-yang-paling.html
 ---
 

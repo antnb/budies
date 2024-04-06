@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/315-biolan-tingkatkan
 layout: post
 title: Biolan® Tingkatkan Mutu Dan Hasil Panen Hingga 20%-50%
 date: '2021-02-07T14:01:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-06-11T11:02:53.882+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5398325118298901901
 blogger_orig_url: https://www.budidayatani.com/2021/02/biolan-tingkatkan-mutu-dan-hasil-panen.html
 ---
 

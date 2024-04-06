@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/353-cara-mengawinkan
 layout: post
 title: Cara Mengawinkan Lobster Air Tawar Secara Massal
 date: '2021-02-23T23:16:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - lobster
 - Lobster Air Tawar
 modified_time: '2022-12-14T12:31:21.184+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8783737133979104204
 blogger_orig_url: https://www.budidayatani.com/2021/02/cara-mengawinkan-lobster-air-tawar.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/608-swalayan-tanaman
 layout: post
 title: 'Toko Tanaman Hias Venita Nurseri: Suasana Nyaman Berbelanja dengan Koleksi
   Tanaman Hias Berkualitas'
@@ -8,8 +9,6 @@ tags:
 - Hobi
 - Tanaman Hias
 modified_time: '2023-08-30T15:23:01.877+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEl54BOkkOwxN8a6muREHTLhyn_VIWqEURCrF8I5lbMlL59aP9nYuzws1xVwc_r7dLuRwduTzjnfbjvwM4dGRM8xxM6-k9T799A0Cm2jk8PYlgc1UR6myL4NoiCmQU8NByMuiA3YapEIJ5geVUcfl3Fwefp-H-TRi60rACKrUZ5xkNPwnJaKiNNR-sBxNd/s72-w640-c-h360/hias.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7692205413482857024
 blogger_orig_url: https://www.budidayatani.com/2021/10/swalayan-tanaman-hias-cultra-mini-di.html
 ---
 

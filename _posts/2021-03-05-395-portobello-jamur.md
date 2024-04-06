@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/395-portobello-jamur
 layout: post
 title: 'Rahasia Sukses Bisnis Jamur: Portobello, Bukan Sekadar Jamur Biasa!'
 date: '2021-03-05T18:08:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-05-20T15:50:46.674+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLZgQ5QZ9liJXfftBi9ct0nlmBtvkforNv7cFN_NgH56Y6glxcNfVVX416O6LDE6fgCtu-XEysKB5-cf9_osFfjP5rDrgaf5JE6_Bo8f3X42NtiKNBXFoB3AnXEljfKccW2JMkG1r6m-5Bo9Ui0_Bpw-jhC5b0t1wh1mgqrJhSXUBSTvBJ-4FLsTwhkQ/s72-w640-c-h372/Portobello1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7668343064427946418
 blogger_orig_url: https://www.budidayatani.com/2021/03/portobello-jamur-lezat-titisan.html
 ---
 

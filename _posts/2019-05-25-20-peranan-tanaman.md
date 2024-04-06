@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/20-peranan-tanaman
 layout: post
 title: 'Penanaman dan Pembibitan Kayu Cendana: Rahasia dan Tekniknya'
 date: '2019-05-25T22:39:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - perhutanan
 - cendana
 modified_time: '2023-07-08T15:56:56.147+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBpco9ui2YGAHATBf4Th6LAOd9jGFLrLNtkPGxc7RCDl7Qz-mpYyF_a10tsZcQUxkYFeKBIYjqozniiUQvhyJB4m6YJXVr6NM3OlD2G-SHucyAmBTVYr_YJVxaGi8g2az_xPo0vV8Xo6Tx-1lae1PtLMJJTYn-8CHllxJfCKG0uJQFXFR0URrM26I4SRg/s72-w640-c-h380/pohon-cendana-1080x640_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2137615087518283276
 blogger_orig_url: https://www.budidayatani.com/2019/05/peranan-tanaman-pendukung-agar-budidaya.html
 ---
 

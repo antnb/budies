@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/426-deteksi-virus
 layout: post
 title: 'PCR: Solusi Deteksi Virus White Spot pada Udang dalam 6 Jam'
 date: '2021-03-18T18:25:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perikanan
 - udang
 modified_time: '2023-05-25T20:25:17.881+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySCbJoYtM3Qz3AbYXeTvbdB-DDWsy6BuB67pgF2Fhv9hWLD7WFsh5yfofJUfZnET_C8OsIsyWYYedBLqXiSGNy9T3xrQ-9kfFg4lp1SF65t9WDeWD4xjzmtPlNb3BKQaaO2FGqkU37-q_wUAjCwuF3UGypfVOP3LF0RfKASqqhhc1x9i6SQAMlXhpKw/s72-w640-c-h434/udang1(3).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4908004013991784602
 blogger_orig_url: https://www.budidayatani.com/2021/03/deteksi-virus-white-spot-menggunakan.html
 ---
 

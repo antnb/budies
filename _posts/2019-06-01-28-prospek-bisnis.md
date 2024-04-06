@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/28-prospek-bisnis
 layout: post
 title: 'Bisnis Kedelai Jepang Menggeliat: Temukan Potensi Pasar Edamame Pandan yang
   Melonjak!'
@@ -8,8 +9,6 @@ tags:
 - Edamame
 - pertanian dan perkebunan
 modified_time: '2023-05-19T16:49:26.265+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-V_Rn7QVxbP8c7Py__bW72LDqwl-8UXSLjWkHh0T6NlSgvDNpoOIuS-xAipZAsxQWkYFy4uHZy9sihmQvOsTT7YBII5WfMNvXTiyFNEmevJ8V_2FxbXYu1FLeh9p4eq_bFee4e8DwO9MgoD-b0rU7KMLfd-98et8wE34dvoDQbzjiMwPwUjlpbkTziQ/s72-w640-c-h360/edamame.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7630096415592660516
 blogger_orig_url: https://www.budidayatani.com/2019/06/prospek-bisnis-kedelai-jepang-edamame.html
 ---
 

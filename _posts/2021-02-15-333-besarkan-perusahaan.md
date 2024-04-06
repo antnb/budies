@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/333-besarkan-perusahaan
 layout: post
 title: Besarkan Perusahaan Supplier Sayuran Segar Dari Lahan Pinjaman
 date: '2021-02-15T13:30:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2023-07-31T10:01:32.108+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvu1AuZeTeC03FEa_dP2kFOPfLJAh-7hxfLNHuQn7vNVc9o7AgA2LLVvfEGUoHJd9a58RzjFG2QBlj0R8yV5zXbq5_keX_e0rRJb_A54jigeePiNeKIvZDx9K4Ph6wAr7aYDmExn_sM8l0yEm01YdlgtUy_6ZXMH9NH_oY2qAa3ATSHydrNib73XKk4_s/s72-w640-c-h358/suasana%20panen.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7683428847301339243
 blogger_orig_url: https://www.budidayatani.com/2021/02/besarkan-perusahaan-supplier-sayuran.html
 ---
 

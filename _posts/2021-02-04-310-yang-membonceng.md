@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/310-yang-membonceng
 layout: post
 title: Manfaat Pupuk Organik dalam Peningkatan Produktivitas dan Efisiensi
 date: '2021-02-04T20:59:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - pupuk
 - pertanian dan perkebunan
 modified_time: '2023-05-23T09:18:27.640+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQpS8xpx9hNF8jkN0QlHr2D6xoYU2g7h2t2kPi-q3Ydx9r-PpKvAdVt7rwsJVlx5dJ_OoeisGLu3edDZvYU-wL4x4pYV0jMACHYqehtO4rnhNI8IXoqEhX2YypeVyWPnAMEvjtSKIGPKAzNjYpp8JdOwkPXY0JTpHvveqZ0qiVBQCHpm8Ls1s-BKhKw/s72-w640-c-h360/organik1(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2087880964268153617
 blogger_orig_url: https://www.budidayatani.com/2021/02/yang-membonceng-pertanian-organik.html
 ---
 

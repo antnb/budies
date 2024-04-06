@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/648-percantik-taman
 layout: post
 title: Rahasia Mempercantik Taman Minimalis dengan Tanaman Encephalartos yang Langka
 date: '2021-12-02T06:26:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - encephalartos
 - Tanaman Hias
 modified_time: '2023-05-19T20:26:17.470+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZutiAvllmtfabqXEYmmSCpt1aV7SltcfynR9gg65ipDd6wrUUQMn8jQKcKXmV3ibTQCs4_19WsijEzn9DG-5HcRhvNAbw1ZGfUDerakRF43SNepPD3pLGklmTkVQqo3RrffQkMbTeaozdbASLw126LANINya193A3-_qz1JPs057jzgRzzokhWXVJPQ/s72-w640-c-h360/Encephalartos1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3195572863117309496
 blogger_orig_url: https://www.budidayatani.com/2021/12/percantik-taman-minimalis-dengan.html
 ---
 

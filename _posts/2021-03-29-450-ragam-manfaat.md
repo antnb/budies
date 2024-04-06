@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/450-ragam-manfaat
 layout: post
 title: 'Manfaat Bambu yang Unik dan Beragam: Mengungkap Fakta, Penggunaan, dan Keistimewaannya'
 date: '2021-03-29T20:14:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - bambu
 - pertanian dan perkebunan
 modified_time: '2023-06-18T11:23:06.702+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSfHipRe4uITSZ8jiQfFqQ5qjS2S5b1Ds5wEB5Xb_ZskOT9TymrRiLerz_DFeSn9jCSumVrKi1fhpUgaFSIDGfElaZz3fa49VBzACCVhulZjOKN_6XHrYi2Uf4F7Z79Gq9JdQIpCWVmkUnyBKWpCJcf0GI6peBPDq-0TfdU-iSeykZrfwfe5vRC5QxEQ/s72-w640-c-h360/hutan(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5247607914476010033
 blogger_orig_url: https://www.budidayatani.com/2021/03/ragam-manfaat-bambu-dari-waktu-ke-waktu.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/122-budidaya-kangkung
 layout: post
 title: Budidaya Kangkung Mengggunakaan Sistem hidroponik Talang bertingkat
 date: '2019-06-27T16:16:00.000+07:00'
@@ -8,7 +9,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:30:03.154+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2615106155113633070
 blogger_orig_url: https://www.budidayatani.com/2019/06/budidaya-kangkung-mengggunakaan-sistem.html
 ---
 

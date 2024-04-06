@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/563-barbie-menari
 layout: post
 title: 'Inovasi Terbaru Hidroponik Jungkat-Jungkit: Sistem Hidroponik yang Menggembirakan'
 date: '2021-09-10T20:19:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - hidroponik
 - pertanian dan perkebunan
 modified_time: '2023-06-15T19:16:54.648+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4426447855705230338
 blogger_orig_url: https://www.budidayatani.com/2021/09/barbie-menari-di-bak-nutrisi-hidroponik.html
 ---
 

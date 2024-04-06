@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/234-nilai-ekonomis
 layout: post
 title: Potensi dan Manfaat Ekonomi Limbah Kelapa
 date: '2020-09-06T13:31:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kelapa
 - pertanian dan perkebunan
 modified_time: '2023-05-25T12:27:18.355+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqKW-USQrN6SwcarUD1RaFuQ5PklLGOoyDs0iOpBJOVxPMOvGbt5xd6L0NF36kzh6rI6jLFFGj3hw2YiU49iPVcJv3Zwoa4GrRQJkFRu9MbSYuFITq-Dvt9dtNl9AQ3GNwRlKQ0-wGzoUv65w7wyInFO4BAgQCAjbqissBuvtxfZIwHG6VZxV-AwgsA/s72-w640-c-h374/limbah1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6730860507390008679
 blogger_orig_url: https://www.budidayatani.com/2020/09/nilai-ekonomis-limbah-kelapa.html
 ---
 

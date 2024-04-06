@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/659-menyelami-keunggulan
 layout: post
 title: 'Menyelami Keunggulan Fakultas Pertanian di Universitas Ma''soem di Bandung:
   Membangun Karier di Agribisnis dan Teknologi Pangan'
@@ -7,8 +8,6 @@ author: Yudi Anto
 tags:
 - pertanian dan perkebunan
 modified_time: '2024-01-09T13:37:31.084+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUyMtk3K07GXdF_yuo9EZXZa-H-jvjCFIU1nm6r0U8P-PHUVDzvAWFw_H25xJhyeNoM2GD3kOCABRxpbhyphenhyphenlAdAShwtDnA6DHcgT85KKVzlu_yF48VlwJOCXa7u1kCCT4GQqsibXIz4X7ySWrSm7wqyTniad8M7GeJkDnKKK9k8NETvmlR6pG920szvf862/s72-w640-c-h360/Ma'soem%20University%20.jpeg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6943841752862712913
 blogger_orig_url: https://www.budidayatani.com/2024/01/menyelami-keunggulan-fakultas-pertanian.html
 ---
 

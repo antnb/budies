@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/477-alpukat-superjumbo
 layout: post
 title: 'Mengenal Lebih Dekat Alpukat Muria: Keunggulan, Bentuk, dan Harga'
 date: '2021-04-04T20:36:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - alpukat
 - pertanian dan perkebunan
 modified_time: '2023-06-17T11:20:46.004+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHlXiMKi0bYH1--F_T3zI4Kim3gzWaO_N6uouHKxFwAe-dFj8RZfVhgkCYKgXydCA5ljAWLnPEpuaxdgFjW6V06aC1DOeAV8RNi06-Qw6XwlqfcXYaVgsfGzsJffwtIWff57IfvHTREr1BQwd3AuyauYp-jVcKLVVR14PQo8KRaMCkkYreR9djTqhzw/s72-w640-c-h344/alpukat.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2987207361551579252
 blogger_orig_url: https://www.budidayatani.com/2021/04/alpukat-superjumbo-warisan-para-wali.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/208-padi-transgenik
 layout: post
 title: 'Padi Transgenik Rojolele Tahan Hama Penggerek Batang: Revolusi dalam Pertanian
   Indonesia'
@@ -8,8 +9,6 @@ tags:
 - padi
 - pertanian dan perkebunan
 modified_time: '2023-08-05T21:13:25.124+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUOLjQafImDDlCy73nabwLkiwr2VTU9ojZya6tQK96zXAXXTSSB4msQr-qWjZnqlYIrgQJI8cqFfNPGd4qWWBXz5xWVO_PnHYpB6SFl0x4QBGiyIMeLd7jbev9QF0eWSGQaP161DDR6smQ_tMY7v35Qdr46J4TAa3em5goNFd2k20evyHdF5pThGSGOo7y/s72-w640-c-h416/rojolele_800x520-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1303761256352405519
 blogger_orig_url: https://www.budidayatani.com/2019/07/padi-transgenik-rojolele-tahan-hama.html
 ---
 

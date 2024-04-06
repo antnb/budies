@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/453-dendrobium-potong
 layout: post
 title: Lonjakan Harga Pupuk dan Pestisida Mendorong Perubahan dalam Bisnis Dendrobium
   Potong
@@ -7,7 +8,6 @@ author: Yudi Anto
 tags:
 - Tanaman Hias
 modified_time: '2023-06-18T09:37:46.890+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3311548607819549179
 blogger_orig_url: https://www.budidayatani.com/2021/03/dendrobium-potong-surabaya-tersenyum.html
 ---
 

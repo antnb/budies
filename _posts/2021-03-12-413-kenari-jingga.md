@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/413-kenari-jingga
 layout: post
 title: 'Kenari Jingga Sang Dambaan Hati: Kisah Peternak Kenari Mengejar Warna Langka'
 date: '2021-03-12T23:31:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Hobi
 modified_time: '2023-05-18T09:28:58.585+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNhmMjL6CFbsxlUbBf08DFME1Uts_HvA9JF52VlR20ZYxe-MXD3vJ8ojb5BQaUpJozhZ1ePYjaQ380a7jpkg8j5w0t_vyMwwVKml0lEkoKKyKS4AlD8ZndI8wEapZ-1wj8FGaaSH0eXgsmN-XM_n3Uc5SrsDUPez9ox3KYzTxyn2QHEmhVOLbbqqpUqA/s72-w640-c-h360/Kenari%20Jingga.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4461767482866231346
 blogger_orig_url: https://www.budidayatani.com/2021/03/kenari-jingga-sang-dambaan-hati.html
 ---
 

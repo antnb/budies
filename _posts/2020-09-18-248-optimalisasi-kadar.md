@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/248-optimalisasi-kadar
 layout: post
 title: Optimalisasi Kadar Unsur Hara Media Tanam
 date: '2020-09-18T20:00:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Pertanian
 modified_time: '2022-12-14T12:30:43.225+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsunvK3uMAVN3b3RRstDg-W3xIDrX9AAf5LUgrmi-39mX6P0edgf_oPnOH5U7tM9Qe13cEXkhrUaJH5nCMXxcKBWCVz35kK88t8nUId5cfY7rX9wtXssr9DzCil-DCXbuK9PKsp3k_NQB6/s72-c/unsurhara.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8958829433444637109
 blogger_orig_url: https://www.budidayatani.com/2020/09/optimalisasi-kadar-unsur-hara-media.html
 ---
 

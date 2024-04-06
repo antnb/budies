@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/169-tweeter-walet
 layout: post
 title: Tweeter Walet Terbaik Untuk Rumah Walet
 date: '2019-07-13T12:44:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-28T18:10:33.710+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivSgDMdWvoxJ4eOR0yOEXPzgtLv4DSBYsBuJy1Kz2x2OpOvuZS8E30f4H3sBB-h9rsVYTH_cioUx5eUhXLCZ7ytt7xjYRzXSAUpglVYqdk7xQ8i4IzjND7gROIApc6zOxEDYfjLzkX2f9espIte3C9-EklJZF9Sx7LVEn_yCXlgIx5aIm_fCMJZ5IWcQ/s72-w640-c-h360/tweet.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-711784846535342781
 blogger_orig_url: https://www.budidayatani.com/2019/07/tweeter-walet-terbaik-untuk-rumah-walet.html
 ---
 

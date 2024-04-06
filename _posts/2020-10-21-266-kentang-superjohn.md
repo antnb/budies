@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/266-kentang-superjohn
 layout: post
 title: Varietas Kentang Unggulan "Superjohn" Mendorong Peningkatan Pertanian Lokal
 date: '2020-10-21T12:57:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kentang
 - pertanian dan perkebunan
 modified_time: '2023-08-16T15:22:51.569+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtu3kzGssp2glBTLw-__1erTWNgP-Ajd32UWipkrelrKBCAjwQAIYh-tPJZF8K6VCQQH2cAEy7GBetc86rONf_-Ex_UQ8Ws0dPaCzqsW8nqAlvEASdVMk7_q5HpK9x5nGNAeOv5lnOVkzWzwpnPJ_qu_o4uyZKfJsP-6R_rcwxqIxx4Ksta4jK9EdaVwLs/s72-w640-c-h370/superjohn.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8898563193730230683
 blogger_orig_url: https://www.budidayatani.com/2020/10/kentang-superjohn-granola-lokal-asal.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/109-euphorbia-cantik
 layout: post
 title: Euphorbia Cantik Hasil Persilangan Dan Perbanyakan Biji
 date: '2019-06-23T16:46:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Euphorbia
 - Tanaman Hias
 modified_time: '2022-12-14T12:29:54.671+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1671547213330047406
 blogger_orig_url: https://www.budidayatani.com/2019/06/euphorbia-cantik-hasil-persilangan-dan.html
 ---
 

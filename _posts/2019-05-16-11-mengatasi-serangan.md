@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/11-mengatasi-serangan
 layout: post
 title: Mengatasi Serangan cendawan Verticillium dahliae Pada Tanaman Vanili
 date: '2019-05-16T00:16:00.000+07:00'
@@ -8,8 +9,6 @@ tags:
 - Perkebunan
 - vanili
 modified_time: '2022-12-24T13:57:34.282+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8hz1dywgKD5RVUgq9XnpuDl_dJBaifHfiLkBV7K1ikdfQdOeX-PBjqxfTWBgaFTotRIcVXl4aTLsyStvsVlyDijDaFQjZYqbdzAu5IVb4PLXLrhYQFpP_PQZJbMg7tIzpkWfHN5krGRelQw11cEUJSG5xM-iEjaLde2C1B_uAkNz490NJJGxrtgNsQ/s72-c/budidayavanili-2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6557248565120771446
 blogger_orig_url: https://www.budidayatani.com/2019/05/mengatasi-serangan-cendawan.html
 ---
 

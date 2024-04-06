@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/121-penyortiran-kualitas
 layout: post
 title: |-
   Penyortiran Kualitas Bibit Kentang Untuk Menghindari Penyakit
@@ -10,7 +11,6 @@ tags:
 - Perkebunan
 - Pertanian
 modified_time: '2022-12-14T12:30:04.076+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1775142198900608189
 blogger_orig_url: https://www.budidayatani.com/2019/06/penyortiran-kualitas-bibit-kentang.html
 ---
 

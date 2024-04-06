@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/512-empat-maskoki
 layout: post
 title: 'Maskoki Khas Asia Timur dan Tenggara: Keindahan dan Keunikan yang Menawan'
 date: '2021-04-13T16:20:00.000+07:00'
@@ -6,7 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-07-02T09:43:11.644+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5961945773277169843
 blogger_orig_url: https://www.budidayatani.com/2021/04/empat-maskoki-pendatang-baru-dari.html
 ---
 

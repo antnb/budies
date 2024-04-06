@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/72-mengintip-keseharian
 layout: post
 title: 'Mengintip Keseharian Para Pecinta Guppy: Keindahan dan Tantangan dalam Memelihara
   Ikan Hias'
@@ -8,8 +9,6 @@ tags:
 - Ikan Hias
 - guppy
 modified_time: '2023-06-08T17:23:49.502+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6K6ekTkiCZlIlnCk-4BOXPuwRTDV8b6cQO9zBjVMGQM9P3cZ5O5mD_wAojWIzu8XBcyIA5cVEwIiT-l1MF_LbXtwVQbNNiQU5Yy3zzFGpkyI9NIJ9P4z_6Xu5yL4ZYbFUn2TmZ35lPQIH6B9zMmQDmJ8MAL9AdTNTmuWtvmOl-JioFZyHI3bmu3cNg/s72-w640-c-h360/blue%20moscow.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2069368775066719697
 blogger_orig_url: https://www.budidayatani.com/2019/06/mengintip-keseharian-para-pehoiis-guppy.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/468-adenium-raksasa
 layout: post
 title: Adenium Raksasa Menebar Pesona dengan Keindahannya
 date: '2021-04-02T19:47:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-06-13T15:31:23.395+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLU7ImpnsgbD0lyeVK30f_SOkA84RBAi2Cih2UBvOs3Ge6YzGFfXEkcawmCqh6wQigOxm99Tj2jmafDTrsxn9P_qs2iEJbtbw1y9RH7zBvmVA7Vqc583hEpgKOAtV3IoHKmve5DpCZ2_TvGYsBhsvxmmHhCV_esfooKQ3DTHtHQN2Jha1DorVvi0cqZw/s72-w640-c-h364/adenium(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4647755557286256336
 blogger_orig_url: https://www.budidayatani.com/2021/04/adenium-raksasa-menebar-pesona.html
 ---
 

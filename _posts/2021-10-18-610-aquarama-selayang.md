@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/610-aquarama-selayang
 layout: post
 title: 'Aquarama: Pameran Ikan Hias Terbesar di Singapura'
 date: '2021-10-18T19:53:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Ikan Hias
 modified_time: '2023-06-17T07:05:48.969+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLK04K_VRDT9HI-cuZSpZCIEvV59OkK-oXmew6QSoj8JuG46ejIG29uagzAU5_emw97dvnpD7sqmRvAJNZwgHBfbYZDB4plAnfQrlwv2fSS8PpNer1Y0p-a2YHFjD0Vtw_cHemaU6EhGDBfMqH6QsPpkqqcqGaKM3JfYZJq0H-Bjc1t5glK52vu8RsVw/s72-w640-c-h360/Aquarama%20Pameran%20Ikan%20Hias%20Terbesar%20di%20Singapura.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5590416671304786720
 blogger_orig_url: https://www.budidayatani.com/2021/10/aquarama-selayang-pandang.html
 ---
 

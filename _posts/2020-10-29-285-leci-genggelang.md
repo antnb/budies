@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/285-leci-genggelang
 layout: post
 title: 'Leci Genggelang: Varian Istimewa Mampu Beradaptasi Di Dataran Rendah'
 date: '2020-10-29T02:05:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - leci
 - pertanian dan perkebunan
 modified_time: '2023-08-16T14:29:37.463+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk4ZoQtUpXUnSMfrchS-I7um9mRgRmIhyofE_lXHswU-O8At6XCLaQthHFXlKGRWm3xw19o3a5B7RLN4ICZe0ZqmFp92E5huiH4D5mMk7XEMtSRCcb9GoX0ggfjcXIpQYkfcyem92CYA9DsrOVVl9gpuySm-yLJg3DX_snlLCutUOlVIzZIaKrpLItN0Ev/s72-w640-c-h414/leci.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-155606974179888279
 blogger_orig_url: https://www.budidayatani.com/2020/10/leci-genggelang-varian-istimewa-mampu.html
 ---
 

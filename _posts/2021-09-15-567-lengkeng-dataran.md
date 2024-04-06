@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/567-lengkeng-dataran
 layout: post
 title: 'Lengkeng Dataran Rendah: Mencapai Keunggulan dalam Pasar dengan Impor'
 date: '2021-09-15T18:26:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-06-14T15:04:34.940+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXeXZS6sNRYVXsWe_dRYM6EiaVtW6oaVXlLZIoTsXlHKda3Mexbr55Roi2WeSk3041kmTpggg6M3tokgI-1m3FRSVI2HyQPUXWp28I39ijIISCebLg5KWMr15aEELSoBwh6JrM_Oc-cuujqdFwP3sVGPJku70ngoBzr70nw82EB5HJOyZOGB9qRaVBUg/s72-w640-c-h360/lengkeng.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6988844643215767424
 blogger_orig_url: https://www.budidayatani.com/2021/09/lengkeng-dataran-rendah-siap-serbu-pasar.html
 ---
 

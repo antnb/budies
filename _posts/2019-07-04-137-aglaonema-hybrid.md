@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/137-aglaonema-hybrid
 layout: post
 title: Aglaonema Hybrid Nan Cantik Sebagai Penghias Teras Rumah
 date: '2019-07-04T11:30:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Aglaonema
 - Tanaman Hias
 modified_time: '2022-12-14T12:29:59.062+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-210528914919373742
 blogger_orig_url: https://www.budidayatani.com/2019/07/aglaonema-hybrid-nan-cantik-sebagai.html
 ---
 

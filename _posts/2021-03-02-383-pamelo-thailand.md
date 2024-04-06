@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/383-pamelo-thailand
 layout: post
 title: Pemupukan Optimal untuk Pertumbuhan Pomelo di Kebun Citrus Grandis
 date: '2021-03-02T21:34:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - jeruk
 modified_time: '2023-07-09T10:34:30.580+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip3NsQs1sGeaCAQ8ZbFjW5uLgGv86j51scURG4iKrNizNJ2sYklkcGgMp2OKdwhNcpWCVSmCOhqlThAatKkMuTzY4AO_ZnJ57OjLPeOxQFu7Oe4X0xa3lbhue6NQ5fLWu-DXJUIqBqXrdUiiuxiSVjq5g2RDwevAeJOcrsXmroNa5L_RQvgZAOke-huZ8U/s72-w640-c-h386/pamelo(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-2938243748889490810
 blogger_orig_url: https://www.budidayatani.com/2021/03/pamelo-thailand-manis-berkat-alga.html
 ---
 

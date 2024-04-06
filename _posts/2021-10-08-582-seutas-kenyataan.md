@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/582-seutas-kenyataan
 layout: post
 title: 'Budidaya Udang Vannamei: Keunggulan, Tantangan, dan Keberlanjutan'
 date: '2021-10-08T13:56:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Perikanan
 - udang
 modified_time: '2023-08-30T18:44:32.714+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzAzDFW_X1cbhxQsbhMcYYwilSZcyB_mVEZJ-9qwyCvgj8Y_kCvmDvQn4a_oDU1tZkthc8ayuSwF8hPGttReYckPXMm55g46xPjEI4RdG2xxcl3h0SWeAxKZLU5j3wuLO5ReQyo8FtWsfbIUB20A8dmp72Jdl29QloWjvfruAMcdwKgSoJrDt97vAV3_r4/s72-w640-c-h360/Vannamei1_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7307898491112264028
 blogger_orig_url: https://www.budidayatani.com/2021/10/seutas-kenyataan-dan-harapan-di-pundak.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/632-banyak-kemasan
 layout: post
 title: 'Kemasan Jamur: Memilih dengan Bijak untuk Menjaga Kesegaran Shiitake Segar'
 date: '2021-10-24T19:12:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-07-09T09:18:38.294+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-9162648281109438050
 blogger_orig_url: https://www.budidayatani.com/2021/10/banyak-kemasan-pilih-packing-yang-tepat.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/599-pendatang-baru
 layout: post
 title: 'Temukan Rahasia Kunci Sukses Petani Kentang: Varian Kentang Akira, Ultra,
   dan YP89-070 yang Tahan Nematoda Sista Emas!'
@@ -9,8 +10,6 @@ tags:
 - hama
 - pertanian dan perkebunan
 modified_time: '2023-06-11T11:02:13.474+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIP3ZvV5ooH-__sT-SmcwTybH53ecWd1cS_UKgA5aRmW3LZxQbmNPgEgC08r5lIZVKTllBI91WPlU8D1NWJlfLvuQEnObXd18sXUiLhHFE_r7RktVWUvUWx-4B6ncSi4nSwPrg2rDkFYn4CVrri0gsm3aTBaOrRMMA-AJssfxzO2ZI_h-y_5eW3_0kxw/s72-w640-c-h380/kentang(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6024686096838399108
 blogger_orig_url: https://www.budidayatani.com/2021/10/pendatang-baru-yang-ditunggu-tunggu.html
 ---
 

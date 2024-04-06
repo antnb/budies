@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/190-jenis-lobster
 layout: post
 title: 'Rahasia Sukses Budidaya Lobster Air Tawar: Mengungkap 3 Jenis Lobster yang
   Paling Dicari'
@@ -8,8 +9,6 @@ tags:
 - lobster
 - Perikanan
 modified_time: '2023-05-20T17:11:05.243+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju0ITHWNs2Z054L8BHpFKkHxbcAMTOaBUKA3y_Yn9o8sORb-AG868-SOCh2YwzziSaRQp8yvD16DNNxhfdJCwCzNgUwOXsYO6QawIkKsqI0L0CctTABDq-l25ZHYCqTtRTvHBYOoawy2vqpwFZU9Abc7Zc4TaLu2FxLg63NGkNH8Qb33KHjHnaLwxXIA/s72-w640-c-h360/Cherax%20quadricarinatus.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-957941364329830202
 blogger_orig_url: https://www.budidayatani.com/2019/07/jenis-lobster-air-tawar-konsumsi-dengan.html
 ---
 

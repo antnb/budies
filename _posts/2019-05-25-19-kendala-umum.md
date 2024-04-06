@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/19-kendala-umum
 layout: post
 title: 'Kendala Umum yang Dihadapi Petani Cendana: Kelangkaan dan Eksploitasi yang
   Mengkhawatirkan'
@@ -8,8 +9,6 @@ tags:
 - cendana
 - pertanian dan perkebunan
 modified_time: '2023-05-24T19:08:09.876+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVSqPuMwjeEpu4JxMc-sMjJxPdMYyxGzOw0WHepx6aQW0sIMaWgeFRcRY7lNmoLwbxcFa8PBZkkpOh0o3oCYZvL8UzSbz49HyjwdS1LbtEkwE1YS2vi3DxJs_i1VQJ0mpaL552sZSmgadhz1w2tWYlbjR9Ie0TIs0YpkHxQuvnhazwn_H7L_e8Ic3Cg/s72-w640-c-h360/cendana.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4762698545591394915
 blogger_orig_url: https://www.budidayatani.com/2019/05/kendala-umum-yang-dihadapi-petani.html
 ---
 

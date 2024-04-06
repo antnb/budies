@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/264-eloknya-kembang
 layout: post
 title: Eloknya Kembang Kertas Dari Negri Paman Sam
 date: '2020-10-21T13:53:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Tanaman Hias
 - Berita
 modified_time: '2022-12-14T12:30:52.380+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuauHz3s_-sG63nUvGJYxab5j27hMFVnw79iaKdiN88_IA9SfuwbZ9ZE4sdvLBSEydmGVIBdIyMI3V8uKaGGv_rORx_ryI5iMwTmBNVFSXoitrs8gxexkGbzv1Cb6XYpVqzVsTr_pBZ78D/s72-c/bugenvil.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8835980855963474047
 blogger_orig_url: https://www.budidayatani.com/2020/10/eloknya-kembang-kertas-dari-negri-paman.html
 ---
 

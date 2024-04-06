@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/589-empat-varietas
 layout: post
 title: 'Jenis-Jenis Melon di Indonesia: Menemukan Varian Melon Terbaik untuk Budidaya'
 date: '2021-10-10T12:42:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - melon
 - pertanian dan perkebunan
 modified_time: '2023-06-27T07:52:42.846+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-229723386232318898
 blogger_orig_url: https://www.budidayatani.com/2021/10/empat-varietas-melon-terbaru-dari.html
 ---
 

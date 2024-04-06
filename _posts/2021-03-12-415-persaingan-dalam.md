@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/415-persaingan-dalam
 layout: post
 title: Inilah Teknologi Terbaru yang Menarik Ribuan Walet ke Rumah Anda
 date: '2021-03-12T20:14:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Walet
 - Peternakan
 modified_time: '2023-05-24T14:27:54.603+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxKIWT44Cyrv13wd8Jye8TzWDJc0cKo6U_8m2gmZERRMzzBgU4v4yiQqjTn3RHADNPqLUIyNNEBQ6RCLsuXrjh_ZmYreawJ6hqafh0ka2EfzPStLVCnuA15UHgIyJ9p-kRVlOb1UIrRqva9eQb_szQaoAZvnaT5RRlRYaHaCaCsEP61ltGwWrFkTmYEQ/s72-w640-c-h360/ywe.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8338885671643654268
 blogger_orig_url: https://www.budidayatani.com/2021/03/persaingan-dalam-memikat-si-liur-emas.html
 ---
 

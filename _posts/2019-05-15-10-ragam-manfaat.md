@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/10-ragam-manfaat
 layout: post
 title: 'Biji Vanili: Makanan Penyubur dan Antioksidan Tersembunyi yang Mengagumkan'
 date: '2019-05-15T18:43:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - vanili
 - pertanian dan perkebunan
 modified_time: '2023-05-19T09:19:03.878+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj3kYjCet6xdpqovPhQsZycDGQXkTRd_zCR5garsQxQgkKeR0kSfbWVq7UgerqW44Jjx5q1dPpsPzlz1h0KJTGLw5bG98NBAzuaab3nq2rPIE7ULgowk37k4CX5zAUpp77z6tvA1V9KGIb9ZOaDTlB8lab7qJpFfNblcd3kuc5Y66qyLir-BPUC24HKA/s72-w640-c-h360/vanili_2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5747614422651090314
 blogger_orig_url: https://www.budidayatani.com/2019/05/ragam-manfaat-dan-kegunaan-vanili.html
 ---
 

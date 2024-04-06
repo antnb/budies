@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/498-lebatkan-anggur
 layout: post
 title: 'Lebatkan Anggur di Perkotaan: Rahasia Pemangkasan, Pupuk, dan Panen yang Sukses'
 date: '2021-04-08T16:05:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - anggur
 - pertanian dan perkebunan
 modified_time: '2023-07-31T11:24:03.773+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihDuQD69hDT0b1zVgK-c0m7JmvHsjO_KGtBYvpoRV1TnhSwIxO5cqd2C1NLBTwKu3EAGruzaVQhvtqneljbFh-5tYxzkUvtOpVN6k5ykXETc0OXE1c_KIPXjNzYiJeWsXmTAw-cak8qEdjQ77fZhG4oPl59lm1Mux-y6J3y2I9fzkbG-YQ9bL0DdChX_E7/s72-w640-c-h360/anggur(1).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1372378737336570197
 blogger_orig_url: https://www.budidayatani.com/2021/04/lebatkan-anggur-ala-ade-maka.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/408-harapan-malaysia
 layout: post
 title: 'Durian: Penanaman, Ekspor, dan Inovasi MARDI dalam Mengembangkan Buah Durian
   di Malaysia'
@@ -8,7 +9,6 @@ tags:
 - pertanian dan perkebunan
 - durian
 modified_time: '2023-07-03T07:20:41.943+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-153269844848284074
 blogger_orig_url: https://www.budidayatani.com/2021/03/harapan-malaysia-pada-sang-raja-buah.html
 ---
 

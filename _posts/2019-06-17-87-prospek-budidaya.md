@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/87-prospek-budidaya
 layout: post
 title: Cari Peluang Investasi? Budidaya Duku Cimara Bisa Jadi Pilihan Andalan!
 date: '2019-06-17T21:54:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - duku
 - pertanian dan perkebunan
 modified_time: '2023-05-20T18:00:39.284+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8ytwX47Pezy6GP4GB5g1y555qjhQtTIP-BSKfvb85KeSX_H3Af8d_6L8HzJB_A-q3mGDMjgtBHSsqjTU4QcwNyrfDp9RodsQyb3cMt8oX3D9KM2QkSmNNtOoaGGi1ZfGONF7Btr6KwXzhDKIvO_nfv-gmcrBVbNSUmNgjZNlcAX8PTLfmRLdg4Ig9hQ/s72-w640-c-h360/Duku%20Cimara.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3798017729431464068
 blogger_orig_url: https://www.budidayatani.com/2019/06/prospek-budidaya-komersil-buah-duku.html
 ---
 

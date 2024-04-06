@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/257-alpukat-super
 layout: post
 title: Alpukat Super di Lembah Galilee
 date: '2020-10-20T15:14:00.000+07:00'
@@ -11,8 +12,6 @@ tags:
 - salad alpukat
 - israel
 modified_time: '2022-12-14T12:30:47.816+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj48HsibY0rodE5ztA_Reodf3Y-h05kFvfNO9cRgm-QB1-CCEOoqtaiaFmE0CGQuqhzjiBwymWxSnUPw3Gm1K1lqVJeXRkojvnKSPKNZsSdoxvqKjPMYG7aKAwv9Lu9mAs4IXg4XrUukQDe/s72-c/35716090894_004c0b5231_b.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1885836926254592114
 blogger_orig_url: https://www.budidayatani.com/2020/10/alpukat-super-di-lembah-galilee.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/524-alokasia-belang
 layout: post
 title: 'Alokasia: Menelusuri Keindahan Tanaman Hias Indoor yang Eksotis'
 date: '2021-04-16T18:11:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - alokasia
 - Tanaman Hias
 modified_time: '2023-07-02T09:48:16.451+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6312629296272955145
 blogger_orig_url: https://www.budidayatani.com/2021/04/alokasia-belang-macan-di-bira.html
 ---
 

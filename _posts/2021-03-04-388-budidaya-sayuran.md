@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/388-budidaya-sayuran
 layout: post
 title: 'Budidaya Sayuran Organik dalam Greenhouse: Solusi Inovatif untuk Kesehatan
   dan Keberlanjutan'
@@ -9,8 +10,6 @@ tags:
 - greenhouse
 - pertanian dan perkebunan
 modified_time: '2023-05-25T14:27:03.493+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZma0C-zsIFBX3BdyaGTYywvGQ1QYpC1dIUQcyTr0UJuIp2Dhf6hcIjZ1x3up8QMQgQv5sYNUBoW-uF--LJObgyqW5i-z3cBhivPh6s89TxZ7jGZnWP0MWzUW6LahsilUVW96Ph_Kuz7HDKeqz5_5KjAHkBhzCt8juI_YZV3uUA4HpIPRjYv-Z4uV5kA/s72-w640-c-h360/green.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-324426364091333845
 blogger_orig_url: https://www.budidayatani.com/2021/03/budidaya-sayuran-dalam-naungan.html
 ---
 

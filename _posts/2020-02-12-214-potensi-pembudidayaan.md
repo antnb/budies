@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/214-potensi-pembudidayaan
 layout: post
 title: Potensi Pembudidayaan Kayu Gaharu di Kawasan Timur Indonesia
 date: '2020-02-12T14:03:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - gaharu
 - Perkebunan
 modified_time: '2022-12-14T12:30:30.648+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4ROANGRgeo7de_iIxVXE6dj2_rP-H0nCP91z2C72IkejDHzGJrR8NsVkfiPr9EY-8a_AqDBIJCSzH1Q6OzMwpj0rEZNpKpG9YVLPwH5ssKXULW81Io0hXX5PazphWMVthhBLxVPsamFf/s72-c/gaharu_1280x640-768x384.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8892748915578459735
 blogger_orig_url: https://www.budidayatani.com/2020/02/potensi-pembudidayaan-kayu-gaharu-di.html
 ---
 

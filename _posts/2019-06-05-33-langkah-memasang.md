@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/33-langkah-memasang
 layout: post
 title: Langkah Memasang Chip Pada Ikan Arwana Asia
 date: '2019-06-05T05:32:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Hobi
 - arwana
 modified_time: '2022-12-19T18:03:20.301+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7P0knB-KG1BudC6tW5PMWqU948C_GJ_EzVG9-BXdIqKnQ9hWZzfCm3lMr9nonXtVJRiVuPp3UkbUZwqzInE3GTnKXFnnP74iSg20Po5K7spg1-dxIbnIdf0xneDQIwQDviznL3Hs8MVz4nYtgTtRVxj1mWdZr3UW_5_JmTVfZbOZ56e3Bquw-cmNwNw/s72-c/chip-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3557592297941941119
 blogger_orig_url: https://www.budidayatani.com/2019/06/langkah-memasang-chip-pada-ikan-arwana.html
 ---
 

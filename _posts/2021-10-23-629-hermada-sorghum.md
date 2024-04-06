@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/629-hermada-sorghum
 layout: post
 title: Hermada (Sorghum tricolor) Tawarkan Diri Lagi
 date: '2021-10-23T17:38:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Perkebunan
 - Sorghum
 modified_time: '2022-12-14T12:32:54.799+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4827367403286366253
 blogger_orig_url: https://www.budidayatani.com/2021/10/hermada-sorghum-tricolor-tawarkan-diri.html
 ---
 

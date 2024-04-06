@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/229-memahami-mekanisme
 layout: post
 title: Memahami Mekanisme Pemasaran Dalam Agribisnis
 date: '2020-08-23T18:44:00.000+07:00'
@@ -6,8 +7,6 @@ author: Yudi Anto
 tags:
 - Berita
 modified_time: '2022-12-14T12:30:39.241+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigJIANUMImpcsXhaabkprzfsfg9fbAanynp0-JJVzlD1eeOm_h4gtRA1vnBeMjL1UGIg367YYQSDPDwwmID_ULu7cIiZZmSA6z70a2lSLYWnBJ6qNIiLrc4rEwHc7PI-ZMhD9LJD6NRHWA/s72-c/pasar-tradisional-_120423203710-681.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3683827926344797863
 blogger_orig_url: https://www.budidayatani.com/2020/08/memahami-mekanisme-pemasaran-dalam.html
 ---
 

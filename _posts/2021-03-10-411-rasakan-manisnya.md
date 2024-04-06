@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/411-rasakan-manisnya
 layout: post
 title: 'Rasakan Manisnya Keprok Semboro: Mengungkap Keistimewaan Buah Keprok di Semboro'
 date: '2021-03-10T23:06:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - pertanian dan perkebunan
 - jeruk
 modified_time: '2023-05-25T19:31:39.642+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8alR9_xeVQm9Xfqp4uvSxquDzWKqLe-xxLLkZD1wAzy3o0ZnG1nFIH401aQrlK3L16btEkSLktATwgTf8WdEJe1X7arLeMiNTvcmYjfcyPJECL3vfUiBYBJtY7AdNRO_RDl3migCsqzCQNrLHIxbNfKI61F5S-cvLXr-CwpvAZq7fCYRFVL2UViywJA/s72-w640-c-h360/jeruk(2).jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1410368225503789755
 blogger_orig_url: https://www.budidayatani.com/2021/03/rasakan-manisnya-keprok-semboro.html
 ---
 

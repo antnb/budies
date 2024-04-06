@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/108-pendapatan-tambahan
 layout: post
 title: Pendapatan Tambahan Lewat Pembibitan Bunga Euphorbia Secara Komersil
 date: '2019-06-22T22:45:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Euphorbia
 - Tanaman Hias
 modified_time: '2022-12-14T12:29:55.587+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-1532404258239892331
 blogger_orig_url: https://www.budidayatani.com/2019/06/pendapatan-tambahan-lewat-pembibitan.html
 ---
 

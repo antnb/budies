@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/476-teknik-hidroponik
 layout: post
 title: Teknik Hidroponik Irit Air Dengan Teknologi Hydrogel​
 date: '2021-04-03T16:53:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - hidroponik
 modified_time: '2023-06-14T10:03:43.024+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-8639486982615132858
 blogger_orig_url: https://www.budidayatani.com/2021/04/teknik-hidroponik-irit-air-dengan.html
 ---
 

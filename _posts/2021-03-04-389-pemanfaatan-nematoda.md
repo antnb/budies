@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/389-pemanfaatan-nematoda
 layout: post
 title: Penggunaan Nematoda sebagai Agen Hayati dalam Pengendalian Serangga Hama
 date: '2021-03-04T23:11:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - hama
 - pertanian dan perkebunan
 modified_time: '2023-05-22T09:32:13.277+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixWHS2eM1RXbBhndM3m1AeTVXgiuMPpvT8ITsSFxt38DCxUMXRCfcX07Yj9jjyMm34fokEt4xuHqrzmqB8GqLVaLZwzpwJlQo9q8RT-lMbDkv9Izv1FDVT7PpOqVjuJUKp3Pmy55LcZyDvkUwsv9GFzjwsyYVoVKES-83S-FIGyjIuu2zsMDILga5KbQ/s72-w640-c-h360/nema2.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7504353404009805506
 blogger_orig_url: https://www.budidayatani.com/2021/03/pemanfaatan-nematoda-sebagai-agen.html
 ---
 

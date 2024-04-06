@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/340-budidaya-aeroponik
 layout: post
 title: Memanfaatkan Bak Penampung Nutrisi untuk Budidaya Rakit Apung oleh Yos Sutiyoso
 date: '2021-02-18T15:24:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - aeroponik
 - Pertanian
 modified_time: '2022-12-22T20:42:41.343+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitYwRzLJaIoSPSsUdUonRvQ8X-Feq9008Yq2bkliQIfdK1nhmq9o2IAS2aTaB_XTRcRQrGS8XLKpUxL0SyCgYoGRRshPmXLDpY5RJx5PjtPxUq5iN35KEJmOjQiYhucD4TyUPn4iyNLXhn1A_Frmvv-fKGFjmjbhsMOLYBk_XvzBKF0xqMqJR6LurIBQ/s72-c/aeroponik-1-768x480.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7316318503071817994
 blogger_orig_url: https://www.budidayatani.com/2021/02/budidaya-aeroponik-sistem-rakit-apung.html
 ---
 

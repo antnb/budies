@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/544-taruhan-nyawa
 layout: post
 title: 'Adenium Arabicum dari Yaman: Kekayaan dan Tantangan dalam Membawa Keindahan
   Gurun ke Indonesia'
@@ -8,8 +9,6 @@ tags:
 - Tanaman Hias
 - Adenium
 modified_time: '2023-07-29T09:29:09.349+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4M_xjG43H6D_Nj-SY7yDgq2kgZjWyNnsMeHE-dQgmAXiAVoo3u11RtEgaH2--GlXk9AOydrh6eupN7zF4N2APMY0n1K3TwHwFMHk8SblvmxE5s4ua1yVohKfBtywyfCDau48yKOjM6Jo5bJgXHvsC9xR3HKdHEZYknnW8_iQmH9WRV4EN5QJ3UyZUVcn/s72-w640-c-h418/yemen.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4216574024012603749
 blogger_orig_url: https://www.budidayatani.com/2021/04/taruhan-nyawa-datangkan-arabicum-yaman.html
 ---
 

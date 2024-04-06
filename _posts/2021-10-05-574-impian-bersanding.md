@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/574-impian-bersanding
 layout: post
 title: Potensi Ikan Hias Indonesia dan The 1st Indonesia International Ornamental
   Fish and Accessories Expo
@@ -8,8 +9,6 @@ tags:
 - Ikan Hias
 - Hobi
 modified_time: '2023-05-23T18:16:06.840+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsbQU8Te_W5VrdAdiPiz-9mcykyCqizcnRdqppZ8o-F6sIAuFpUwpF4AGG7wCspXSgOSKV0EdDFV1sjgwVvuZ6fYQPg3ZJJ3Ybh_iXVPl-DZTuetqvrmWu4EM_nMgWRe9U364OEw-a7gA3IbrKXrCFeH5RTlnJkNBJzXrMgELugRsvc5puAubXj4xWgw/s72-w640-c-h360/infofish.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3667119038407081227
 blogger_orig_url: https://www.budidayatani.com/2021/10/impian-bersanding-dengan-aquarama.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/603-kontes-perkutut
 layout: post
 title: Panduan Mengikuti Kompetisi Perkutut Kelas BOB dan Tips Merawat Perkutut Juara
 date: '2021-10-14T16:18:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - perkutut
 - burung kicauan
 modified_time: '2023-07-08T19:23:00.419+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5986087452096238177
 blogger_orig_url: https://www.budidayatani.com/2021/10/kontes-perkutut-meteor-makin-mencorong.html
 ---
 

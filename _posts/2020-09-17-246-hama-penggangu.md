@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/246-hama-penggangu
 layout: post
 title: 'Budidaya Jamur Tiram: Mengatasi Ancaman Serangga Penghancur dan Meningkatkan
   Keberhasilan Produksi'
@@ -8,7 +9,6 @@ tags:
 - jamur
 - pertanian dan perkebunan
 modified_time: '2023-07-08T09:02:28.636+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6017511270163555475
 blogger_orig_url: https://www.budidayatani.com/2020/09/hama-penggangu-dalam-usaha-budidaya.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/30-prospek-bisnis
 layout: post
 title: 'Rahasia Sukses Ekspor Ikan Hias: Keuntungan Menggiurkan di Balik Botia'
 date: '2019-06-03T21:25:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Ikan Hias
 - botia
 modified_time: '2023-05-21T08:13:52.051+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgszQ2aPoq5ILepNZJbvId9Rea93E_ksNl8WpkOqMvoAt0IwyLmjvrZWxns9afS8Vx4j5GKvPr9I91jsIT6GdoCDrMweDOslZN0qPxetsHcTre1v0KWEF4XQMpnOEW_hbbpsLZ4h24vPxIqbzAv5Ay0QjXI5WXw6pa6cltLv-z4NGlD1Ihh7Pp6bfVupg/s72-w640-c-h360/botia.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4762823015337835714
 blogger_orig_url: https://www.budidayatani.com/2019/06/prospek-bisnis-menguntungkan-eksport.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/446-indahnya-bianglala
 layout: post
 title: 'Mengungkap Pesona Tropheus Moorii Ilangi dan Red Moliro: Siklid Eksotis dan
   Menawan'
@@ -8,7 +9,6 @@ tags:
 - Ikan Hias
 - siklid
 modified_time: '2023-06-25T19:17:49.336+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-7525108938864626921
 blogger_orig_url: https://www.budidayatani.com/2021/03/indahnya-bianglala-saktinya-penolak-bala.html
 ---
 

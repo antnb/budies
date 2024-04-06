@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/298-pacu-produksi
 layout: post
 title: 'Budidaya Lengkeng di Thailand: Strategi Sukses Menanam Lengkeng di Musim yang
   Tepat'
@@ -8,7 +9,6 @@ tags:
 - kelengkeng
 - pertanian dan perkebunan
 modified_time: '2023-06-25T07:15:13.902+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6977592446973175838
 blogger_orig_url: https://www.budidayatani.com/2020/12/pacu-produksi-kelengkeng-dengan.html
 ---
 

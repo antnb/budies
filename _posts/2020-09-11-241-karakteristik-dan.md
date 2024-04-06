@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/241-karakteristik-dan
 layout: post
 title: Karakteristik Dan Keistimewaan Mangga Bengkulu Dari Tanah Raflesia
 date: '2020-09-11T18:39:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - mangga
 - pertanian dan perkebunan
 modified_time: '2023-05-18T19:34:51.559+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMb5n1jULkJ7ZVvqUBPZgwTtSqpmhBJbIK9iZ849X9r6KUxmNoI7RPGJzdcv-ulri1EOueqe8TVWMY6Ym1xAWhdcy1Wl3EOF-Dooc1yxAwY6v6KGow822XFzGein2bkl7XFr_70r_1X2DoSKLh-gcnpL648UJ90FmHI9f3MhzfUUlzVH_kFU8xT2slAw/s72-w640-c-h427/mangga%20bengkulu.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-3281659329102756115
 blogger_orig_url: https://www.budidayatani.com/2020/09/karakteristik-dan-keistimewaan-mangga.html
 ---
 

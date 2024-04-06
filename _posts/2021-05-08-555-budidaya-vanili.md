@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/555-budidaya-vanili
 layout: post
 title: 'Budidaya Vanili dalam Pot: Peluang Agrobisnis di Lahan Sempit'
 date: '2021-05-08T18:24:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - vanili
 - pertanian dan perkebunan
 modified_time: '2023-06-27T17:12:36.496+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-4209625402637916021
 blogger_orig_url: https://www.budidayatani.com/2021/05/budidaya-vanili-minim-lahan-tanam-dalam.html
 ---
 

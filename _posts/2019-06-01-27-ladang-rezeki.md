@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/27-ladang-rezeki
 layout: post
 title: Ladang Rezeki Pehobiis Ikan Maskoki Kualitas kontes
 date: '2019-06-01T05:23:00.000+07:00'
@@ -7,8 +8,6 @@ tags:
 - Hobi
 - maskoki
 modified_time: '2022-12-19T17:41:03.697+07:00'
-thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv_mWcS8JGxQMFnuPa56d_S2wBXyHjUk4Dt5BlenpdwNzoTESlPJCfNXVSnYvy7obDwNoSQwZ0zKwiAxmDSJYrtyAVaH-A9bo8MZGCnF93qPPsHrQKtk4afLdCTEI5xMuSL3S0lvR3BqbYKsCr7-edduF8XvprGoLMXHqnGphNWRt31ECuOH-AxHvd1Q/s72-c/koi-1.jpg
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-5984196290950357989
 blogger_orig_url: https://www.budidayatani.com/2019/05/ladang-rezeki-pehobiis-ikan-maskoki.html
 ---
 

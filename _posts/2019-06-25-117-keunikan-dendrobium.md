@@ -1,4 +1,5 @@
 ---
+canonical_url: https://www.budidayatani.com/117-keunikan-dendrobium
 layout: post
 title: Keunikan Dendrobium Ekapol Queen Dragon Mutasi Anggrek Berlidah Tiga
 date: '2019-06-25T16:10:00.000+07:00'
@@ -7,7 +8,6 @@ tags:
 - Tanaman Hias
 - Anggrek
 modified_time: '2022-12-14T12:29:52.831+07:00'
-blogger_id: tag:blogger.com,1999:blog-3092549465158545190.post-6249574201533098691
 blogger_orig_url: https://www.budidayatani.com/2019/06/keunikan-dendrobium-ekapol-queen-dragon.html
 ---
 
