@@ -6,7 +6,7 @@ description: Budidaya Tani, sumber informasi terkini tentang pertanian, peternak
 comments: false
 ---
 
-## Tentang Kami
+## Tentang Kami {#tentang}
 
 Selamat datang di Budidaya Tani, sumber utama Anda untuk semua informasi terkait Agribisnis. Kami berkomitmen untuk memberikan yang terbaik dalam Tutorial Agribisnis, dengan fokus pada Pertanian, Pemeliharaan, dan Pemasaran. Budidaya Tani adalah sumber informasi terkini tentang dunia peternakan, pertanian, agrobisnis, dan beternak di Indonesia.
 
@@ -23,7 +23,7 @@ Yudi Anto
 
 [![budidaya tani logo](https://blogger.googleusercontent.com/img/a/AVvXsEh8_vHcYSLbYED58eAq-Y-u_Js87bYG4RIR3a-4NTt_EKP-lTroOcZvDtYe_pbH6lOgyemW4zr5d_xeszCX4wFTGMGMri1WsenYpcGTxScCtuuBuM46TSkR6_yOBy46YgH4sTYNKDsV1GGkh2ia3xvU4PCjv6kdERcLhGdphaUW14S1qsHUyFiw8U65=s200)](https://blogger.googleusercontent.com/img/a/AVvXsEh8_vHcYSLbYED58eAq-Y-u_Js87bYG4RIR3a-4NTt_EKP-lTroOcZvDtYe_pbH6lOgyemW4zr5d_xeszCX4wFTGMGMri1WsenYpcGTxScCtuuBuM46TSkR6_yOBy46YgH4sTYNKDsV1GGkh2ia3xvU4PCjv6kdERcLhGdphaUW14S1qsHUyFiw8U65=w640-h202)
 
-### Penulis dan Ahli
+### Penulis dan Ahli {#team}
 
 Yudi Anto adalah seorang peneliti dan ahli di bidang agribisnis. Anda dapat mengetahui lebih lanjut tentangnya melalui profil LinkedIn-nya di [LinkedIn Yudi Anto](http://www.linkedin.com/in/yudi-anto-0b41621a2) dan melalui profil ORCID-nya di [ORCID Yudi Anto](https://orcid.org/0000-0001-9836-4408).
 
