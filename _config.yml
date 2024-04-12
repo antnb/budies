@@ -18,10 +18,10 @@ authors:
     display_name: Yudianto
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://linktr.ee/yudiant0
     twitter: https://twitter.com/wowthemesnet
     orcid: https://orcid.org/0000-0001-9836-4408
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Yudianto adalah seorang penulis di Budidayatani dan Mitrausahatani.com. Ia memiliki hobi di bidang pertanian dan sering menulis artikel terkait teknik budidaya tanaman dan usaha tani. Yudianto berkontribusi dengan berbagi pengetahuan dan pengalaman untuk mendukung pertanian yang berkelanjutan dan inovatif"
 # Plugins
 plugins:
   - jekyll-paginate
