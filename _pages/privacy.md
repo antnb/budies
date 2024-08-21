@@ -51,4 +51,4 @@ Iklan di situs ini mungkin dikirimkan oleh perusahaan iklan pihak ketiga yang mu
 Kami dapat memperbarui Kebijakan Privasi dari waktu ke waktu. Mengakses situs setelah pembaruan berarti Anda menyetujui kebijakan yang diperbarui.
 
 ## Menghubungi kami
-Anda dapat menghubungi kami menggunakan [formulir kontak](https://www.budidayatani.com/p/contact.html) atau di info@budidayatani.com.
+Anda dapat menghubungi kami menggunakan [formulir kontak](https://www.budidayatani.com/contact) atau di info@budidayatani.com.
