@@ -1,0 +1,9 @@
+---
+layout: none
+---
+User-Agent: *
+Disallow: /laman/*
+Disallow: /tags/*
+Disallow: /tags#*
+
+Sitemap: {{ site.url }}/sitemap.xml
