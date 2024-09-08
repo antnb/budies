@@ -185,4 +185,5 @@ Bagi Anda yang ingin mengetahui lebih lanjut mengenai program dan kegiatan PAFI,
 - **Alamat**: Jl. Raya Padang - Bukittinggi, KOTA PARIT MALINTANG, **SUMATERA BARAT**
 - **Email**: [admin.pafiparitmalintang@gmail.com](mailto:admin.pafiparitmalintang@gmail.com)
 - **Telepon**: +6285123207622
+- **Website**: [https://pafiparitmalintang.org/](https://pafiparitmalintang.org/)
 
